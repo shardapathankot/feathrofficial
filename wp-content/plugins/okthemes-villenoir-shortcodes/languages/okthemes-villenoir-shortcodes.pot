@@ -1,0 +1,1549 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Villenoir Shortcodes\n"
+"POT-Creation-Date: 2021-04-02 15:01+0300\n"
+"PO-Revision-Date: 2016-05-20 13:46+0300\n"
+"Last-Translator: Cristian Gogoneata <cristiangogoneata@gmail.com>\n"
+"Language-Team: Cristian Gogoneata <cristiangogoneata@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: functions.php:144 functions.php:175 shortcodes/gg-products-grid.php:414
+#: shortcodes/gg-products-grid.php:471
+msgid "Id"
+msgstr ""
+
+#: functions.php:144 shortcodes/gg-products-grid.php:414
+msgid "Name"
+msgstr ""
+
+#: functions.php:144 shortcodes/gg-products-grid.php:414
+msgid "Slug"
+msgstr ""
+
+#: functions.php:167 shortcodes/gg-products-grid.php:463
+msgid "Sku"
+msgstr ""
+
+#: functions.php:172 shortcodes/gg-clubbox.php:108
+#: shortcodes/gg-counter.php:129 shortcodes/gg-featured-icon.php:133
+#: shortcodes/gg-featured-image.php:117 shortcodes/gg-horizontal-list.php:130
+#: shortcodes/gg-infoboxes.php:57 shortcodes/gg-products-grid.php:230
+#: shortcodes/gg-products-grid.php:338 shortcodes/gg-products-grid.php:468
+#: shortcodes/gg-products-scroll.php:204 shortcodes/gg-timeline-wrapper.php:122
+#: shortcodes/gg-title-subtitle.php:126 shortcodes/gg-widget-contact-us.php:54
+#: shortcodes/gg-widget-instagram.php:51 shortcodes/gg-widget-mailchimp.php:51
+#: shortcodes/gg-widget-working-hours.php:55
+msgid "Title"
+msgstr ""
+
+#: init.php:57
+msgid "Reverse columns on mobile?"
+msgstr ""
+
+#: init.php:58 shortcodes/gg-featured-icon.php:156
+#: shortcodes/gg-featured-icon.php:179 shortcodes/gg-posts.php:261
+#: shortcodes/gg-posts.php:269 shortcodes/gg-posts.php:277
+#: shortcodes/gg-products-grid.php:249 shortcodes/gg-products-grid.php:257
+#: shortcodes/gg-products-grid.php:265 shortcodes/gg-products-grid.php:298
+#: shortcodes/gg-testimonials-carousel.php:63
+#: shortcodes/gg-testimonials-carousel.php:70
+#: shortcodes/gg-testimonials-carousel.php:77
+#: shortcodes/gg-title-subtitle.php:201 shortcodes/gg-title-subtitle.php:215
+#: shortcodes/gg-title-subtitle.php:236
+msgid "Yes, please"
+msgstr ""
+
+#: init.php:60
+msgid "Villenoir Options"
+msgstr ""
+
+#: shortcodes/default-arrays.php:3
+msgid "Heading 1"
+msgstr ""
+
+#: shortcodes/default-arrays.php:4
+msgid "Heading 2"
+msgstr ""
+
+#: shortcodes/default-arrays.php:5
+msgid "Heading 3"
+msgstr ""
+
+#: shortcodes/default-arrays.php:6
+msgid "Heading 4"
+msgstr ""
+
+#: shortcodes/default-arrays.php:7
+msgid "Heading 5"
+msgstr ""
+
+#: shortcodes/default-arrays.php:8
+msgid "Heading 6"
+msgstr ""
+
+#: shortcodes/default-arrays.php:13
+msgid "CSS Animation"
+msgstr ""
+
+#: shortcodes/default-arrays.php:16
+msgid "No"
+msgstr ""
+
+#: shortcodes/default-arrays.php:16
+msgid "Top to bottom"
+msgstr ""
+
+#: shortcodes/default-arrays.php:16
+msgid "Bottom to top"
+msgstr ""
+
+#: shortcodes/default-arrays.php:16
+msgid "Left to right"
+msgstr ""
+
+#: shortcodes/default-arrays.php:16
+msgid "Right to left"
+msgstr ""
+
+#: shortcodes/default-arrays.php:16
+msgid "Appear from center"
+msgstr ""
+
+#: shortcodes/default-arrays.php:17
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: shortcodes/default-arrays.php:21
+msgid "Default (Square corners)"
+msgstr ""
+
+#: shortcodes/default-arrays.php:22
+msgid "Rounded corners"
+msgstr ""
+
+#: shortcodes/default-arrays.php:23
+msgid "Circle"
+msgstr ""
+
+#: shortcodes/default-arrays.php:29
+msgid "Icon size"
+msgstr ""
+
+#: shortcodes/default-arrays.php:32 shortcodes/gg-counter.php:263
+msgid "Large"
+msgstr ""
+
+#: shortcodes/default-arrays.php:33 shortcodes/gg-counter.php:262
+#: shortcodes/gg-title-subtitle.php:154 shortcodes/gg-title-subtitle.php:172
+msgid "Normal"
+msgstr ""
+
+#: shortcodes/default-arrays.php:34 shortcodes/gg-counter.php:261
+msgid "Small"
+msgstr ""
+
+#: shortcodes/default-arrays.php:41 shortcodes/gg-clubbox.php:160
+#: shortcodes/gg-counter.php:310 shortcodes/gg-infoboxes.php:81
+#: shortcodes/gg-title-subtitle.php:143
+msgid "Align"
+msgstr ""
+
+#: shortcodes/default-arrays.php:44 shortcodes/gg-featured-image.php:112
+msgid "Left"
+msgstr ""
+
+#: shortcodes/default-arrays.php:45 shortcodes/gg-featured-image.php:112
+msgid "Right"
+msgstr ""
+
+#: shortcodes/default-arrays.php:46 shortcodes/gg-featured-image.php:112
+msgid "Center"
+msgstr ""
+
+#: shortcodes/default-arrays.php:51
+msgid "Primary color"
+msgstr ""
+
+#: shortcodes/default-arrays.php:52
+msgid "Secondary color"
+msgstr ""
+
+#: shortcodes/default-arrays.php:53
+msgid "Custom"
+msgstr ""
+
+#: shortcodes/default-arrays.php:58 shortcodes/gg-blockquote.php:80
+#: shortcodes/gg-clubbox.php:179 shortcodes/gg-horizontal-list.php:107
+#: shortcodes/gg-infoboxes.php:88 shortcodes/gg-list.php:80
+#: shortcodes/gg-products-grid.php:390
+#: shortcodes/gg-products-scroll-wrapper.php:191
+#: shortcodes/gg-team-member.php:133 shortcodes/gg-title-subtitle.php:265
+#: shortcodes/gg-video-link.php:113
+msgid "CSS box"
+msgstr ""
+
+#: shortcodes/default-arrays.php:60 shortcodes/gg-blockquote.php:82
+#: shortcodes/gg-clubbox.php:181 shortcodes/gg-horizontal-list.php:109
+#: shortcodes/gg-infoboxes.php:90 shortcodes/gg-list.php:82
+#: shortcodes/gg-products-grid.php:392
+#: shortcodes/gg-products-scroll-wrapper.php:193
+#: shortcodes/gg-team-member.php:135 shortcodes/gg-title-subtitle.php:267
+#: shortcodes/gg-video-link.php:115
+msgid "Design Options"
+msgstr ""
+
+#: shortcodes/gg-blockquote.php:48
+msgid "Blockquote"
+msgstr ""
+
+#: shortcodes/gg-blockquote.php:49
+msgid "Display a blockquote."
+msgstr ""
+
+#: shortcodes/gg-blockquote.php:54 shortcodes/gg-clubbox.php:90
+#: shortcodes/gg-contact-form.php:48 shortcodes/gg-counter.php:125
+#: shortcodes/gg-featured-icon.php:118 shortcodes/gg-featured-image.php:99
+#: shortcodes/gg-horizontal-list.php:75 shortcodes/gg-infoboxes.php:53
+#: shortcodes/gg-list.php:44 shortcodes/gg-posts.php:225
+#: shortcodes/gg-products-grid.php:226
+#: shortcodes/gg-products-scroll-wrapper.php:108
+#: shortcodes/gg-products-scroll.php:158 shortcodes/gg-team-member.php:79
+#: shortcodes/gg-testimonials-carousel.php:53
+#: shortcodes/gg-timeline-wrapper.php:81 shortcodes/gg-title-subtitle.php:122
+#: shortcodes/gg-video-link.php:77 shortcodes/gg-widget-contact-us.php:50
+#: shortcodes/gg-widget-instagram.php:47 shortcodes/gg-widget-mailchimp.php:47
+#: shortcodes/gg-widget-working-hours.php:51
+msgid "Villenoir"
+msgstr ""
+
+#: shortcodes/gg-blockquote.php:58
+msgid "Quote"
+msgstr ""
+
+#: shortcodes/gg-blockquote.php:64
+msgid "Quote color"
+msgstr ""
+
+#: shortcodes/gg-blockquote.php:69 shortcodes/gg-products-grid.php:337
+#: shortcodes/gg-products-scroll.php:203
+msgid "Author"
+msgstr ""
+
+#: shortcodes/gg-blockquote.php:75
+msgid "Author color"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:84
+msgid "Club box"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:85
+msgid "A club box module"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:95
+msgid "Top title"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:97
+msgid "E.G.: Club"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:102
+msgid "Top title color"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:111
+msgid "E.G.: Silver"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:116 shortcodes/gg-counter.php:136
+#: shortcodes/gg-horizontal-list.php:137 shortcodes/gg-infoboxes.php:64
+msgid "Title color"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:122
+msgid "Price"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:124
+msgid "E.G.: $65-$85"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:130
+msgid "Price color"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:136
+msgid "Price affix"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:138
+msgid "E.G.: /shipment"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:143
+msgid "Price affix color"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:149 shortcodes/gg-featured-icon.php:147
+#: shortcodes/gg-featured-image.php:124 shortcodes/gg-horizontal-list.php:142
+#: shortcodes/gg-products-scroll-wrapper.php:174
+#: shortcodes/gg-team-member.php:110 shortcodes/gg-timeline-wrapper.php:130
+msgid "Description"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:151 shortcodes/gg-infoboxes.php:72
+#: shortcodes/gg-team-member.php:112
+msgid "I am message box. Click edit button to change this text."
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:155 shortcodes/gg-horizontal-list.php:149
+#: shortcodes/gg-infoboxes.php:76
+msgid "Description color"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:162 shortcodes/gg-counter.php:312
+#: shortcodes/gg-infoboxes.php:83 shortcodes/gg-title-subtitle.php:145
+msgid "Align left"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:162 shortcodes/gg-counter.php:312
+#: shortcodes/gg-infoboxes.php:83 shortcodes/gg-title-subtitle.php:145
+msgid "Align right"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:162 shortcodes/gg-counter.php:312
+#: shortcodes/gg-infoboxes.php:83 shortcodes/gg-title-subtitle.php:145
+msgid "Align center"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:163 shortcodes/gg-counter.php:313
+#: shortcodes/gg-infoboxes.php:84 shortcodes/gg-title-subtitle.php:146
+msgid "Set the alignment"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:167 shortcodes/gg-featured-icon.php:140
+#: shortcodes/gg-featured-image.php:130
+msgid "URL (Link)"
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:169
+msgid ""
+"Insert the link. If used with Memberships plugin please select the "
+"corresponding club product."
+msgstr ""
+
+#: shortcodes/gg-clubbox.php:173 shortcodes/gg-featured-image.php:137
+#: shortcodes/gg-products-scroll-wrapper.php:179
+#: shortcodes/gg-timeline-wrapper.php:136
+msgid "Featured image"
+msgstr ""
+
+#: shortcodes/gg-contact-form.php:42
+msgid "Contact form"
+msgstr ""
+
+#: shortcodes/gg-contact-form.php:43
+msgid "Display a mini contact form."
+msgstr ""
+
+#: shortcodes/gg-contact-form.php:52
+msgid "Form title"
+msgstr ""
+
+#: shortcodes/gg-contact-form.php:56
+msgid "Insert widget title here"
+msgstr ""
+
+#: shortcodes/gg-contact-form.php:60 shortcodes/gg-widget-contact-us.php:79
+msgid "Email"
+msgstr ""
+
+#: shortcodes/gg-contact-form.php:63
+msgid "Insert the contact form email here."
+msgstr ""
+
+#: shortcodes/gg-contact-form.php:67
+msgid "Success message"
+msgstr ""
+
+#: shortcodes/gg-contact-form.php:70
+msgid "Insert the success message."
+msgstr ""
+
+#: shortcodes/gg-contact-form.php:74
+msgid "Error message"
+msgstr ""
+
+#: shortcodes/gg-contact-form.php:77
+msgid "Insert the error message."
+msgstr ""
+
+#: shortcodes/gg-counter.php:119
+msgid "Counter"
+msgstr ""
+
+#: shortcodes/gg-counter.php:120
+msgid "A counter from 0 to a specified number."
+msgstr ""
+
+#: shortcodes/gg-counter.php:132 shortcodes/gg-horizontal-list.php:95
+#: shortcodes/gg-horizontal-list.php:133 shortcodes/gg-timeline-wrapper.php:125
+msgid "Insert the title here"
+msgstr ""
+
+#: shortcodes/gg-counter.php:142
+msgid "Number"
+msgstr ""
+
+#: shortcodes/gg-counter.php:147
+msgid "Number color"
+msgstr ""
+
+#: shortcodes/gg-counter.php:153
+msgid "Number font size (px)"
+msgstr ""
+
+#: shortcodes/gg-counter.php:160
+msgid "Icon?"
+msgstr ""
+
+#: shortcodes/gg-counter.php:161
+msgid "Use an icon for your counter."
+msgstr ""
+
+#: shortcodes/gg-counter.php:166 shortcodes/gg-featured-icon.php:184
+msgid "Icon library"
+msgstr ""
+
+#: shortcodes/gg-counter.php:168 shortcodes/gg-featured-icon.php:186
+msgid "Font Awesome"
+msgstr ""
+
+#: shortcodes/gg-counter.php:169 shortcodes/gg-featured-icon.php:187
+msgid "Open Iconic"
+msgstr ""
+
+#: shortcodes/gg-counter.php:170 shortcodes/gg-featured-icon.php:188
+msgid "Typicons"
+msgstr ""
+
+#: shortcodes/gg-counter.php:171 shortcodes/gg-featured-icon.php:189
+msgid "Entypo"
+msgstr ""
+
+#: shortcodes/gg-counter.php:172 shortcodes/gg-featured-icon.php:190
+msgid "Linecons"
+msgstr ""
+
+#: shortcodes/gg-counter.php:175 shortcodes/gg-featured-icon.php:193
+msgid "Select icon library."
+msgstr ""
+
+#: shortcodes/gg-counter.php:180 shortcodes/gg-counter.php:195
+#: shortcodes/gg-counter.php:211 shortcodes/gg-counter.php:227
+#: shortcodes/gg-counter.php:242 shortcodes/gg-featured-icon.php:198
+#: shortcodes/gg-featured-icon.php:213 shortcodes/gg-featured-icon.php:229
+#: shortcodes/gg-featured-icon.php:245 shortcodes/gg-featured-icon.php:260
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/gg-counter.php:191 shortcodes/gg-counter.php:207
+#: shortcodes/gg-counter.php:223 shortcodes/gg-counter.php:254
+#: shortcodes/gg-featured-icon.php:209 shortcodes/gg-featured-icon.php:225
+#: shortcodes/gg-featured-icon.php:241 shortcodes/gg-featured-icon.php:272
+msgid "Select icon from library."
+msgstr ""
+
+#: shortcodes/gg-counter.php:258
+msgid "Size"
+msgstr ""
+
+#: shortcodes/gg-counter.php:264
+msgid "Extra Large"
+msgstr ""
+
+#: shortcodes/gg-counter.php:267
+msgid "Icon size."
+msgstr ""
+
+#: shortcodes/gg-counter.php:272 shortcodes/gg-video-link.php:88
+msgid "Icon color"
+msgstr ""
+
+#: shortcodes/gg-counter.php:278
+msgid "Box?"
+msgstr ""
+
+#: shortcodes/gg-counter.php:279
+msgid "Display the counter in a box"
+msgstr ""
+
+#: shortcodes/gg-counter.php:284
+msgid "Box background"
+msgstr ""
+
+#: shortcodes/gg-counter.php:286
+msgid "Choose your background color."
+msgstr ""
+
+#: shortcodes/gg-counter.php:291
+msgid "Box Padding"
+msgstr ""
+
+#: shortcodes/gg-counter.php:293 shortcodes/gg-title-subtitle.php:252
+msgid ""
+"You can use px, em, %, etc. or enter just number and it will use pixels. "
+msgstr ""
+
+#: shortcodes/gg-counter.php:298
+msgid "Refresh interval"
+msgstr ""
+
+#: shortcodes/gg-counter.php:304
+msgid "Speed"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:111
+msgid "Icon box"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:112
+msgid "Box with title, description and icon"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:123
+msgid "Style"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:125
+msgid "Style 1"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:126
+msgid "Style 2"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:127
+msgid "Style 3"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:136 shortcodes/gg-featured-image.php:120
+#: shortcodes/gg-infoboxes.php:60 shortcodes/gg-widget-contact-us.php:56
+#: shortcodes/gg-widget-mailchimp.php:53
+#: shortcodes/gg-widget-working-hours.php:57
+msgid "Insert title here"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:142 shortcodes/gg-featured-icon.php:165
+#: shortcodes/gg-featured-image.php:132
+msgid "Insert the link."
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:149 shortcodes/gg-featured-image.php:126
+msgid "Insert short description here"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:155
+msgid "Use an Read more link?"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:163
+msgid "Read more URL (Link)"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:171
+msgid "Overwrite default colors"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:173
+msgid "Set the new color."
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:178
+msgid "Use an icon?"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:276
+msgid "Custom Icon Color"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:278
+msgid "Select custom icon color."
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:283 shortcodes/gg-horizontal-list.php:101
+#: shortcodes/gg-products-grid.php:384
+#: shortcodes/gg-products-scroll-wrapper.php:117
+#: shortcodes/gg-products-scroll.php:241 shortcodes/gg-team-member.php:127
+#: shortcodes/gg-testimonials-carousel.php:91 shortcodes/gg-video-link.php:107
+msgid "Extra class name"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:285
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:290
+msgid "Css"
+msgstr ""
+
+#: shortcodes/gg-featured-icon.php:292
+msgid "Design options"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:92
+msgid "Image box"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:93
+msgid "Image box with title and description."
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:103
+msgid "Box style"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:105
+msgid "Normal (text under the image)"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:105
+msgid "Overlay (text on the image)"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:106 shortcodes/gg-featured-image.php:113
+#: shortcodes/gg-featured-image.php:148
+msgid "Choose the image size"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:110
+msgid "Box text align"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:140
+#: shortcodes/gg-products-scroll-wrapper.php:182
+#: shortcodes/gg-team-member.php:98 shortcodes/gg-timeline-wrapper.php:139
+msgid "Select image from media library."
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:145 shortcodes/gg-team-member.php:102
+msgid "Image size"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:147
+msgid "Full size"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:147
+msgid "Custom size"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:152
+msgid "Image style"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:156
+msgid "Choose the image style"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:160
+msgid "Custom size - width"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:162
+msgid "Insert the width of the image"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:167
+msgid "Custom size - height"
+msgstr ""
+
+#: shortcodes/gg-featured-image.php:169
+msgid "Insert the height of the image"
+msgstr ""
+
+#: shortcodes/gg-homepage-templates.php:12
+msgid "Homepage"
+msgstr ""
+
+#: shortcodes/gg-homepage-templates.php:51
+msgid "Homepage v2"
+msgstr ""
+
+#: shortcodes/gg-homepage-templates.php:77
+msgid "Our story"
+msgstr ""
+
+#: shortcodes/gg-homepage-templates.php:103
+msgid "Our Wines"
+msgstr ""
+
+#: shortcodes/gg-homepage-templates.php:131
+msgid "Our Wines Alt"
+msgstr ""
+
+#: shortcodes/gg-homepage-templates.php:159
+msgid "The estate"
+msgstr ""
+
+#: shortcodes/gg-homepage-templates.php:212
+msgid "Our Winemakers"
+msgstr ""
+
+#: shortcodes/gg-homepage-templates.php:238
+msgid "Awards"
+msgstr ""
+
+#: shortcodes/gg-homepage-templates.php:272
+msgid "FAQ"
+msgstr ""
+
+#: shortcodes/gg-homepage-templates.php:330
+msgid "The Restaurant"
+msgstr ""
+
+#: shortcodes/gg-homepage-templates.php:364
+msgid "Contact"
+msgstr ""
+
+#: shortcodes/gg-homepage-templates.php:382
+msgid "Club"
+msgstr ""
+
+#: shortcodes/gg-horizontal-list.php:68
+msgid "Horizontal List"
+msgstr ""
+
+#: shortcodes/gg-horizontal-list.php:74
+msgid "Container for Item"
+msgstr ""
+
+#: shortcodes/gg-horizontal-list.php:84
+msgid "Horizontal list style"
+msgstr ""
+
+#: shortcodes/gg-horizontal-list.php:87 shortcodes/gg-timeline-wrapper.php:92
+msgid "Horizontal"
+msgstr ""
+
+#: shortcodes/gg-horizontal-list.php:88
+msgid "Choose the style"
+msgstr ""
+
+#: shortcodes/gg-horizontal-list.php:92
+msgid "Module Title"
+msgstr ""
+
+#: shortcodes/gg-horizontal-list.php:103 shortcodes/gg-products-grid.php:386
+#: shortcodes/gg-products-scroll-wrapper.php:119
+#: shortcodes/gg-team-member.php:129 shortcodes/gg-testimonials-carousel.php:93
+#: shortcodes/gg-video-link.php:109
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: shortcodes/gg-horizontal-list.php:119
+msgid "List Item"
+msgstr ""
+
+#: shortcodes/gg-horizontal-list.php:121
+msgid "Horizontal list item"
+msgstr ""
+
+#: shortcodes/gg-horizontal-list.php:145 shortcodes/gg-timeline-wrapper.php:132
+msgid "Insert the description here"
+msgstr ""
+
+#: shortcodes/gg-infoboxes.php:47
+msgid "Infobox"
+msgstr ""
+
+#: shortcodes/gg-infoboxes.php:48
+msgid "A infobox box module"
+msgstr ""
+
+#: shortcodes/gg-infoboxes.php:70
+msgid "Message text"
+msgstr ""
+
+#: shortcodes/gg-list.php:38
+msgid "List"
+msgstr ""
+
+#: shortcodes/gg-list.php:39
+msgid "List element"
+msgstr ""
+
+#: shortcodes/gg-list.php:48
+msgid "List style"
+msgstr ""
+
+#: shortcodes/gg-list.php:52
+msgid "Remove icn"
+msgstr ""
+
+#: shortcodes/gg-list.php:53
+msgid "Check icn"
+msgstr ""
+
+#: shortcodes/gg-list.php:54
+msgid "Circle icn"
+msgstr ""
+
+#: shortcodes/gg-list.php:55
+msgid "Angle icn"
+msgstr ""
+
+#: shortcodes/gg-list.php:56
+msgid "Double angle icn"
+msgstr ""
+
+#: shortcodes/gg-list.php:57
+msgid "Caret"
+msgstr ""
+
+#: shortcodes/gg-list.php:58
+msgid "Heart"
+msgstr ""
+
+#: shortcodes/gg-list.php:59
+msgid "Horizontal line"
+msgstr ""
+
+#: shortcodes/gg-list.php:61
+msgid "Select list icon"
+msgstr ""
+
+#: shortcodes/gg-list.php:66
+msgid "Show list item border?"
+msgstr ""
+
+#: shortcodes/gg-list.php:68
+msgid "If checked, the list item will have a border"
+msgstr ""
+
+#: shortcodes/gg-list.php:69 shortcodes/gg-products-grid.php:291
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/gg-list.php:74
+msgid "Text"
+msgstr ""
+
+#: shortcodes/gg-posts.php:110 shortcodes/gg-products-grid.php:108
+msgid "All"
+msgstr ""
+
+#: shortcodes/gg-posts.php:219
+msgid "Posts grid"
+msgstr ""
+
+#: shortcodes/gg-posts.php:220
+msgid "Display grid posts."
+msgstr ""
+
+#: shortcodes/gg-posts.php:229 shortcodes/gg-products-grid.php:237
+msgid "Layout mode"
+msgstr ""
+
+#: shortcodes/gg-posts.php:232 shortcodes/gg-products-grid.php:240
+msgid "Grid Fit rows"
+msgstr ""
+
+#: shortcodes/gg-posts.php:233 shortcodes/gg-products-grid.php:241
+msgid "Grid Masonry"
+msgstr ""
+
+#: shortcodes/gg-posts.php:234 shortcodes/gg-products-grid.php:242
+msgid "Carousel"
+msgstr ""
+
+#: shortcodes/gg-posts.php:236 shortcodes/gg-products-grid.php:244
+msgid "Layout template."
+msgstr ""
+
+#: shortcodes/gg-posts.php:240
+msgid "Layout style"
+msgstr ""
+
+#: shortcodes/gg-posts.php:243
+msgid "Default (with image)"
+msgstr ""
+
+#: shortcodes/gg-posts.php:244
+msgid "Default (without image)"
+msgstr ""
+
+#: shortcodes/gg-posts.php:245
+msgid "Overlay"
+msgstr ""
+
+#: shortcodes/gg-posts.php:247
+msgid "Post style."
+msgstr ""
+
+#: shortcodes/gg-posts.php:252
+msgid "Slides per view"
+msgstr ""
+
+#: shortcodes/gg-posts.php:255
+msgid ""
+"Set numbers of slides you want to display at the same time on slider's "
+"container for carousel mode."
+msgstr ""
+
+#: shortcodes/gg-posts.php:260 shortcodes/gg-products-grid.php:248
+#: shortcodes/gg-testimonials-carousel.php:62
+msgid "Use navigation?"
+msgstr ""
+
+#: shortcodes/gg-posts.php:263 shortcodes/gg-products-grid.php:251
+#: shortcodes/gg-testimonials-carousel.php:65
+msgid "Show the carousel next/prev arrows"
+msgstr ""
+
+#: shortcodes/gg-posts.php:268 shortcodes/gg-products-grid.php:256
+#: shortcodes/gg-testimonials-carousel.php:69
+msgid "Use pagination?"
+msgstr ""
+
+#: shortcodes/gg-posts.php:271 shortcodes/gg-products-grid.php:259
+#: shortcodes/gg-testimonials-carousel.php:72
+msgid "Show the carousel dots navigation"
+msgstr ""
+
+#: shortcodes/gg-posts.php:276 shortcodes/gg-products-grid.php:264
+#: shortcodes/gg-testimonials-carousel.php:76
+msgid "Use autoplay?"
+msgstr ""
+
+#: shortcodes/gg-posts.php:279 shortcodes/gg-products-grid.php:267
+#: shortcodes/gg-testimonials-carousel.php:79
+msgid "Make the carousel autoplay"
+msgstr ""
+
+#: shortcodes/gg-posts.php:284 shortcodes/gg-products-grid.php:272
+#: shortcodes/gg-testimonials-carousel.php:83
+msgid "Columns count"
+msgstr ""
+
+#: shortcodes/gg-posts.php:288 shortcodes/gg-products-grid.php:276
+#: shortcodes/gg-testimonials-carousel.php:87
+msgid "Select columns count."
+msgstr ""
+
+#: shortcodes/gg-posts.php:293 shortcodes/gg-products-grid.php:280
+#: shortcodes/gg-products-scroll.php:164
+msgid "Number of posts"
+msgstr ""
+
+#: shortcodes/gg-posts.php:296
+msgid "Insert the number of posts to display. Default: 9"
+msgstr ""
+
+#: shortcodes/gg-posts.php:300
+msgid "Display category filter?"
+msgstr ""
+
+#: shortcodes/gg-posts.php:301
+msgid "Display category filter"
+msgstr ""
+
+#: shortcodes/gg-posts.php:308
+msgid "Posts grid terms"
+msgstr ""
+
+#: shortcodes/gg-posts.php:310
+msgid ""
+"Select posts_grid terms to display. By default it displays posts from all "
+"terms."
+msgstr ""
+
+#: shortcodes/gg-posts.php:315 shortcodes/gg-products-grid.php:318
+#: shortcodes/gg-products-scroll.php:184
+msgid "Post IDs"
+msgstr ""
+
+#: shortcodes/gg-posts.php:317 shortcodes/gg-products-grid.php:320
+#: shortcodes/gg-products-scroll.php:186
+msgid ""
+"Fill this field with posts IDs separated by commas (,) to retrieve only them."
+msgstr ""
+
+#: shortcodes/gg-posts.php:321 shortcodes/gg-products-grid.php:325
+#: shortcodes/gg-products-scroll.php:191
+msgid "Exclude Post IDs"
+msgstr ""
+
+#: shortcodes/gg-posts.php:323 shortcodes/gg-products-grid.php:327
+#: shortcodes/gg-products-scroll.php:193
+msgid ""
+"Fill this field with posts IDs separated by commas (,) to exclude them from "
+"query."
+msgstr ""
+
+#: shortcodes/gg-posts.php:327 shortcodes/gg-products-grid.php:332
+#: shortcodes/gg-products-scroll.php:198
+msgid "Order by"
+msgstr ""
+
+#: shortcodes/gg-posts.php:337 shortcodes/gg-products-grid.php:348
+#: shortcodes/gg-products-scroll.php:214
+msgid "Select how to sort retrieved posts."
+msgstr ""
+
+#: shortcodes/gg-posts.php:341
+msgid "Order way"
+msgstr ""
+
+#: shortcodes/gg-posts.php:347 shortcodes/gg-products-grid.php:370
+#: shortcodes/gg-products-scroll.php:236
+msgid "Designates the ascending or descending order."
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:220
+msgid "Products filter"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:221
+msgid "Products with filter and load more button."
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:233
+msgid "Insert the title"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:283 shortcodes/gg-products-scroll.php:167
+msgid ""
+"Insert the number of posts to display. Leave empty or insert -1 to display "
+"all. Default: -1"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:289
+msgid "Show filter"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:292
+msgid "Append filter to grid."
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:297
+msgid "Use load more pagination?"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:300
+msgid "Use load more button pagination"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:306 shortcodes/gg-products-scroll.php:172
+msgid "Categories"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:312 shortcodes/gg-products-grid.php:321
+#: shortcodes/gg-products-grid.php:328 shortcodes/gg-products-grid.php:349
+#: shortcodes/gg-products-grid.php:356 shortcodes/gg-products-grid.php:371
+#: shortcodes/gg-products-scroll.php:178 shortcodes/gg-products-scroll.php:187
+#: shortcodes/gg-products-scroll.php:194 shortcodes/gg-products-scroll.php:215
+#: shortcodes/gg-products-scroll.php:222 shortcodes/gg-products-scroll.php:237
+msgid "Data filter"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:313 shortcodes/gg-products-scroll.php:179
+msgid "List of product categories"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:335 shortcodes/gg-products-scroll.php:201
+#: shortcodes/gg-timeline-wrapper.php:115
+msgid "Date"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:336 shortcodes/gg-products-scroll.php:202
+msgid "Order by post ID"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:339 shortcodes/gg-products-scroll.php:205
+msgid "Last modified date"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:340 shortcodes/gg-products-scroll.php:206
+msgid "Post/page parent ID"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:341 shortcodes/gg-products-scroll.php:207
+msgid "Number of comments"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:342 shortcodes/gg-products-scroll.php:208
+msgid "Menu order/Page Order"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:343 shortcodes/gg-products-scroll.php:209
+msgid "Meta value"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:344 shortcodes/gg-products-scroll.php:210
+msgid "Meta value number"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:346 shortcodes/gg-products-scroll.php:212
+msgid "Random order"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:353 shortcodes/gg-products-scroll.php:219
+msgid "Meta key"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:355 shortcodes/gg-products-scroll.php:221
+msgid "Input meta key for grid ordering."
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:364 shortcodes/gg-products-scroll.php:230
+msgid "Sorting"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:377 shortcodes/gg-team-member.php:121
+msgid "Element ID"
+msgstr ""
+
+#: shortcodes/gg-products-grid.php:379 shortcodes/gg-team-member.php:123
+#, php-format
+msgid ""
+"Enter element ID (Note: make sure it is unique and valid according to <a "
+"href=\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+
+#: shortcodes/gg-products-scroll-wrapper.php:101
+msgid "Products scroll gallery"
+msgstr ""
+
+#: shortcodes/gg-products-scroll-wrapper.php:107
+msgid "Products scroll gallery (horizontal)"
+msgstr ""
+
+#: shortcodes/gg-products-scroll-wrapper.php:138
+msgid "Products hero"
+msgstr ""
+
+#: shortcodes/gg-products-scroll-wrapper.php:140
+msgid "Products hero item"
+msgstr ""
+
+#: shortcodes/gg-products-scroll-wrapper.php:149
+#: shortcodes/gg-title-subtitle.php:220
+msgid "Toptitle"
+msgstr ""
+
+#: shortcodes/gg-products-scroll-wrapper.php:155
+msgid "Title (line #1)"
+msgstr ""
+
+#: shortcodes/gg-products-scroll-wrapper.php:161
+msgid "Title (line #2)"
+msgstr ""
+
+#: shortcodes/gg-products-scroll-wrapper.php:167
+msgid "Title (line #3)"
+msgstr ""
+
+#: shortcodes/gg-products-scroll-wrapper.php:186
+msgid "Button"
+msgstr ""
+
+#: shortcodes/gg-products-scroll.php:152
+msgid "Products scroll"
+msgstr ""
+
+#: shortcodes/gg-products-scroll.php:153
+msgid "List of products with horizontal scroll"
+msgstr ""
+
+#: shortcodes/gg-products-scroll.php:243
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file. For example "
+"add \"rem_filter_border_top\" to remove the filter border-top style."
+msgstr ""
+
+#: shortcodes/gg-team-member.php:72
+msgid "Team member"
+msgstr ""
+
+#: shortcodes/gg-team-member.php:73
+msgid "Add a team member"
+msgstr ""
+
+#: shortcodes/gg-team-member.php:83
+msgid "Member name"
+msgstr ""
+
+#: shortcodes/gg-team-member.php:89
+msgid "Member position"
+msgstr ""
+
+#: shortcodes/gg-team-member.php:95
+msgid "Member image"
+msgstr ""
+
+#: shortcodes/gg-team-member.php:105
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: shortcodes/gg-testimonials-carousel.php:46
+#: shortcodes/gg-testimonials-carousel.php:52
+msgid "Testimonials carousel"
+msgstr ""
+
+#: shortcodes/gg-timeline-wrapper.php:74
+msgid "Timeline"
+msgstr ""
+
+#: shortcodes/gg-timeline-wrapper.php:80
+msgid "Timeline container"
+msgstr ""
+
+#: shortcodes/gg-timeline-wrapper.php:90
+msgid "Timeline style"
+msgstr ""
+
+#: shortcodes/gg-timeline-wrapper.php:92
+msgid "Vertical"
+msgstr ""
+
+#: shortcodes/gg-timeline-wrapper.php:93
+msgid "Choose the timeline style"
+msgstr ""
+
+#: shortcodes/gg-timeline-wrapper.php:104
+msgid "Timeline Items"
+msgstr ""
+
+#: shortcodes/gg-timeline-wrapper.php:106
+msgid "Insert an item"
+msgstr ""
+
+#: shortcodes/gg-timeline-wrapper.php:118
+msgid "Insert the date/year here"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:115
+msgid "Title and Subtitle"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:116
+msgid "Display a title and a subtitle."
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:133
+msgid "Title type"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:136
+msgid "Choose the heading type"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:152
+msgid "Title font style"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:154
+msgid "Bold"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:154
+msgid "Italic"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:155
+msgid "Set the font style"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:161
+msgid "Title font transform"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:163 shortcodes/gg-title-subtitle.php:182
+msgid "None"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:163
+msgid "Uppercase"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:163
+msgid "Lowercase"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:163
+msgid "Capitalize"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:164
+msgid "Set the font transform"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:170
+msgid "Title white space"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:172
+msgid "Nowrap"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:172
+msgid "Pre"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:173
+msgid "Set the font white space"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:179
+msgid "Title special style"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:183
+msgid "Line over text"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:186
+msgid "Choose a special title style"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:192
+msgid "Title font color"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:194
+msgid "Select the title font color"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:200
+msgid "Custom font size for title?"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:207
+msgid "Insert the title font size"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:209
+msgid "Insert the custom font size in px."
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:214
+msgid "Add toptitle?"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:227
+msgid "Subtitle font color"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:229
+msgid "Select the subtitle font color"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:235
+msgid "Add underline?"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:241
+msgid "Underline color"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:243
+msgid "Select the underline color"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:250
+msgid "Padding"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:257
+msgid "Margin bottom"
+msgstr ""
+
+#: shortcodes/gg-title-subtitle.php:259
+msgid "Insert the margin bottom in pixels. E.g.: 20"
+msgstr ""
+
+#: shortcodes/gg-video-link.php:70 shortcodes/gg-video-link.php:81
+msgid "Video link"
+msgstr ""
+
+#: shortcodes/gg-video-link.php:71
+msgid "Button link with video"
+msgstr ""
+
+#: shortcodes/gg-video-link.php:96
+msgid "Icon custom color"
+msgstr ""
+
+#: shortcodes/gg-widget-contact-us.php:44
+msgid "Widget: Contact us"
+msgstr ""
+
+#: shortcodes/gg-widget-contact-us.php:45
+msgid "Display address, phone, fax, email"
+msgstr ""
+
+#: shortcodes/gg-widget-contact-us.php:60
+msgid "Address"
+msgstr ""
+
+#: shortcodes/gg-widget-contact-us.php:63
+msgid "Insert address here"
+msgstr ""
+
+#: shortcodes/gg-widget-contact-us.php:67
+msgid "Phone"
+msgstr ""
+
+#: shortcodes/gg-widget-contact-us.php:69
+msgid "Insert phone here"
+msgstr ""
+
+#: shortcodes/gg-widget-contact-us.php:73
+msgid "Fax"
+msgstr ""
+
+#: shortcodes/gg-widget-contact-us.php:75
+msgid "Insert fax here"
+msgstr ""
+
+#: shortcodes/gg-widget-contact-us.php:81
+msgid "Insert email here"
+msgstr ""
+
+#: shortcodes/gg-widget-contact-us.php:85 shortcodes/gg-widget-mailchimp.php:57
+#: shortcodes/gg-widget-working-hours.php:86
+msgid "Extra class"
+msgstr ""
+
+#: shortcodes/gg-widget-contact-us.php:87 shortcodes/gg-widget-mailchimp.php:59
+#: shortcodes/gg-widget-working-hours.php:88
+msgid ""
+"Insert an extra class to style the widget differently. This widget has "
+"already a class styled for dark background: contact_widget_dark "
+msgstr ""
+
+#: shortcodes/gg-widget-instagram.php:41
+msgid "Widget: Instagram"
+msgstr ""
+
+#: shortcodes/gg-widget-instagram.php:42
+msgid "Display Instagram posts."
+msgstr ""
+
+#: shortcodes/gg-widget-instagram.php:56
+msgid "Link"
+msgstr ""
+
+#: shortcodes/gg-widget-instagram.php:58
+msgid "Insert your link title here. E.G. Follow us"
+msgstr ""
+
+#: shortcodes/gg-widget-instagram.php:62
+msgid "Number of posts to display"
+msgstr ""
+
+#: shortcodes/gg-widget-instagram.php:64
+msgid "Default: 6 posts"
+msgstr ""
+
+#: shortcodes/gg-widget-instagram.php:68
+msgid "Number of followers"
+msgstr ""
+
+#: shortcodes/gg-widget-instagram.php:70
+msgid "Insert number of followers.E.g. 24k"
+msgstr ""
+
+#: shortcodes/gg-widget-mailchimp.php:41
+msgid "Widget: MailChimp"
+msgstr ""
+
+#: shortcodes/gg-widget-mailchimp.php:42
+msgid "Display a MailChimp newsletter form"
+msgstr ""
+
+#: shortcodes/gg-widget-working-hours.php:45
+msgid "Widget: Working Hours"
+msgstr ""
+
+#: shortcodes/gg-widget-working-hours.php:46
+msgid "Display the working hours"
+msgstr ""
+
+#: shortcodes/gg-widget-working-hours.php:61
+msgid "Monday - Friday"
+msgstr ""
+
+#: shortcodes/gg-widget-working-hours.php:64
+msgid "Insert the hours for monday to friday"
+msgstr ""
+
+#: shortcodes/gg-widget-working-hours.php:68
+msgid "Saturday"
+msgstr ""
+
+#: shortcodes/gg-widget-working-hours.php:70
+msgid "Insert the hours for Saturday"
+msgstr ""
+
+#: shortcodes/gg-widget-working-hours.php:74
+msgid "Sunday"
+msgstr ""
+
+#: shortcodes/gg-widget-working-hours.php:76
+msgid "Insert the hours for Sunday"
+msgstr ""
+
+#: shortcodes/gg-widget-working-hours.php:80
+msgid "Other details"
+msgstr ""
+
+#: shortcodes/gg-widget-working-hours.php:82
+msgid "Insert other details here"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "OKThemes Villenoir Shortcodes"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.okthemes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Custom shortcodes for Villenoir theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Gogoneata Cristian"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://okthemes.com/"
+msgstr ""

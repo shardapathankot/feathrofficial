@@ -1,0 +1,57 @@
+
+---Downloaded files---
+The import files for: Villenoir Dark Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/feather
+Data file = C:\wamp64\www\feather/wp-content/themes/villenoir/admin/importer/demo-files/dark/content.xml
+Widget file = C:\wamp64\www\feather/wp-content/themes/villenoir/admin/importer/demo-files/dark/widgets.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "homepage_v2_compressed" (Media)
+[ERROR] Failed to import "cd-icon-location" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Page Sidebar : 
+
+Product Categories - Product categories - Imported
+Products list - Products - Imported
+
+Posts Sidebar : 
+
+Recent Posts - Recent posts - Imported
+Categories - Categories - Imported
+
+Shop Sidebar : 
+
+Product Tag Cloud - Product tags - Imported
+Filter Products by Attribute - Filter by - Imported
+Product Categories - Product categories - Imported
+Filter Products by Price - Filter by price - Imported
+Events List - Upcoming Events - Imported
+
+Product Sidebar : 
+
+Categories - test for product - Imported
+
+
+
+---ocdi/after_import---
+

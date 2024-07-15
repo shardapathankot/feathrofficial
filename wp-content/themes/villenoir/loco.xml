@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle name="Villenoir">
+  <domain name="villenoir">
+    <project name="Villenoir" slug="villenoir">
+      <source>
+        <directory>.</directory>
+      </source>
+      <target>
+        <directory>lang</directory>
+      </target>
+    </project>
+  </domain>
+</bundle>

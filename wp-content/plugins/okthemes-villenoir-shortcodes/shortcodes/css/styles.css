@@ -1,0 +1,20 @@
+/*OK VC icon*/
+.gg_vc_icon.vc_element-icon {
+    background-image: url(../images/gg_vc_icon.png);
+}
+
+#poststuff .wpb_title_subtitle  h2 {
+	font-size: 23px;
+	line-height: 29px;
+	margin: 0;
+	padding: 9px 15px 4px 0;
+}
+
+.wpb_title_subtitle  h2,
+.wpb_title_subtitle  h3,
+.wpb_title_subtitle  h4,
+.wpb_title_subtitle  h5 {
+	margin: 0;
+	padding: 9px 15px 4px 0;
+	font-weight: normal;
+}

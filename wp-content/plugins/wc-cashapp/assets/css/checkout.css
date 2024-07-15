@@ -1,0 +1,175 @@
+.align-items-center {
+  align-items: center!important;
+}
+
+.justify-content-between {
+  justify-content: space-between!important;
+}
+
+.d-flex {
+  display: flex!important;
+}
+
+.flex-fill {
+  flex: 1 1 auto!important;
+}
+
+.ms-1 {
+  margin-left: .25rem!important;
+}
+
+.copytxt {
+  border: none;
+  font-weight: bolder!important;
+}
+
+#wc_cashapp_qrcode img {
+    height: 150px;
+    width: 150px;
+}
+
+.payment_method_cashapp .logo-qr {
+	display: inline-block !important;
+	float: none !important;
+	height: 100px !important;
+	width: 100px !important;
+	max-height: 100px !important;
+	max-width: 100px !important;
+	min-height: 100px !important;
+	min-width: 100px !important;
+}
+
+.payment_method_cashapp a,
+.payment_method_cashapp a:before,
+.payment_method_cashapp a:after,
+.payment_method_cashapp a:hover,
+.payment_method_cashapp a:active, .paym_link:hover {
+	content: none;
+	text-decoration: none!important;
+}
+
+.payment_method_cash-app-pay .tutorial {
+	width: 80% !important;;
+	height: auto !important;;
+}
+
+.payment_method_cashapp .my-2 {
+  margin-top: .5rem!important;
+  margin-bottom: .5rem!important;
+}
+
+.payment_method_cashapp .row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-bottom: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-.5 * var(--bs-gutter-x));
+  margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+
+.payment_method_cashapp .align-items-center {
+  align-items: center!important;
+}
+
+.payment_method_cashapp .row > * {
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * .5);
+  padding-left: calc(var(--bs-gutter-x) * .5);
+  margin-top: var(--bs-gutter-y);
+}
+
+.payment_method_cashapp .col-half, .payment_method_cashapp .col-full {
+  display: block;
+  width: 100%;
+}
+@media (min-width:768px) {
+  .payment_method_cashapp .col-half {
+    flex: 0 0 auto;
+    width: 45%;
+  }
+}
+
+.payment_method_cashapp .flex-column {
+  flex-direction: column!important;
+}
+
+.payment_method_cashapp .d-flex {
+  display: flex!important;
+}
+
+.payment_method_cashapp .flex-wrap {
+  flex-wrap: wrap!important;
+}
+
+.payment_method_cashapp .justify-content-center {
+  justify-content: center!important;
+}
+
+.payment_method_cashapp .mb-1 {
+  margin-bottom: .25rem!important;
+}
+
+.payment_method_cashapp img, .payment_method_cashapp svg {
+  vertical-align: middle;
+}
+
+.payment_method_cashapp .text-center {
+  text-align: center!important;
+}
+
+.payment_method_cashapp .btn-dark {
+  color: #fff;
+  background-color: #212529;
+  border-color: #212529;
+}
+
+.payment_method_cashapp .form-control {
+  display: block;
+  width: 100%;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background-clip: padding-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: .25rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.payment_method_cashapp button, .payment_method_cashapp input, .payment_method_cashapp optgroup, .payment_method_cashapp select, .payment_method_cashapp textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.payment_method_cashapp .me-2 {
+  margin-right: .5rem!important;
+}
+
+.payment_method_cashapp .form-label {
+  margin-bottom: .5rem;
+}
+
+.payment_method_cashapp .fw-bold {
+  font-weight: 700!important;
+}
+
+.payment_method_cashapp .position-relative {
+  position: relative!important;
+}
+
+.payment_method_cashapp .w-250 {
+  max-width: 250px;
+}
+
+.payment_method_cashapp .my-3 {
+  margin-top: 1rem!important;
+  margin-bottom: 1rem!important;
+}

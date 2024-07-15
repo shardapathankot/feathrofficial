@@ -1,0 +1,7 @@
+    <ul class="sub-menu {{ css_classes }}">
+        {% for currency in currencies %}
+            <li class="menu-item {% if( currency == selected_currency) %} wcml-cs-active-currency {% endif %}" >
+                <a rel="{{ currency }}">{{ currency }}</a>
+            </li>
+        {% endfor %}
+    </ul>

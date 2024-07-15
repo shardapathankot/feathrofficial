@@ -1,0 +1,4872 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Villenoir\n"
+"POT-Creation-Date: 2017-01-24 12:57+0200\n"
+"PO-Revision-Date: 2017-01-24 12:57+0200\n"
+"Last-Translator: Peter Hartung <peter@hartung.ws>\n"
+"Language-Team: Cristian Gogoneata <cristiangogoneata@gmail.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:29
+msgid "Go to homepage"
+msgstr "Geh zur Startseite"
+
+#: admin/importer/importer/okthemes-importer.php:99
+#: admin/importer/importer/okthemes-importer.php:125
+msgid "Import Demo Data"
+msgstr "Vollständige Demo Daten importieren"
+
+#: admin/importer/importer/okthemes-importer.php:101
+msgid ""
+"Importing demo data (post, pages, images, theme settings, ...) is the "
+"easiest way to setup your theme. It will\n"
+"            allow you to quickly edit everything instead of creating content "
+"from scratch. When you import the data following things will happen:"
+msgstr ""
+"Importieren von Demo-Content (Post, Seiten, Bilder , Design-"
+"Einstellungen , ...) ist der einfachste Weg, um Ihr Thema zu gründen . Es "
+"ermöglicht Ihnen, schnell alles zu bearbeiten , anstatt Inhalte von Grund "
+"auf neu erstellen."
+
+#: admin/importer/importer/okthemes-importer.php:105
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any other "
+"data will be deleted or modified."
+msgstr ""
+"Keine vorhandenen Beiträge, Seiten, Kategorien, Bilder, benutzerdefinierte "
+"Post-Typen oder andere Daten werden gelöscht oder verändert."
+
+#: admin/importer/importer/okthemes-importer.php:106
+msgid "No WordPress settings will be modified."
+msgstr "Es werden keine Wordpress Einstellungen verändert."
+
+#: admin/importer/importer/okthemes-importer.php:107
+msgid "Posts, pages, some images, some widgets and menus will get imported."
+msgstr ""
+"Beiträge, Seiten, einige Bilder, einige Widgets und Menüs werden importiert."
+
+#: admin/importer/importer/okthemes-importer.php:108
+msgid ""
+"Images will be downloaded from our server, these images are copyrighted and "
+"are for demo use only."
+msgstr ""
+"Die Bilder welche von unserem Server heruntergeladen werden, sind "
+"urheberrechtlich geschützt und dienen nur zu Demo Gebrauch."
+
+#: admin/importer/importer/okthemes-importer.php:109
+msgid ""
+"Please click import only once and wait, it can take a couple of minutes."
+msgstr ""
+"Bitte nur einmal auf \\\"Importieren\\\" klicken. Dies kann einige Minuten "
+"dauern."
+
+#: admin/importer/importer/okthemes-importer.php:115
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+"Bevor Sie beginnen, stellen Sie sicher, dass alle benötigten Plugins "
+"aktiviert wurden."
+
+#: admin/importer/importer/okthemes-importer.php:175
+msgid "Customizer Import"
+msgstr "Customizer Import"
+
+#: admin/importer/importer/okthemes-importer.php:195
+msgid "All options were restored successfully!"
+msgstr "Alle Optionen wurden erfolgreich wiederhergestellt!"
+
+#: admin/importer/importer/okthemes-importer.php:197
+msgid "Invalid file or file size too big."
+msgstr "Ungültige Datei oder Dateigröße zu groß."
+
+#: admin/importer/importer/okthemes-importer.php:204
+msgid ""
+"If you have settings in a backup file (json) on your computer, the Import "
+"system can import it into this site. To get started, upload your backup file "
+"using the form below."
+msgstr ""
+"Wenn Sie Einstellungen in einer Sicherungsdatei (Json) auf Ihrem Computer "
+"haben, können sie das Import-System in diese Site importieren. Um "
+"loszulegen, laden Sie Ihre backup-Datei mit dem Formular unten."
+
+#: admin/importer/importer/okthemes-importer.php:205
+msgid "Choose a file (json) from your computer:"
+msgstr "Wählen Sie eine Datei auf Ihrem Computer aus:"
+
+#: admin/importer/importer/okthemes-importer.php:226
+msgid "Customizer Export"
+msgstr "Customizer Export"
+
+#: admin/importer/importer/okthemes-importer.php:229
+msgid ""
+"When you click the button below, the Export system will create a backup file "
+"(json) for you to save to your computer."
+msgstr ""
+"Wenn Sie auf den Button unten klicken, erstellt die Export-System eine "
+"backup-Datei (Json) für Sie auf Ihrem Computer speichern."
+
+#: admin/importer/importer/okthemes-importer.php:230
+msgid ""
+"This text file can be used to restore your settings or to easily setup "
+"another website with the same theme settings."
+msgstr ""
+"Diese Textdatei kann für die Wiederherstellung deiner Einstellungen auf \\“%s"
+"\\“ verwendet werden oder um eine andere Website mit den gleichen "
+"Einstellungen zu versorgen."
+
+#: admin/importer/importer/okthemes-importer.php:231
+msgid ""
+"Please note that this export manager backs up only your theme settings and "
+"not your content. To backup your content, please use the WordPress Export "
+"Tool."
+msgstr ""
+"Bitte beachten Sie, dass nur Ihre Design-Einstellungen und nicht Ihre "
+"Inhalte dieser Exportmanager sichert. Um Ihre Inhalte zu sichern, verwenden "
+"Sie bitte den WordPress-Export-Tool."
+
+#: admin/importer/importer/okthemes-importer.php:386
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+"Die Importdatei der Theme-Einstellungen konnte nicht gefunden werden. Bitte "
+"versuchen Sie es erneut."
+
+#: admin/importer/importer/okthemes-importer.php:401
+msgid ""
+"Theme options import data could not be read. Please try a different file."
+msgstr ""
+"Konfiguration konnte nicht gelesen werden. Bitte versuche es mit einer "
+"anderen Datei."
+
+#: admin/importer/importer/okthemes-importer.php:468
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+"Widget Import-Datei konnte nicht gefunden werden. Bitte versuchen Sie es "
+"erneut."
+
+#: admin/importer/importer/okthemes-importer.php:504
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+"Widget Import-Datei konnte nicht gefunden werden. Bitte versuchen Sie es mit "
+"einer anderen Datei."
+
+#: admin/importer/importer/okthemes-importer.php:545
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr "Sidebar im Theme nicht vorhanden („Inaktiv“ wird verwendet)"
+
+#: admin/importer/importer/okthemes-importer.php:567
+msgid "Site does not support widget"
+msgstr "Diese Seite unterstützt keine Widgets"
+
+#: admin/importer/importer/okthemes-importer.php:590
+msgid "Widget already exists"
+msgstr "Das Widget existiert bereits."
+
+#: admin/importer/importer/okthemes-importer.php:639
+msgid "Imported"
+msgstr "Importiert"
+
+#: admin/importer/importer/okthemes-importer.php:642
+msgid "Imported to Inactive"
+msgstr "Importiert nach Inaktiv"
+
+#: admin/importer/importer/okthemes-importer.php:650
+msgid "No Title"
+msgstr "Kein Titel"
+
+#: admin/importer/importer/parsers.php:42
+#: admin/importer/importer/parsers.php:77
+#: admin/importer/importer/parsers.php:85
+msgid "There was an error when reading this WXR file"
+msgstr "Es gab leider einen Fehler beim Lesen dieser WXR Datei"
+
+#: admin/importer/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Details werden oben angezeigt. Der Importer wird es jetzt noch einmal mit "
+"einem anderen Parser versuchen…"
+
+#: admin/importer/importer/parsers.php:89
+#: admin/importer/importer/parsers.php:94
+#: admin/importer/importer/parsers.php:288
+#: admin/importer/importer/parsers.php:482
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Dies scheint keine WXR Datei zu sein. (Fehlende/ungültige WXR-"
+"Versionsnummer.)"
+
+#: admin/importer/importer/wordpress-importer.php:132
+#: admin/importer/importer/wordpress-importer.php:141
+#: admin/importer/importer/wordpress-importer.php:192
+#: admin/importer/importer/wordpress-importer.php:196
+#: admin/importer/importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr "Entschuldigung, es ist ein Fehler aufgetreten"
+
+#: admin/importer/importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr "Die Datei existiert nicht. Bitte versuche es erneut."
+
+#: admin/importer/importer/wordpress-importer.php:176
+msgid "All done."
+msgstr "Alles erledigt."
+
+#: admin/importer/importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr "Viel Spaß!"
+
+#: admin/importer/importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+"Denke daran die Passwörter und Rollen der importierten Benutzer zu "
+"aktualisieren."
+
+#: admin/importer/importer/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Die Export-Datei wurde unter <code>%s</code> nicht gefunden. Es ist "
+"wahrscheinlich, dass es sich um ein Berechtigungsproblem handelt."
+
+#: admin/importer/importer/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Diese WXR-Datei (Version %s) wird von der Importer-Version nicht "
+"unterstützt. Bitte eine Aktualisierung durchführen."
+
+#: admin/importer/importer/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Fehler beim Importieren des Autors %s. Die Beiträge werden daher dem "
+"derzeitigen User zugeordnet."
+
+#: admin/importer/importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr "Autoren zuweisen"
+
+#: admin/importer/importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"Um es Dir einfacher zu machen, importieren den Inhalt mit den Rechten eines "
+"bereits existierenden Users. Zum Beispiel als Admin mit folgendem Code "
+"<code>admin</code>."
+
+#: admin/importer/importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Bei der Einrichtung eines neuen WordPress Benutzers wird ein zufälliges "
+"Passwort generiert und die neue Benutzerrolle von &#8217;s wird als %s "
+"angelegt. Die neuen Benutzerdetails von &#8217;s sollten anschließend "
+"manuell geändert werden."
+
+#: admin/importer/importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr "Anhang importieren"
+
+#: admin/importer/importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr "Dateianhänge herunterladen und importieren"
+
+#: admin/importer/importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr "ABSENDEN"
+
+#: admin/importer/importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr "Autor importieren:"
+
+#: admin/importer/importer/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr "oder erstelle einen neuen Benutzer mit Login Namen:"
+
+#: admin/importer/importer/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr "als ein neuer Benutzer:"
+
+#: admin/importer/importer/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr "Beiträge einem existierenden Benutzer zuweisen:"
+
+#: admin/importer/importer/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr "oder die Beiträge einem existierenden Benutzer zuweisen:"
+
+#: admin/importer/importer/wordpress-importer.php:322
+msgid "- Select -"
+msgstr "- Auswählen -"
+
+#: admin/importer/importer/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Fehler beim Erstellen eines neuen Benutzers für %s. Die Einträge werden dem "
+"derzeitigen Benutzer zugeordnet."
+
+#: admin/importer/importer/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Fehler beim Import der Kategorie %s"
+
+#: admin/importer/importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Fehler beim Import der Schlagwörter %s"
+
+#: admin/importer/importer/wordpress-importer.php:516
+#: admin/importer/importer/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Fehler beim Importieren von %s %s"
+
+#: admin/importer/importer/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Fehler beim Import &#8220;%s&#8221;: Ungültiger Beitragstyp %s"
+
+#: admin/importer/importer/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; ist bereits vorhanden."
+
+#: admin/importer/importer/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Fehler beim Importieren von %s &#8220;%s&#8221;"
+
+#: admin/importer/importer/wordpress-importer.php:869
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Menüeintrag aufgrund fehlender Menü Verknüpfung übersprungen"
+
+#: admin/importer/importer/wordpress-importer.php:876
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Menüpunkt übersprungen aufgrund eines fehlenden Menü slugs: %s"
+
+#: admin/importer/importer/wordpress-importer.php:939
+msgid "Fetching attachments is not enabled"
+msgstr "Das abrufen von Anhängen ist nicht aktiviert"
+
+#: admin/importer/importer/wordpress-importer.php:952
+msgid "Invalid file type"
+msgstr "Ungütiger Dateityp"
+
+#: admin/importer/importer/wordpress-importer.php:1000
+msgid "Remote server did not respond"
+msgstr ""
+
+#: admin/importer/importer/wordpress-importer.php:1006
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: admin/importer/importer/wordpress-importer.php:1013
+msgid "Remote file is incorrect size"
+msgstr "Remote Datei hat falsche Grösse"
+
+#: admin/importer/importer/wordpress-importer.php:1018
+msgid "Zero size file downloaded"
+msgstr "Leere Datei heruntergeladen"
+
+#: admin/importer/importer/wordpress-importer.php:1024
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Die Datei ist zu groß. Das Limit liegt bei %s."
+
+#: admin/importer/importer/wordpress-importer.php:1122
+msgid "Import WordPress"
+msgstr "WordPress Importieren"
+
+#: admin/importer/importer/wordpress-importer.php:1129
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Eine neue Version des Importers steht zur Verfügung. Bitte aktualisieren Sie "
+"auf die neue Version %s, um die Kompatibilität mit neueren Exportdateien "
+"sicherzustellen."
+
+#: admin/importer/importer/wordpress-importer.php:1144
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Hallo! Lade deine WordPress-eXtended-RSS-Datei (WXR-Datei) hoch, und wir "
+"werden dann die Beiträge, Seiten, Kommentare, Benutzerdefinierte Felder, "
+"Kategorien und Schlagwörter dazu importieren."
+
+#: admin/importer/importer/wordpress-importer.php:1145
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Wählen Sie eine WXR-Datei (.xml) zum hochladen aus und klicken Sie "
+"anschließend auf \"Datei hochladen\" und \"importieren\"."
+
+#: admin/importer/importer/wordpress-importer.php:1219
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+"Import von <strong> Beiträgen, Seiten, Kommentaren, benutzerdefinierten "
+"Feldern, Kategorien und Tags </ strong> aus einer Wordpress-Exportdatei."
+
+#: admin/importer/init.php:246
+#, php-format
+msgid "Welcome to <strong>%s</strong>"
+msgstr "Willkommen <strong>zu %s</strong>"
+
+#: admin/importer/init.php:247
+msgid ""
+"Beautifully crafted WordPress theme ready to take your wine journey to the "
+"next level."
+msgstr ""
+"gefertigt Schön Wordpress-Theme bereit, Ihre Weinreise auf die nächste Stufe "
+"zu nehmen."
+
+#: admin/importer/init.php:251 admin/importer/init.php:253
+#: lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Plugins installieren"
+
+#: admin/importer/init.php:252
+#, php-format
+msgid ""
+"%s has bundled popular premium plugins which greatly increases the "
+"flexibility of the theme. Install them in order to maximize the theme power."
+msgstr ""
+"%s hat beliebte Premium-Plugins gebündelt, die erheblich die Flexibilität "
+"des Themas erhöht. Installieren Sie sie, um das Thema Energie zu maximieren."
+
+#: admin/importer/init.php:256
+msgctxt "noun"
+msgid "Import Demo Content"
+msgstr "Demo-Inhalte jetzt importieren"
+
+#: admin/importer/init.php:257
+msgid ""
+"If you have installed this theme on a clean WordPress installation then this "
+"is where you'll want to go next. This feature imports the demo content."
+msgstr ""
+"Wenn Sie dieses Thema Installation auf einem sauberen Wordpress installiert "
+"haben, dann ist dies, wo man als nächstes gehen wollen werde. Diese Funktion "
+"importiert die Demo-Content."
+
+#: admin/importer/init.php:259
+msgid "Import Demo Content"
+msgstr "Demo-Inhalte jetzt importieren"
+
+#: admin/importer/init.php:262
+msgid "Customize Appearance"
+msgstr "Passen Sie Aussehen"
+
+#: admin/importer/init.php:263
+msgid ""
+"Customize the look and feel of your site with the help of the Theme Options "
+"panel."
+msgstr ""
+"Passen Sie das Aussehen und das Gefühl von Ihrer Website mit Hilfe des Theme "
+"Options Panel."
+
+#: admin/importer/init.php:264
+msgid "Go to Theme Options"
+msgstr "Zum Thema Optionen"
+
+#: admin/importer/init.php:274
+msgid "Online Documentation"
+msgstr "Online Dokumentation"
+
+#: admin/importer/init.php:278
+msgid "Support Portal"
+msgstr "Support Portal"
+
+#: admin/importer/init.php:282
+msgid "Theme Changelog"
+msgstr "Theme Changelog"
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:42
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: comments.php:56
+msgctxt "noun"
+msgid "Comment"
+msgstr "Kommentar"
+
+#: comments.php:63 lib/forms/cf_ajax.php:53 lib/forms/cmf_ajax.php:47
+#: lib/metaboxes-old.php:654 lib/metaboxes.php:701
+#: parts/forms/part-contact-form.php:21 parts/forms/part-contact-form.php:22
+#: parts/forms/part-contact-miniform.php:17
+#: parts/forms/part-contact-miniform.php:18
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:68 lib/forms/cf_ajax.php:54 lib/forms/cmf_ajax.php:48
+#: parts/forms/part-contact-form.php:25 parts/forms/part-contact-form.php:26
+#: parts/forms/part-contact-miniform.php:21
+#: parts/forms/part-contact-miniform.php:22
+msgid "Email"
+msgstr "E-Mail"
+
+#: comments.php:74
+msgid "Website"
+msgstr "Webseite"
+
+#: functions.php:119
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+#: functions.php:120
+msgid "Footer Menu"
+msgstr "Menü unten"
+
+#: functions.php:172
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "ein"
+
+#: functions.php:180
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "ein"
+
+#: functions.php:188
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:336
+#, php-format
+msgid "Posted on %s "
+msgstr "Veröffentlicht am %s"
+
+#: functions.php:337
+msgid "by"
+msgstr "von"
+
+#: functions.php:339
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ","
+
+#: functions.php:342
+msgctxt "Used before category names."
+msgid "in"
+msgstr "in"
+
+#: functions.php:348
+msgid "By"
+msgstr "von"
+
+#: functions.php:352
+msgid "Posted on"
+msgstr "Veröffentlicht am"
+
+#: functions.php:437
+#, php-format
+msgid "All %s"
+msgstr "Alle %s"
+
+#: functions.php:502
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions.php:890
+msgctxt "min_price"
+msgid ""
+msgstr ""
+
+#: lib/acf/acf-functions.php:16
+msgid "Theme options"
+msgstr "Themen-Optionen"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:35
+msgid "Google Font Selector"
+msgstr "Google Font Selector"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:36
+msgid "Choice"
+msgstr "Auswahl"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:77
+msgid "Web Safe Fonts?"
+msgstr "Websichere Schriftarten"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:78
+msgid "Include web safe fonts?"
+msgstr "Fügen Sie Web-Safe-Fonts?"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:85
+msgid "Enqueue Font?"
+msgstr "Enqueue Font?"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:86
+msgid "Automatically load font?"
+msgstr "Automatisches Laden Schriftart?"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:93
+msgid "Default Font"
+msgstr "Standard Schriftart"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:121
+msgid "Font Family"
+msgstr "Schriftart (Font Family)"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:140
+msgid "This is a preview of the selected font"
+msgstr "Dies ist eine Vorschau der ausgewählten Schrift"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:147
+msgid "Variants"
+msgstr "Varianten"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:155
+msgid "Subsets"
+msgstr "Subsets"
+
+#: lib/breadcrumbs.php:12 lib/icons-array.php:135
+msgid "Home"
+msgstr "Startseite"
+
+#: lib/breadcrumbs.php:168
+msgid "Posts tagged"
+msgstr "Beiträge getagged"
+
+#: lib/breadcrumbs.php:174
+msgid "Articles posted by"
+msgstr "Artikel veröffentlicht von"
+
+#: lib/breadcrumbs.php:178
+msgid "Error 404"
+msgstr "Fehler 404"
+
+#: lib/breadcrumbs.php:185 parts/gallery/part-gallery.php:51
+#: parts/post-formats/part.php:41
+msgid "Page"
+msgstr "Seite"
+
+#: lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Benötigte Plugins installieren"
+
+#: lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plugin %s wird installiert."
+
+#: lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Aktualisiere Plugin: %s"
+
+#: lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Etwas ist mit der Plugin API schief gelaufen."
+
+#: lib/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Zurück zur Installation der benötigten Plugins"
+
+#: lib/class-tgm-plugin-activation.php:393
+#: lib/class-tgm-plugin-activation.php:912
+#: lib/class-tgm-plugin-activation.php:2618
+#: lib/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Zurück zum Dashboard"
+
+#: lib/class-tgm-plugin-activation.php:394
+#: lib/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Plugin erfolgreich aktiviert."
+
+#: lib/class-tgm-plugin-activation.php:395
+#: lib/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Es wurde keine Aktion durchgeführt. Plugin %1$s war bereits aktiv."
+
+#: lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin nicht aktiviert. Eine höhere Version des %s Plugins ist für dieses "
+"Theme notwendig. Bitte aktualisiere das Plugin."
+
+#: lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins wurden erfolgreich installiert und aktiviert. %1$s"
+
+#: lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Hinweis ausblenden"
+
+#: lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Ein oder mehrere  erforderliche bzw. benötigte Plugins  müssen installiert "
+"werden, bitte aktualisiere oder aktiviere diese."
+
+#: lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Bitte wende Dich an den Administrator, falls Du Hilfe brauchst."
+
+#: lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Dieses Plugin muss aktualisiert werden, um mit deinem Theme kompatibel zu "
+"sein."
+
+#: lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Update erforderlich"
+
+#: lib/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Das angeforderte Plugin Paket enthält keinen Ordner mit dem gewünschten Slug "
+"und eine Umbenennung hat nicht funktioniert."
+
+#: lib/class-tgm-plugin-activation.php:1019
+#: lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Bitte nimm Kontakt zum Plugin-Anbieter auf und bitte ihn darum, das Plugin "
+"entsprechend der WordPress-Richtlinien zu packen."
+
+#: lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Das Remote Plugin Package besteht aus mehr als einer Datei, aber die Dateien "
+"sind nicht in einen Ordner gepackt."
+
+#: lib/class-tgm-plugin-activation.php:1206
+#: lib/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "und"
+
+#: lib/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: lib/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Erforderlich"
+
+#: lib/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: lib/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: lib/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Externe Quelle"
+
+#: lib/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: lib/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: lib/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Installiert, aber nicht aktiviert"
+
+#: lib/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Aktiv"
+
+#: lib/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Benötigtes Update nicht verfügbar"
+
+#: lib/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Update erforderlich"
+
+#: lib/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Update empfohlen"
+
+#: lib/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: lib/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unbekannt"
+
+#: lib/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Installierte Version:"
+
+#: lib/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Minimal erforderliche Version:"
+
+#: lib/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Verfügbare Version:"
+
+#: lib/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+"Keine Plugins zum Installieren, Aktivieren oder Aktualisieren vorhanden."
+
+#: lib/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Plugin"
+
+#: lib/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Quelle"
+
+#: lib/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "Typ"
+
+#: lib/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Version"
+
+#: lib/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "Status"
+
+#: lib/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Installiere %2$s"
+
+#: lib/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Aktualisiere %2$s"
+
+#: lib/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktiviere %2$s"
+
+#: lib/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade Mitteilung des Plugin-Autors:"
+
+#: lib/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Installiere"
+
+#: lib/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: lib/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: lib/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Es wurden keine Plugins zum Installieren ausgewählt. Es wurde keine Aktion "
+"durchgeführt."
+
+#: lib/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Es wurden keine Plugins zur Aktualisierung ausgewählt. Es wurde keine Aktion "
+"durchgeführt."
+
+#: lib/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Es sind zur Zeit keine Plugins zur Installation verfügbar."
+
+#: lib/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Es sind zur Zeit keine Plugins zum Aktualisieren verfügbar."
+
+#: lib/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Es wurden keine Plugins zum Aktivieren ausgewählt. Es fand keine Aktion "
+"statt."
+
+#: lib/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Es sind zur Zeit keine Plugins zum Aktivieren verfügbar."
+
+#: lib/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Plugin-Aktivierung fehlgeschlagen."
+
+#: lib/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualisiere Plugin %1$s (%2$d/%3$d)"
+
+#: lib/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Während der Aktualisierung von %1$s: <strong>%2$s</strong> ist ein Fehler "
+"aufgetreten."
+
+#: lib/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+#: lib/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Der Installations- und Aktivierungsvorgang ist gestartet. Dieser Vorgang "
+"kann einige Zeit dauern."
+
+#: lib/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s erfolgreich installiert und aktiviert."
+
+#: lib/class-tgm-plugin-activation.php:3594
+#: lib/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Details anzeigen"
+
+#: lib/class-tgm-plugin-activation.php:3594
+#: lib/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Details ausblenden"
+
+#: lib/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Alle Installationen und Aktivierungen sind abgeschlossen."
+
+#: lib/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s (%2$d/%3$d) installieren und aktivieren"
+
+#: lib/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Der Installationsvorgang startet. Das kann eine Weile dauern, bitte haben "
+"sie deshalb ein wenig Geduld."
+
+#: lib/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s erfolgreich installiert."
+
+#: lib/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Alle Installationen sind abgeschlossen."
+
+#: lib/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s (%2$d/%3$d) installieren"
+
+#: lib/forms/cf_ajax.php:13 lib/forms/cmf_ajax.php:12
+msgid "Your message was sent successfully."
+msgstr "Ihre Nachricht wurde erfolgreich an uns abgeschickt."
+
+#: lib/forms/cf_ajax.php:17 lib/forms/cmf_ajax.php:18
+msgid "There was an error submitting the form."
+msgstr "Es ist ein Fehler beim Absenden des Formulars aufgetreten."
+
+#: lib/forms/cf_ajax.php:28 lib/forms/cmf_ajax.php:29
+msgid "All fields are required to enter."
+msgstr "Alle Felder sind Pflichtfelder einzugeben."
+
+#: lib/forms/cf_ajax.php:31 lib/forms/cmf_ajax.php:32
+msgid "Verification error, try again."
+msgstr "Überprüfung Fehler, versuchen Sie es erneut."
+
+#: lib/forms/cf_ajax.php:45 lib/forms/cmf_ajax.php:43
+#, php-format
+msgid "New contact form message from : %1$s"
+msgstr "Neue Kontaktformular Nachricht von:%1$s"
+
+#: lib/forms/cf_ajax.php:48
+#, php-format
+msgid "Your contact message on %1$s"
+msgstr ""
+
+#: lib/forms/cf_ajax.php:52 parts/forms/part-contact-form.php:33
+#: parts/forms/part-contact-form.php:34
+msgid "Subject"
+msgstr "Betreff"
+
+#: lib/forms/cf_ajax.php:55 lib/icons-array.php:175
+msgid "Phone"
+msgstr "Telefon"
+
+#: lib/forms/cf_ajax.php:56 lib/forms/cmf_ajax.php:49
+#: parts/forms/part-contact-form.php:37 parts/forms/part-contact-form.php:38
+#: parts/forms/part-contact-miniform.php:25
+#: parts/forms/part-contact-miniform.php:26
+msgid "Message"
+msgstr "Nachricht"
+
+#: lib/headers/part-default-menu.php:6
+msgid "Toggle navigation"
+msgstr "Navigation ein/ausblenden"
+
+#: lib/helpers.php:257
+#, php-format
+msgid "Search Results For: %1$s"
+msgstr "Suchergebnis für: %1$s"
+
+#: lib/helpers.php:353
+msgid "Loading the next set of posts..."
+msgstr "Lade die nächsten ..."
+
+#: lib/helpers.php:354
+msgid "All posts loaded."
+msgstr "Alle Beiträge wurden geladen."
+
+#: lib/helpers.php:420
+msgid "Featured"
+msgstr "Hervorgehoben"
+
+#: lib/helpers.php:426
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: lib/helpers.php:446
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Volle Anzeigegröße"
+
+#: lib/helpers.php:455
+msgid "Leave a comment"
+msgstr "Bitte hinterlassen Sie ein Kommentar"
+
+#: lib/helpers.php:455
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: lib/helpers.php:455
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: lib/helpers.php:468
+msgid "Read More"
+msgstr "Mehr lesen"
+
+#: lib/helpers.php:533
+msgid "The entered email address isn't valid."
+msgstr "Die eingegebene E-Mail-Adresse ist nicht gültig."
+
+#: lib/helpers.php:705
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: lib/helpers.php:725
+msgid "Post author"
+msgstr "Autor"
+
+#: lib/helpers.php:734
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: lib/helpers.php:742 lib/icons-array.php:196
+msgid "Reply"
+msgstr "Antworten"
+
+#: lib/helpers.php:751
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Moderation."
+
+#: lib/helpers.php:832 lib/theme-woocommerce.php:403
+msgid "Search products"
+msgstr "Suche nach Produkten"
+
+#: lib/helpers.php:834 lib/theme-woocommerce.php:405
+msgid "Search for products"
+msgstr "Suche nach Produkten"
+
+#: lib/icons-array.php:3
+msgid "Adjust"
+msgstr "Anpassen"
+
+#: lib/icons-array.php:4
+msgid "Anchor"
+msgstr "Anker"
+
+#: lib/icons-array.php:5
+msgid "Archive"
+msgstr "Archiv"
+
+#: lib/icons-array.php:6 lib/icons-array.php:315
+msgid "Area Chart"
+msgstr "Flächendiagramm"
+
+#: lib/icons-array.php:7 lib/icons-array.php:390
+msgid "Arrows"
+msgstr "Pfeile"
+
+#: lib/icons-array.php:8 lib/icons-array.php:392
+msgid "Arrows Horizontal"
+msgstr "Pfeile Horizontal"
+
+#: lib/icons-array.php:9 lib/icons-array.php:393
+msgid "Arrows Vertical"
+msgstr "Pfeile Vertikal"
+
+#: lib/icons-array.php:10
+msgid "Asterisk"
+msgstr "Stern"
+
+#: lib/icons-array.php:11
+msgid "At"
+msgstr "Bei"
+
+#: lib/icons-array.php:12
+msgid "Ban"
+msgstr "Sperren"
+
+#: lib/icons-array.php:13 lib/icons-array.php:316
+msgid "Bar Chart"
+msgstr "Balkendiagramm"
+
+#: lib/icons-array.php:14
+msgid "Barcode"
+msgstr "Barcode"
+
+#: lib/icons-array.php:15
+msgid "Bars"
+msgstr "Bars (5 Balken)"
+
+#: lib/icons-array.php:16
+msgid "Beer"
+msgstr "Bier"
+
+#: lib/icons-array.php:17
+msgid "Bell"
+msgstr "Glocke"
+
+#: lib/icons-array.php:18
+msgid "Bell Outlined"
+msgstr "mit Rahmen"
+
+#: lib/icons-array.php:19
+msgid "Bell Slash"
+msgstr "Einschnitt"
+
+#: lib/icons-array.php:20
+msgid "Bell Slash Outlined"
+msgstr "Bell-Slash Beschriebenen"
+
+#: lib/icons-array.php:21
+msgid "Bicycle"
+msgstr "Fahrrad"
+
+#: lib/icons-array.php:22
+msgid "Binoculars"
+msgstr "Fernglas"
+
+#: lib/icons-array.php:23
+msgid "Birthday Cake"
+msgstr "Geburtstagstorte"
+
+#: lib/icons-array.php:24
+msgid "Lightning Bolt"
+msgstr "Blitz"
+
+#: lib/icons-array.php:25
+msgid "Bomb"
+msgstr "Bombe"
+
+#: lib/icons-array.php:26
+msgid "Book"
+msgstr "Anfragen"
+
+#: lib/icons-array.php:27
+msgid "Bookmark"
+msgstr "Lesezeichen"
+
+#: lib/icons-array.php:28
+msgid "Bookmark Outlined"
+msgstr "Lesezeichen Beschriebenen"
+
+#: lib/icons-array.php:29
+msgid "Briefcase"
+msgstr "Brieftasche"
+
+#: lib/icons-array.php:30
+msgid "Bug"
+msgstr "Fehler"
+
+#: lib/icons-array.php:31
+msgid "Building"
+msgstr "Gebäude"
+
+#: lib/icons-array.php:32
+msgid "Building Outlined"
+msgstr "Gebäude Beschriebenen"
+
+#: lib/icons-array.php:33
+msgid "bullhorn"
+msgstr "Megafon"
+
+#: lib/icons-array.php:34
+msgid "Bullseye"
+msgstr "Schießscheibe"
+
+#: lib/icons-array.php:35
+msgid "Bus"
+msgstr "Bus"
+
+#: lib/icons-array.php:36
+msgid "Calculator"
+msgstr "Taschenrechner"
+
+#: lib/icons-array.php:37
+msgid "Calendar"
+msgstr "Kalender"
+
+#: lib/icons-array.php:38
+msgid "Calendar-o"
+msgstr "Kalender-o"
+
+#: lib/icons-array.php:39
+msgid "Camera"
+msgstr "Kamera"
+
+#: lib/icons-array.php:40
+msgid "Camera-retro"
+msgstr "Zimmer an der Rückseite"
+
+#: lib/icons-array.php:41
+msgid "Car"
+msgstr "Auto"
+
+#: lib/icons-array.php:42 lib/icons-array.php:397
+msgid "Caret Square Outlined Down"
+msgstr "Caret Platz Skizziert unten"
+
+#: lib/icons-array.php:43 lib/icons-array.php:398
+msgid "Caret Square Outlined Left"
+msgstr "Caret Platz Beschriebenen Links"
+
+#: lib/icons-array.php:44 lib/icons-array.php:399
+msgid "Caret Square Outlined Right"
+msgstr "Caret Platz Beschriebenen Rechts"
+
+#: lib/icons-array.php:45 lib/icons-array.php:400
+msgid "Caret Square Outlined Up"
+msgstr "Caret Platz Beschriebenen Up"
+
+#: lib/icons-array.php:46
+msgid "Closed Captions"
+msgstr "Untertitel#Technische Ausf.C3.BChrungen"
+
+#: lib/icons-array.php:47
+msgid "Certificate"
+msgstr "Zertifikat"
+
+#: lib/icons-array.php:48
+msgid "Check"
+msgstr "Überprüfen"
+
+#: lib/icons-array.php:49
+msgid "Check Circle"
+msgstr "Überprüfen Kreis"
+
+#: lib/icons-array.php:50
+msgid "Check Circle Outlined"
+msgstr "Überprüfen Kreis Beschriebenen"
+
+#: lib/icons-array.php:51 lib/icons-array.php:295
+msgid "Check Square"
+msgstr "Überprüfen Sie Platz"
+
+#: lib/icons-array.php:52 lib/icons-array.php:296
+msgid "Check Square Outlined"
+msgstr "Überprüfen Platz Beschriebenen"
+
+#: lib/icons-array.php:53
+msgid "Child"
+msgstr "Kind"
+
+#: lib/icons-array.php:54 lib/icons-array.php:297
+msgid "Circle"
+msgstr "Kreis"
+
+#: lib/icons-array.php:55 lib/icons-array.php:298
+msgid "Circle Outlined"
+msgstr "Kreis Beschriebenen"
+
+#: lib/icons-array.php:56 lib/icons-array.php:291
+msgid "Circle Outlined Notched"
+msgstr "Kreis Beschriebenen Eingekerbte"
+
+#: lib/icons-array.php:57
+msgid "Circle Outlined Thin"
+msgstr "Kreis Beschriebenen Thin"
+
+#: lib/icons-array.php:58
+msgid "Clock Outlined"
+msgstr "Clock Beschriebenen"
+
+#: lib/icons-array.php:59
+msgid "Cloud"
+msgstr "Wolke"
+
+#: lib/icons-array.php:60
+msgid "Cloud Download"
+msgstr "Cloud-Download"
+
+#: lib/icons-array.php:61
+msgid "Cloud Upload"
+msgstr "Wolke hochladen"
+
+#: lib/icons-array.php:62
+msgid "Code"
+msgstr "Code"
+
+#: lib/icons-array.php:63
+msgid "Code-fork"
+msgstr "Code-Gabel"
+
+#: lib/icons-array.php:64
+msgid "Coffee"
+msgstr "Kaffee"
+
+#: lib/icons-array.php:65
+msgid "Cog"
+msgstr "COG"
+
+#: lib/icons-array.php:66
+msgid "Cogs"
+msgstr "COGS"
+
+#: lib/icons-array.php:67
+msgid "Comment"
+msgstr "Kommentar"
+
+#: lib/icons-array.php:68
+msgid "Comment-o"
+msgstr "Kommentar-o"
+
+#: lib/icons-array.php:69 lib/metaboxes-old.php:571 lib/metaboxes.php:618
+msgid "Comments"
+msgstr "Kommentare"
+
+#: lib/icons-array.php:70
+msgid "Comments-o"
+msgstr "Kommentare-o"
+
+#: lib/icons-array.php:71
+msgid "Compass"
+msgstr "Kompass"
+
+#: lib/icons-array.php:72
+msgid "Copyright"
+msgstr "Urheberrecht (Copywright)"
+
+#: lib/icons-array.php:73 lib/icons-array.php:312
+msgid "credit-card"
+msgstr "Kreditkarte"
+
+#: lib/icons-array.php:74
+msgid "Crop"
+msgstr "Zuschneiden"
+
+#: lib/icons-array.php:75
+msgid "Crosshairs"
+msgstr "Absehen"
+
+#: lib/icons-array.php:76
+msgid "Cube"
+msgstr "Würfel"
+
+#: lib/icons-array.php:77
+msgid "Cubes"
+msgstr "Kubik"
+
+#: lib/icons-array.php:78
+msgid "Cutlery"
+msgstr "Essbesteck"
+
+#: lib/icons-array.php:79
+msgid "Database"
+msgstr "Datenbank"
+
+#: lib/icons-array.php:80
+msgid "Desktop"
+msgstr "Desktop"
+
+#: lib/icons-array.php:81 lib/icons-array.php:299
+msgid "Dot Circle O"
+msgstr "Punkt-Kreis-O"
+
+#: lib/icons-array.php:82
+msgid "Download"
+msgstr "Download"
+
+#: lib/icons-array.php:83
+msgid "Ellipsis Horizontal"
+msgstr "Ellipsis Horizontal"
+
+#: lib/icons-array.php:84
+msgid "Ellipsis Vertical"
+msgstr "Ellipsis Vertikal"
+
+#: lib/icons-array.php:85
+msgid "Envelope"
+msgstr "Briefumschlag"
+
+#: lib/icons-array.php:86
+msgid "Envelope Outlined"
+msgstr "Umschlag Beschriebenen"
+
+#: lib/icons-array.php:87
+msgid "Envelope Square"
+msgstr "Umschlagplatz"
+
+#: lib/icons-array.php:88 lib/icons-array.php:338
+msgid "Eraser"
+msgstr "Radiergummi"
+
+#: lib/icons-array.php:89
+msgid "Exchange"
+msgstr "Austausch"
+
+#: lib/icons-array.php:90
+msgid "Exclamation"
+msgstr "Ausruf"
+
+#: lib/icons-array.php:91
+msgid "Exclamation Circle"
+msgstr "Exclamation Kreis"
+
+#: lib/icons-array.php:92
+msgid "Exclamation Triangle"
+msgstr "Exclamation Triangle"
+
+#: lib/icons-array.php:93
+msgid "External Link"
+msgstr "Externer Link"
+
+#: lib/icons-array.php:94
+msgid "External Link Square"
+msgstr "Externer Link-Platz"
+
+#: lib/icons-array.php:95
+msgid "Eye"
+msgstr "Auge"
+
+#: lib/icons-array.php:96
+msgid "Eye Slash"
+msgstr "Einschnitt"
+
+#: lib/icons-array.php:97
+msgid "Eyedropper"
+msgstr "Pipette"
+
+#: lib/icons-array.php:98
+msgid "Fax"
+msgstr "Fax"
+
+#: lib/icons-array.php:99
+msgid "Female"
+msgstr "Weiblich"
+
+#: lib/icons-array.php:100
+msgid "Fighter-jet"
+msgstr "Kampfflugzeug"
+
+#: lib/icons-array.php:101 lib/icons-array.php:279
+msgid "Archive File Outlined"
+msgstr "Archive File Beschriebenen"
+
+#: lib/icons-array.php:102 lib/icons-array.php:280
+msgid "Audio File Outlined"
+msgstr "Audio File Beschriebenen"
+
+#: lib/icons-array.php:103 lib/icons-array.php:281
+msgid "Code File Outlined"
+msgstr "Code-Datei Beschriebenen"
+
+#: lib/icons-array.php:104 lib/icons-array.php:282
+msgid "Excel File Outlined"
+msgstr "Excel Datei Beschriebenen"
+
+#: lib/icons-array.php:105 lib/icons-array.php:283
+msgid "Image File Outlined"
+msgstr "Image File Beschriebenen"
+
+#: lib/icons-array.php:106 lib/icons-array.php:285
+msgid "PDF File Outlined"
+msgstr "PDF File Beschriebenen"
+
+#: lib/icons-array.php:107 lib/icons-array.php:286
+msgid "Powerpoint File Outlined"
+msgstr "Powerpoint-Datei Beschriebenen"
+
+#: lib/icons-array.php:108 lib/icons-array.php:289
+msgid "Video File Outlined"
+msgstr "Video File Beschriebenen"
+
+#: lib/icons-array.php:109 lib/icons-array.php:290
+msgid "Word File Outlined"
+msgstr "Word-Datei Beschriebenen"
+
+#: lib/icons-array.php:110
+msgid "Film"
+msgstr "Film"
+
+#: lib/icons-array.php:111
+msgid "Filter"
+msgstr "Filter"
+
+#: lib/icons-array.php:112
+msgid "Fire"
+msgstr "Feuer"
+
+#: lib/icons-array.php:113
+msgid "Fire-extinguisher"
+msgstr "Feuerlöscher"
+
+#: lib/icons-array.php:114
+msgid "Flag"
+msgstr "Flagge"
+
+#: lib/icons-array.php:115
+msgid "Flag-checkered"
+msgstr "Flag-kariert"
+
+#: lib/icons-array.php:116
+msgid "Flag Outlined"
+msgstr "mit Rahmen"
+
+#: lib/icons-array.php:117
+msgid "Flask"
+msgstr "Flasche"
+
+#: lib/icons-array.php:118
+msgid "Folder"
+msgstr "Ordner"
+
+#: lib/icons-array.php:119
+msgid "Folder Outlined"
+msgstr "Ordner Beschriebenen"
+
+#: lib/icons-array.php:120
+msgid "Folder Open"
+msgstr "geöffneter Ordner"
+
+#: lib/icons-array.php:121
+msgid "Folder Open Outlined"
+msgstr "Ordner öffnen Beschriebenen"
+
+#: lib/icons-array.php:122
+msgid "Frown Outlined"
+msgstr "stirnrunzeln Beschriebenen"
+
+#: lib/icons-array.php:123
+msgid "Futbol Outlined"
+msgstr "futbol Beschriebenen"
+
+#: lib/icons-array.php:124
+msgid "Gamepad"
+msgstr "Gamepad"
+
+#: lib/icons-array.php:125
+msgid "Gavel"
+msgstr "Richterhammer"
+
+#: lib/icons-array.php:126
+msgid "Gift"
+msgstr "Geschenk"
+
+#: lib/icons-array.php:127
+msgid "Glass"
+msgstr "Glas"
+
+#: lib/icons-array.php:128
+msgid "Globe"
+msgstr "Globus"
+
+#: lib/icons-array.php:129
+msgid "Graduation Cap"
+msgstr "Doktorhut"
+
+#: lib/icons-array.php:130
+msgid "HDD"
+msgstr "HDD"
+
+#: lib/icons-array.php:131
+msgid "Headphones"
+msgstr "Kopfhörer"
+
+#: lib/icons-array.php:132
+msgid "Heart"
+msgstr "Herz"
+
+#: lib/icons-array.php:133
+msgid "Heart Outlined"
+msgstr "Herz Beschriebenen"
+
+#: lib/icons-array.php:134
+msgid "History"
+msgstr "Geschichte"
+
+#: lib/icons-array.php:136
+msgid "Inbox"
+msgstr "Eingang"
+
+#: lib/icons-array.php:137
+msgid "Info"
+msgstr "Information"
+
+#: lib/icons-array.php:138
+msgid "Info Circle"
+msgstr "Kreis"
+
+#: lib/icons-array.php:139
+msgid "Key"
+msgstr "Code"
+
+#: lib/icons-array.php:140
+msgid "Keyboard Outlined"
+msgstr "Tastatur Beschriebenen"
+
+#: lib/icons-array.php:141
+msgid "Language"
+msgstr "Sprache"
+
+#: lib/icons-array.php:142
+msgid "Laptop"
+msgstr "Laptop"
+
+#: lib/icons-array.php:143
+msgid "Leaf"
+msgstr "Blatt"
+
+#: lib/icons-array.php:144
+msgid "Lemon Outlined"
+msgstr "Lemon Beschriebenen"
+
+#: lib/icons-array.php:145
+msgid "Level Down"
+msgstr "einebnen"
+
+#: lib/icons-array.php:146
+msgid "Level Up"
+msgstr "Aufleveln"
+
+#: lib/icons-array.php:147
+msgid "Life Ring"
+msgstr "Rettungsring"
+
+#: lib/icons-array.php:148
+msgid "Lightbulb Outlined"
+msgstr "Glühbirne Beschriebenen"
+
+#: lib/icons-array.php:149 lib/icons-array.php:317
+msgid "Line Chart"
+msgstr "Liniendiagramm"
+
+#: lib/icons-array.php:150
+msgid "Location-arrow"
+msgstr "Location-Pfeil"
+
+#: lib/icons-array.php:151
+msgid "Lock"
+msgstr "Sperren"
+
+#: lib/icons-array.php:152
+msgid "Magic"
+msgstr "Magie"
+
+#: lib/icons-array.php:153
+msgid "Magnet"
+msgstr "Magnete"
+
+#: lib/icons-array.php:154
+msgid "Male"
+msgstr "Männlich"
+
+#: lib/icons-array.php:155
+msgid "Map-marker"
+msgstr "Karten-Marker"
+
+#: lib/icons-array.php:156
+msgid "Meh Outlined"
+msgstr "mit Rahmen"
+
+#: lib/icons-array.php:157
+msgid "Microphone"
+msgstr "Mikrofon"
+
+#: lib/icons-array.php:158
+msgid "Microphone Slash"
+msgstr "Mikrofon Slash"
+
+#: lib/icons-array.php:159
+msgid "Minus"
+msgstr "Minus"
+
+#: lib/icons-array.php:160
+msgid "Minus Circle"
+msgstr "minus-Kreis"
+
+#: lib/icons-array.php:161 lib/icons-array.php:300
+msgid "Minus Square"
+msgstr "minus-Platz"
+
+#: lib/icons-array.php:162 lib/icons-array.php:301
+msgid "Minus Square Outlined"
+msgstr "Minus-Platz Beschriebenen"
+
+#: lib/icons-array.php:163
+msgid "Mobile Phone"
+msgstr "Mobiltelefon"
+
+#: lib/icons-array.php:164 lib/icons-array.php:326
+msgid "Money"
+msgstr "Geld"
+
+#: lib/icons-array.php:165
+msgid "Moon Outlined"
+msgstr "mit Rahmen"
+
+#: lib/icons-array.php:166
+msgid "Music"
+msgstr "Musik"
+
+#: lib/icons-array.php:167
+msgid "Newspaper Outlined"
+msgstr "Zeitung Beschriebenen"
+
+#: lib/icons-array.php:168
+msgid "Paint Brush"
+msgstr "Pinsel"
+
+#: lib/icons-array.php:169
+msgid "Paper Plane"
+msgstr "Papierflieger"
+
+#: lib/icons-array.php:170
+msgid "Paper Plane Outlined"
+msgstr "Paper Plane Beschriebenen"
+
+#: lib/icons-array.php:171
+msgid "Paw"
+msgstr "Pfote"
+
+#: lib/icons-array.php:172
+msgid "Pencil"
+msgstr "Bleistift"
+
+#: lib/icons-array.php:173
+msgid "Pencil Square"
+msgstr "Bleistift-Platz"
+
+#: lib/icons-array.php:174
+msgid "Pencil Square Outlined"
+msgstr "Bleistift-Platz Beschriebenen"
+
+#: lib/icons-array.php:176
+msgid "Phone Square"
+msgstr "Telefon-Platz"
+
+#: lib/icons-array.php:177
+msgid "Picture Outlined"
+msgstr "Bild Beschriebenen"
+
+#: lib/icons-array.php:178 lib/icons-array.php:318
+msgid "Pie Chart"
+msgstr "Kreisdiagramm"
+
+#: lib/icons-array.php:179
+msgid "Plane"
+msgstr "Ebene"
+
+#: lib/icons-array.php:180
+msgid "Plug"
+msgstr "Stecker"
+
+#: lib/icons-array.php:181
+msgid "Plus"
+msgstr "Plus"
+
+#: lib/icons-array.php:182
+msgid "Plus Circle"
+msgstr "Kreis"
+
+#: lib/icons-array.php:183 lib/icons-array.php:302 lib/icons-array.php:535
+msgid "Plus Square"
+msgstr "Plus Viereck 2"
+
+#: lib/icons-array.php:184 lib/icons-array.php:303
+msgid "Plus Square Outlined"
+msgstr "Plus-Platz Beschriebenen"
+
+#: lib/icons-array.php:185
+msgid "Power Off"
+msgstr "Ausschalten"
+
+#: lib/icons-array.php:186
+msgid "Print"
+msgstr "Druckens"
+
+#: lib/icons-array.php:187
+msgid "Puzzle Piece"
+msgstr "Puzzle-Stück"
+
+#: lib/icons-array.php:188
+msgid "QRcode"
+msgstr "QR-Code"
+
+#: lib/icons-array.php:189
+msgid "Question"
+msgstr "Frage"
+
+#: lib/icons-array.php:190
+msgid "Question Circle"
+msgstr "Frage Kreis"
+
+#: lib/icons-array.php:191
+msgid "Quote-left"
+msgstr "Zitat von links"
+
+#: lib/icons-array.php:192
+msgid "Quote-right"
+msgstr "Zitat von rechts"
+
+#: lib/icons-array.php:193
+msgid "Random"
+msgstr "Zufällig"
+
+#: lib/icons-array.php:194
+msgid "Recycle"
+msgstr "Recycling"
+
+#: lib/icons-array.php:195
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+#: lib/icons-array.php:197
+msgid "Reply-all"
+msgstr "Allen antworten"
+
+#: lib/icons-array.php:198
+msgid "Retweet"
+msgstr "Retweeten"
+
+#: lib/icons-array.php:199
+msgid "Road"
+msgstr "Strasse"
+
+#: lib/icons-array.php:200
+msgid "Rocket"
+msgstr "Rauke"
+
+#: lib/icons-array.php:201
+msgid "RSS"
+msgstr "RSS"
+
+#: lib/icons-array.php:202
+msgid "RSS Square"
+msgstr "RSS-Platz"
+
+#: lib/icons-array.php:203 parts/part-searchform-toolbar.php:14
+#: searchform.php:13 searchform.php:16
+msgid "Search"
+msgstr "Suche"
+
+#: lib/icons-array.php:204
+msgid "Search Minus"
+msgstr "Suchen Minus"
+
+#: lib/icons-array.php:205
+msgid "Search Plus"
+msgstr "Search plus"
+
+#: lib/icons-array.php:206
+msgid "Share"
+msgstr "Teilen"
+
+#: lib/icons-array.php:207 lib/icons-array.php:497 lib/icons-array.php:605
+msgid "Share Alt"
+msgstr "Teilen Alt"
+
+#: lib/icons-array.php:208 lib/icons-array.php:498 lib/icons-array.php:606
+msgid "Share Alt Square"
+msgstr "Teilen Alt-Platz"
+
+#: lib/icons-array.php:209
+msgid "Share Square"
+msgstr "Teilen Platz"
+
+#: lib/icons-array.php:210
+msgid "Share Square Outlined"
+msgstr "Teilen Platz Beschriebenen"
+
+#: lib/icons-array.php:211
+msgid "shield"
+msgstr "Schild"
+
+#: lib/icons-array.php:212
+msgid "shopping-cart"
+msgstr "Einkaufswagen"
+
+#: lib/icons-array.php:213
+msgid "Sign In"
+msgstr "Giriş"
+
+#: lib/icons-array.php:214
+msgid "Sign Out"
+msgstr "Abmelden"
+
+#: lib/icons-array.php:215
+msgid "signal"
+msgstr "Signal"
+
+#: lib/icons-array.php:216
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: lib/icons-array.php:217
+msgid "Sliders"
+msgstr "Sliders"
+
+#: lib/icons-array.php:218
+msgid "Smile Outlined"
+msgstr "Lächeln Beschriebenen"
+
+#: lib/icons-array.php:219
+msgid "Sort"
+msgstr "Sortieren"
+
+#: lib/icons-array.php:220
+msgid "Sort Alpha Ascending"
+msgstr "Sortieren Alpha Aufsteigend"
+
+#: lib/icons-array.php:221
+msgid "Sort Alpha Descending"
+msgstr "Sortieren Alpha absteigend"
+
+#: lib/icons-array.php:222
+msgid "Sort Amount Ascending"
+msgstr "Sortieren Aufsteigend"
+
+#: lib/icons-array.php:223
+msgid "Sort Amount Descending"
+msgstr "Sortieren absteigend"
+
+#: lib/icons-array.php:224
+msgid "Sort Ascending"
+msgstr "Aufsteigend sortieren"
+
+#: lib/icons-array.php:225
+msgid "Sort Descending"
+msgstr "Absteigend sortieren"
+
+#: lib/icons-array.php:226
+msgid "Sort Numeric Ascending"
+msgstr "Sortieren Numeric Aufsteigend"
+
+#: lib/icons-array.php:227
+msgid "Sort Numeric Descending"
+msgstr "Sortieren Numerische absteigend"
+
+#: lib/icons-array.php:228
+msgid "Space Shuttle"
+msgstr "Raumfähre"
+
+#: lib/icons-array.php:229 lib/icons-array.php:294
+msgid "Spinner"
+msgstr "Spinner"
+
+#: lib/icons-array.php:230
+msgid "spoon"
+msgstr "Löffel"
+
+#: lib/icons-array.php:231 lib/icons-array.php:304
+msgid "Square"
+msgstr "Quadratisch"
+
+#: lib/icons-array.php:232 lib/icons-array.php:305
+msgid "Square Outlined"
+msgstr "Platz Beschriebenen"
+
+#: lib/icons-array.php:233
+msgid "Star"
+msgstr "Stern"
+
+#: lib/icons-array.php:234
+msgid "star-half"
+msgstr "Sterne-Hälfte"
+
+#: lib/icons-array.php:235
+msgid "Star Half Outlined"
+msgstr "Stern Halb Beschriebenen"
+
+#: lib/icons-array.php:236
+msgid "Star Outlined"
+msgstr "mit Rahmen"
+
+#: lib/icons-array.php:237
+msgid "Suitcase"
+msgstr "Koffer"
+
+#: lib/icons-array.php:238
+msgid "Sun Outlined"
+msgstr "mit Rahmen"
+
+#: lib/icons-array.php:239
+msgid "tablet"
+msgstr "Täfelchen"
+
+#: lib/icons-array.php:240
+msgid "Tachometer"
+msgstr "Drehzahlmesser"
+
+#: lib/icons-array.php:241
+msgid "tag"
+msgstr "Schlagwort"
+
+#: lib/icons-array.php:242
+msgid "tags"
+msgstr "Schlagworte"
+
+#: lib/icons-array.php:243
+msgid "Tasks"
+msgstr "Aufgaben"
+
+#: lib/icons-array.php:244
+msgid "Taxi"
+msgstr "Taxi"
+
+#: lib/icons-array.php:245
+msgid "Terminal"
+msgstr "Terminal"
+
+#: lib/icons-array.php:246
+msgid "Thumb Tack"
+msgstr "Daumen"
+
+#: lib/icons-array.php:247
+msgid "thumbs-down"
+msgstr "Daumen-nach-unten"
+
+#: lib/icons-array.php:248
+msgid "Thumbs Down Outlined"
+msgstr "Daumen nach unten Beschriebenen"
+
+#: lib/icons-array.php:249
+msgid "Thumbs Up Outlined"
+msgstr "Daumen hoch Beschriebenen"
+
+#: lib/icons-array.php:250
+msgid "thumbs-up"
+msgstr "dauemn hoch"
+
+#: lib/icons-array.php:251
+msgid "Ticket"
+msgstr "Ticket"
+
+#: lib/icons-array.php:252
+msgid "Times"
+msgstr "Zyklen"
+
+#: lib/icons-array.php:253
+msgid "Times Circle"
+msgstr "Zeiten Kreis"
+
+#: lib/icons-array.php:254
+msgid "Times Circle Outlined"
+msgstr "Zeiten Kreis Beschriebenen"
+
+#: lib/icons-array.php:255
+msgid "tint"
+msgstr "Farbton"
+
+#: lib/icons-array.php:256
+msgid "Toggle Off"
+msgstr "Auf OFF schalten"
+
+#: lib/icons-array.php:257
+msgid "Toggle On"
+msgstr "Auf ON schalten"
+
+#: lib/icons-array.php:258
+msgid "Trash"
+msgstr "Papierkorb"
+
+#: lib/icons-array.php:259
+msgid "Trash Outlined"
+msgstr "Trash Beschriebenen"
+
+#: lib/icons-array.php:260
+msgid "Tree"
+msgstr "Baum"
+
+#: lib/icons-array.php:261
+msgid "trophy"
+msgstr "Trophäe"
+
+#: lib/icons-array.php:262
+msgid "truck"
+msgstr "Karren"
+
+#: lib/icons-array.php:263
+msgid "TTY"
+msgstr "TTY"
+
+#: lib/icons-array.php:264
+msgid "Umbrella"
+msgstr "Regenschirm"
+
+#: lib/icons-array.php:265
+msgid "University"
+msgstr "Universität"
+
+#: lib/icons-array.php:266
+msgid "unlock"
+msgstr "freischalten"
+
+#: lib/icons-array.php:267
+msgid "Unlock Alt"
+msgstr "freischalten"
+
+#: lib/icons-array.php:268
+msgid "Upload"
+msgstr "Upload"
+
+#: lib/icons-array.php:269
+msgid "User"
+msgstr "Benutzer"
+
+#: lib/icons-array.php:270
+msgid "Users"
+msgstr "Benutzer"
+
+#: lib/icons-array.php:271
+msgid "Video Camera"
+msgstr "Videokamera"
+
+#: lib/icons-array.php:272
+msgid "volume-down"
+msgstr "Lautstärke verringern"
+
+#: lib/icons-array.php:273
+msgid "volume-off"
+msgstr "Lautstärke aus"
+
+#: lib/icons-array.php:274
+msgid "volume-up"
+msgstr "Lautstärke erhöhen"
+
+#: lib/icons-array.php:275 lib/icons-array.php:538
+msgid "Wheelchair"
+msgstr "Rollstuhl"
+
+#: lib/icons-array.php:276
+msgid "WiFi"
+msgstr "WLAN"
+
+#: lib/icons-array.php:277
+msgid "Wrench"
+msgstr "Gabelschlüssel"
+
+#: lib/icons-array.php:278 lib/icons-array.php:339
+msgid "File"
+msgstr "Datei"
+
+#: lib/icons-array.php:284 lib/icons-array.php:340
+msgid "File Outlined"
+msgstr "mit Rahmen"
+
+#: lib/icons-array.php:287 lib/icons-array.php:341
+msgid "File Text"
+msgstr "Datei-Text"
+
+#: lib/icons-array.php:288 lib/icons-array.php:342
+msgid "File Text Outlined"
+msgstr "Datei Text Beschriebenen"
+
+#: lib/icons-array.php:292
+msgid "cog"
+msgstr "cog"
+
+#: lib/icons-array.php:293
+msgid "refresh"
+msgstr "aktualisieren"
+
+#: lib/icons-array.php:306 lib/icons-array.php:443 lib/icons-array.php:551
+msgid "American Express Credit Card"
+msgstr "American Express-Kreditkarte"
+
+#: lib/icons-array.php:307 lib/icons-array.php:444 lib/icons-array.php:552
+msgid "Discover Credit Card"
+msgstr "Entdecken Sie mit Kreditkarte"
+
+#: lib/icons-array.php:308 lib/icons-array.php:445 lib/icons-array.php:553
+msgid "MasterCard Credit Card"
+msgstr "Mastercard-Kreditkarte"
+
+#: lib/icons-array.php:309 lib/icons-array.php:446 lib/icons-array.php:554
+msgid "Paypal Credit Card"
+msgstr "Paypal (Kreditkarte)"
+
+#: lib/icons-array.php:310 lib/icons-array.php:447 lib/icons-array.php:555
+msgid "Stripe Credit Card"
+msgstr "Stripe - Kreditkarte"
+
+#: lib/icons-array.php:311 lib/icons-array.php:448 lib/icons-array.php:556
+msgid "Visa Credit Card"
+msgstr "Kreditkarte"
+
+#: lib/icons-array.php:313 lib/icons-array.php:471 lib/icons-array.php:579
+msgid "Goole Wallet"
+msgstr "Goole Wallet"
+
+#: lib/icons-array.php:314 lib/icons-array.php:487 lib/icons-array.php:595
+msgid "Paypal"
+msgstr "Paypal"
+
+#: lib/icons-array.php:319 lib/icons-array.php:442 lib/icons-array.php:550
+msgid "Bitcoin (BTC)"
+msgstr "Bitcoin (BTC)"
+
+#: lib/icons-array.php:320
+msgid "Euro (EUR)"
+msgstr "Euro (EUR)"
+
+#: lib/icons-array.php:321
+msgid "GBP"
+msgstr "GBP"
+
+#: lib/icons-array.php:322
+msgid "Shekel (ILS)"
+msgstr "Schekel (ILS)"
+
+#: lib/icons-array.php:323
+msgid "Indian Rupee (INR)"
+msgstr "Indische Rupie"
+
+#: lib/icons-array.php:324
+msgid "Japanese Yen (JPY)"
+msgstr "Japanische Yen (JPY)"
+
+#: lib/icons-array.php:325
+msgid "Korean Won (KRW)"
+msgstr "Koreanische Won (KRW)"
+
+#: lib/icons-array.php:327
+msgid "Russian Ruble (RUB)"
+msgstr "Russische Rubel (RUB)"
+
+#: lib/icons-array.php:328
+msgid "Turkish Lira (TRY)"
+msgstr "Türkische Lira (TRY)"
+
+#: lib/icons-array.php:329
+msgid "US Dollar"
+msgstr "US Dollar"
+
+#: lib/icons-array.php:330
+msgid "Align Center"
+msgstr "Zentriert"
+
+#: lib/icons-array.php:331
+msgid "Align Justify"
+msgstr "Ausrichtung Blocksatz"
+
+#: lib/icons-array.php:332
+msgid "Align Left"
+msgstr "Linksbündig"
+
+#: lib/icons-array.php:333
+msgid "Align Right"
+msgstr "Rechtsbündig"
+
+#: lib/icons-array.php:334
+msgid "Bold"
+msgstr "Bold"
+
+#: lib/icons-array.php:335
+msgid "Chain Broken"
+msgstr "Kette unterbrochen"
+
+#: lib/icons-array.php:336
+msgid "Clipboard"
+msgstr "Zwischenablage"
+
+#: lib/icons-array.php:337 lib/nav/edit_custom_walker.php:227
+msgid "Columns"
+msgstr "Spalten"
+
+#: lib/icons-array.php:343
+msgid "Files Outlined"
+msgstr "Dateien Beschriebenen"
+
+#: lib/icons-array.php:344
+msgid "Floppy Outlined"
+msgstr "Floppy Beschriebenen"
+
+#: lib/icons-array.php:345
+msgid "Font"
+msgstr "Schriftart"
+
+#: lib/icons-array.php:346 lib/metaboxes-old.php:369 lib/metaboxes-old.php:2049
+#: lib/metaboxes.php:368 lib/metaboxes.php:2067
+msgid "Header"
+msgstr "Kopfbereich"
+
+#: lib/icons-array.php:347
+msgid "Indent"
+msgstr "Einzug"
+
+#: lib/icons-array.php:348
+msgid "Italic"
+msgstr "Italic"
+
+#: lib/icons-array.php:349 lib/metaboxes-old.php:798 lib/metaboxes.php:845
+msgid "Link"
+msgstr "Link"
+
+#: lib/icons-array.php:350
+msgid "List"
+msgstr "Liste"
+
+#: lib/icons-array.php:351
+msgid "List alt"
+msgstr "Liste-Alt"
+
+#: lib/icons-array.php:352
+msgid "List ol"
+msgstr "Liste ol"
+
+#: lib/icons-array.php:353
+msgid "List ul"
+msgstr "Liste ul"
+
+#: lib/icons-array.php:354
+msgid "Outdent"
+msgstr "Einzug verkleinern"
+
+#: lib/icons-array.php:355
+msgid "Paperclip"
+msgstr "Büroklammer"
+
+#: lib/icons-array.php:356
+msgid "paragraph"
+msgstr "Absatz"
+
+#: lib/icons-array.php:357
+msgid "Repeat"
+msgstr "Wiederholen"
+
+#: lib/icons-array.php:358
+msgid "Scissors"
+msgstr "Schere"
+
+#: lib/icons-array.php:359
+msgid "Strikethrough"
+msgstr "Durchstreichen"
+
+#: lib/icons-array.php:360
+msgid "Subscript"
+msgstr "Tiefstellen"
+
+#: lib/icons-array.php:361
+msgid "Superscript"
+msgstr "Hochstellen"
+
+#: lib/icons-array.php:362
+msgid "Table"
+msgstr "Bestellung Tabelle Rahmenfarbe"
+
+#: lib/icons-array.php:363
+msgid "Text-height"
+msgstr "Texthöhe"
+
+#: lib/icons-array.php:364
+msgid "Text-width"
+msgstr "Textbreite"
+
+#: lib/icons-array.php:365
+msgid "Th"
+msgstr "Do"
+
+#: lib/icons-array.php:366
+msgid "Th-large"
+msgstr "Th-large"
+
+#: lib/icons-array.php:367
+msgid "Th-list"
+msgstr "Th-Liste"
+
+#: lib/icons-array.php:368
+msgid "Underline"
+msgstr "Unterstrichen"
+
+#: lib/icons-array.php:369
+msgid "Undo"
+msgstr "Rückgängig"
+
+#: lib/icons-array.php:370
+msgid "Angle Double Down"
+msgstr "Angle Double Down"
+
+#: lib/icons-array.php:371
+msgid "Angle Double Left"
+msgstr "Angle Doppel Links"
+
+#: lib/icons-array.php:372
+msgid "Angle Double Right"
+msgstr "Angle Doppel Rechts"
+
+#: lib/icons-array.php:373
+msgid "Angle Double Up"
+msgstr "Angle Double Up"
+
+#: lib/icons-array.php:374
+msgid "Angle Down"
+msgstr "Winkel"
+
+#: lib/icons-array.php:375
+msgid "Angle Left"
+msgstr "Winkel links"
+
+#: lib/icons-array.php:376
+msgid "Angle Right"
+msgstr "Winkel rechts"
+
+#: lib/icons-array.php:377
+msgid "Angle Up"
+msgstr "Winkel nach oben"
+
+#: lib/icons-array.php:378
+msgid "Arrow Circle Down"
+msgstr "Pfeil-Kreis-Runter"
+
+#: lib/icons-array.php:379
+msgid "Arrow Circle Left"
+msgstr "Pfeil Kreis Links"
+
+#: lib/icons-array.php:380
+msgid "Arrow Circle Outlined Down"
+msgstr "Pfeil Kreis Skizziert unten"
+
+#: lib/icons-array.php:381
+msgid "Arrow Circle Outlined Left"
+msgstr "Pfeil Kreis Beschriebenen Links"
+
+#: lib/icons-array.php:382
+msgid "Arrow Circle Outlined Right"
+msgstr "Pfeil Kreis Beschriebenen Rechts"
+
+#: lib/icons-array.php:383
+msgid "Arrow Circle Outlined Up"
+msgstr "Pfeil Kreis Beschriebenen Up"
+
+#: lib/icons-array.php:384
+msgid "Arrow Circle Right"
+msgstr "Pfeil Kreis Rechts"
+
+#: lib/icons-array.php:385
+msgid "Arrow Circle Up"
+msgstr "Pfeil Kreis Up"
+
+#: lib/icons-array.php:386
+msgid "Arrow Down"
+msgstr "Pfeil rauf"
+
+#: lib/icons-array.php:387
+msgid "Arrow Left"
+msgstr "(Cursor links)"
+
+#: lib/icons-array.php:388
+msgid "Arrow Right"
+msgstr "Pfeil nach rechts"
+
+#: lib/icons-array.php:389
+msgid "Arrow Up"
+msgstr "(Cursor oben)"
+
+#: lib/icons-array.php:391 lib/icons-array.php:418
+msgid "Arrows Alt"
+msgstr "Pfeile Alt"
+
+#: lib/icons-array.php:394
+msgid "Caret Down"
+msgstr "Caret unten"
+
+#: lib/icons-array.php:395
+msgid "Caret Left"
+msgstr "Caret links"
+
+#: lib/icons-array.php:396
+msgid "Caret Right"
+msgstr "Caret Rechts"
+
+#: lib/icons-array.php:401
+msgid "Caret Up"
+msgstr "Caret Up"
+
+#: lib/icons-array.php:402
+msgid "Chevron Circle Down"
+msgstr "Zickzack Kreis"
+
+#: lib/icons-array.php:403
+msgid "Chevron Circle Left"
+msgstr "Zickzack Kreis"
+
+#: lib/icons-array.php:404
+msgid "Chevron Circle Right"
+msgstr "Chevron Kreis Rechts"
+
+#: lib/icons-array.php:405
+msgid "Chevron Circle Up"
+msgstr "Zickzack Kreis"
+
+#: lib/icons-array.php:406
+msgid "Chevron Down"
+msgstr "Chevron nach unten"
+
+#: lib/icons-array.php:407
+msgid "Chevron Left"
+msgstr "Chevron nach links"
+
+#: lib/icons-array.php:408
+msgid "Chevron Right"
+msgstr "Chevron nach rechts"
+
+#: lib/icons-array.php:409
+msgid "Chevron Up"
+msgstr "Chevron nach oben"
+
+#: lib/icons-array.php:410
+msgid "Hand Outlined Down"
+msgstr "Hand Skizziert unten"
+
+#: lib/icons-array.php:411
+msgid "Hand Outlined Left"
+msgstr "Hand Beschriebenen Linke"
+
+#: lib/icons-array.php:412
+msgid "Hand Outlined Right"
+msgstr "Hand Beschriebenen Rechts"
+
+#: lib/icons-array.php:413
+msgid "Hand Outlined Up"
+msgstr "Hand Beschriebenen Up"
+
+#: lib/icons-array.php:414
+msgid "Long Arrow Down"
+msgstr "Pfeil rauf"
+
+#: lib/icons-array.php:415
+msgid "Long Arrow Left"
+msgstr "(Cursor links)"
+
+#: lib/icons-array.php:416
+msgid "Long Arrow Right"
+msgstr "Pfeil rechts"
+
+#: lib/icons-array.php:417
+msgid "Long Arrow Up"
+msgstr "(Cursor oben)"
+
+#: lib/icons-array.php:419
+msgid "Backward"
+msgstr "Rückwärts"
+
+#: lib/icons-array.php:420
+msgid "Compress"
+msgstr "Komprimieren"
+
+#: lib/icons-array.php:421
+msgid "Eject"
+msgstr "Auswerfen"
+
+#: lib/icons-array.php:422
+msgid "Expand"
+msgstr "Erweitern"
+
+#: lib/icons-array.php:423
+msgid "Fast Backward"
+msgstr "Schnell zurück"
+
+#: lib/icons-array.php:424
+msgid "Fast Forward"
+msgstr "Schnell vorwärts"
+
+#: lib/icons-array.php:425
+msgid "Forward"
+msgstr "Vorwärts"
+
+#: lib/icons-array.php:426
+msgid "Pause"
+msgstr "Pause"
+
+#: lib/icons-array.php:427
+msgid "Play"
+msgstr "Lecture"
+
+#: lib/icons-array.php:428
+msgid "Play Circle"
+msgstr "Abspielen-Kreis"
+
+#: lib/icons-array.php:429
+msgid "Play Circle Outlined"
+msgstr "Spielen Kreis Beschriebenen"
+
+#: lib/icons-array.php:430
+msgid "Step Backward"
+msgstr "Schritt zurück"
+
+#: lib/icons-array.php:431
+msgid "Step Forward"
+msgstr "Schritt vor"
+
+#: lib/icons-array.php:432
+msgid "Stop"
+msgstr "Stop"
+
+#: lib/icons-array.php:433 lib/icons-array.php:529 lib/icons-array.php:637
+msgid "YouTube Play"
+msgstr "YouTube Play"
+
+#: lib/icons-array.php:434 lib/icons-array.php:542
+msgid "App.net"
+msgstr "App.net"
+
+#: lib/icons-array.php:435 lib/icons-array.php:543
+msgid "Android"
+msgstr "Android"
+
+#: lib/icons-array.php:436 lib/icons-array.php:544
+msgid "AngelList"
+msgstr "AngelList"
+
+#: lib/icons-array.php:437 lib/icons-array.php:545
+msgid "Apple"
+msgstr "Apfel"
+
+#: lib/icons-array.php:438 lib/icons-array.php:546
+msgid "Behance"
+msgstr "Behände"
+
+#: lib/icons-array.php:439 lib/icons-array.php:547
+msgid "Behance Square"
+msgstr "Behance Platz"
+
+#: lib/icons-array.php:440 lib/icons-array.php:548
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: lib/icons-array.php:441 lib/icons-array.php:549
+msgid "Bitbucket Square"
+msgstr "Bitbucket Platz"
+
+#: lib/icons-array.php:449 lib/icons-array.php:557
+msgid "Codepen"
+msgstr "Coderen URL"
+
+#: lib/icons-array.php:450 lib/icons-array.php:558
+msgid "CSS 3 Logo"
+msgstr "CSS 3 Logo"
+
+#: lib/icons-array.php:451 lib/icons-array.php:559
+msgid "Delicious Logo"
+msgstr "Delicious"
+
+#: lib/icons-array.php:452 lib/icons-array.php:560
+msgid "deviantART"
+msgstr "DeviantArt"
+
+#: lib/icons-array.php:453 lib/icons-array.php:561
+msgid "Digg Logo"
+msgstr "Digg Logo"
+
+#: lib/icons-array.php:454 lib/icons-array.php:562
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: lib/icons-array.php:455 lib/icons-array.php:563
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: lib/icons-array.php:456 lib/icons-array.php:564
+msgid "Drupal Logo"
+msgstr "Drupal"
+
+#: lib/icons-array.php:457 lib/icons-array.php:565
+msgid "Galactic Empire"
+msgstr "Galaktisches Imperium"
+
+#: lib/icons-array.php:458 lib/icons-array.php:566
+msgid "Facebook"
+msgstr "Facebook"
+
+#: lib/icons-array.php:459 lib/icons-array.php:567
+msgid "Facebook Square"
+msgstr "Facebook-Platz"
+
+#: lib/icons-array.php:460 lib/icons-array.php:568
+msgid "Flickr"
+msgstr "Flickr"
+
+#: lib/icons-array.php:461 lib/icons-array.php:569
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: lib/icons-array.php:462 lib/icons-array.php:570
+msgid "Git"
+msgstr "Git"
+
+#: lib/icons-array.php:463 lib/icons-array.php:571
+msgid "Git Square"
+msgstr "Git-Platz"
+
+#: lib/icons-array.php:464 lib/icons-array.php:572
+msgid "GitHub"
+msgstr "GitHub"
+
+#: lib/icons-array.php:465 lib/icons-array.php:573
+msgid "GitHub Alt"
+msgstr "GitHub"
+
+#: lib/icons-array.php:466 lib/icons-array.php:574
+msgid "GitHub Square"
+msgstr "GitHub-Platz"
+
+#: lib/icons-array.php:467 lib/icons-array.php:575
+msgid "Gittip"
+msgstr "Gittip"
+
+#: lib/icons-array.php:468 lib/icons-array.php:576
+msgid "Google Logo"
+msgstr "Google Logo"
+
+#: lib/icons-array.php:469 lib/icons-array.php:577
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: lib/icons-array.php:470 lib/icons-array.php:578
+msgid "Google Plus Square"
+msgstr "Google Plus-Platz"
+
+#: lib/icons-array.php:472 lib/icons-array.php:580
+msgid "Hacker News"
+msgstr "Hacker News"
+
+#: lib/icons-array.php:473 lib/icons-array.php:581
+msgid "HTML 5 Logo"
+msgstr "HTML 5 Logo"
+
+#: lib/icons-array.php:474 lib/icons-array.php:582
+#: lib/widgets/instagram-widget.php:12 lib/widgets/instagram-widget.php:92
+msgid "Instagram"
+msgstr "Instagram"
+
+#: lib/icons-array.php:475 lib/icons-array.php:583
+msgid "ioxhost"
+msgstr "ioxhost"
+
+#: lib/icons-array.php:476 lib/icons-array.php:584
+msgid "Joomla Logo"
+msgstr "Joomla"
+
+#: lib/icons-array.php:477 lib/icons-array.php:585
+msgid "jsFiddle"
+msgstr "jsFiddle"
+
+#: lib/icons-array.php:478 lib/icons-array.php:586
+msgid "last.fm"
+msgstr "Last.fm"
+
+#: lib/icons-array.php:479 lib/icons-array.php:587
+msgid "last.fm Square"
+msgstr "last.fm-Platz"
+
+#: lib/icons-array.php:480 lib/icons-array.php:588
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: lib/icons-array.php:481 lib/icons-array.php:589
+msgid "LinkedIn Square"
+msgstr "LinkedIn-Platz"
+
+#: lib/icons-array.php:482 lib/icons-array.php:590
+msgid "Linux"
+msgstr "Linux"
+
+#: lib/icons-array.php:483 lib/icons-array.php:591
+msgid "MaxCDN"
+msgstr "MaxCDN"
+
+#: lib/icons-array.php:484 lib/icons-array.php:592
+msgid "meanpath"
+msgstr "meanpath"
+
+#: lib/icons-array.php:485 lib/icons-array.php:593
+msgid "OpenID"
+msgstr "OpenID"
+
+#: lib/icons-array.php:486 lib/icons-array.php:594
+msgid "Pagelines"
+msgstr "Pagelines"
+
+#: lib/icons-array.php:488 lib/icons-array.php:596
+msgid "Pied Piper Logo"
+msgstr "Rattenfänger von Hameln"
+
+#: lib/icons-array.php:489 lib/icons-array.php:597
+msgid "Pied Piper Alternate Logo"
+msgstr "Rattenfänger Alternate Logo"
+
+#: lib/icons-array.php:490 lib/icons-array.php:598
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: lib/icons-array.php:491 lib/icons-array.php:599
+msgid "Pinterest Square"
+msgstr "Pinterest Platz"
+
+#: lib/icons-array.php:492 lib/icons-array.php:600
+msgid "QQ"
+msgstr "QQ"
+
+#: lib/icons-array.php:493 lib/icons-array.php:601
+msgid "Rebel Alliance"
+msgstr "Rebellen-Allianz"
+
+#: lib/icons-array.php:494 lib/icons-array.php:602
+msgid "reddit Logo"
+msgstr "Reddit"
+
+#: lib/icons-array.php:495 lib/icons-array.php:603
+msgid "reddit Square"
+msgstr "reddit-Platz"
+
+#: lib/icons-array.php:496 lib/icons-array.php:604
+msgid "Renren"
+msgstr "Renren"
+
+#: lib/icons-array.php:499 lib/icons-array.php:607
+msgid "Skype"
+msgstr "Skype"
+
+#: lib/icons-array.php:500 lib/icons-array.php:608
+msgid "Slack Logo"
+msgstr "locker"
+
+#: lib/icons-array.php:501 lib/icons-array.php:609
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: lib/icons-array.php:502 lib/icons-array.php:610
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: lib/icons-array.php:503 lib/icons-array.php:611
+msgid "Spotify"
+msgstr "Spotify"
+
+#: lib/icons-array.php:504 lib/icons-array.php:612
+msgid "Stack Exchange"
+msgstr "Stack Exchange"
+
+#: lib/icons-array.php:505 lib/icons-array.php:613
+msgid "Stack Overflow"
+msgstr "Stack Overflow"
+
+#: lib/icons-array.php:506 lib/icons-array.php:614
+msgid "Steam"
+msgstr "Dünsten"
+
+#: lib/icons-array.php:507 lib/icons-array.php:615
+msgid "Steam Square"
+msgstr "Dampf-Platz"
+
+#: lib/icons-array.php:508 lib/icons-array.php:616
+msgid "StumbleUpon Logo"
+msgstr "StumbleUpon"
+
+#: lib/icons-array.php:509 lib/icons-array.php:617
+msgid "StumbleUpon Circle"
+msgstr "StumbleUpon Kreis"
+
+#: lib/icons-array.php:510 lib/icons-array.php:618
+msgid "Tencent Weibo"
+msgstr "Tencent Weibo"
+
+#: lib/icons-array.php:511 lib/icons-array.php:619
+msgid "Trello"
+msgstr "Trello"
+
+#: lib/icons-array.php:512 lib/icons-array.php:620
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: lib/icons-array.php:513 lib/icons-array.php:621
+msgid "Tumblr Square"
+msgstr "tumblr Platz"
+
+#: lib/icons-array.php:514 lib/icons-array.php:622
+msgid "Twitch"
+msgstr "Muskelzucken"
+
+#: lib/icons-array.php:515 lib/icons-array.php:623
+msgid "Twitter"
+msgstr "Twitter"
+
+#: lib/icons-array.php:516 lib/icons-array.php:624
+msgid "Twitter Square"
+msgstr "Twitter-Platz"
+
+#: lib/icons-array.php:517 lib/icons-array.php:625
+msgid "Vimeo Square"
+msgstr "Vimeo"
+
+#: lib/icons-array.php:518 lib/icons-array.php:626
+msgid "Vine"
+msgstr "Wein"
+
+#: lib/icons-array.php:519 lib/icons-array.php:627
+msgid "VK"
+msgstr "VK"
+
+#: lib/icons-array.php:520 lib/icons-array.php:628
+msgid "Weibo"
+msgstr "Weibo"
+
+#: lib/icons-array.php:521 lib/icons-array.php:629
+msgid "Weixin (WeChat)"
+msgstr "Weixin (WeChat)"
+
+#: lib/icons-array.php:522 lib/icons-array.php:630
+msgid "Windows"
+msgstr "Windows"
+
+#: lib/icons-array.php:523 lib/icons-array.php:631
+msgid "Wordpress Logo"
+msgstr "WordPress"
+
+#: lib/icons-array.php:524 lib/icons-array.php:632
+msgid "Xing"
+msgstr "Xing"
+
+#: lib/icons-array.php:525 lib/icons-array.php:633
+msgid "Xing Square"
+msgstr "quadratisch"
+
+#: lib/icons-array.php:526 lib/icons-array.php:634
+msgid "Yahoo Logo"
+msgstr "Yahoo"
+
+#: lib/icons-array.php:527 lib/icons-array.php:635
+msgid "Yelp"
+msgstr "Yelp"
+
+#: lib/icons-array.php:528 lib/icons-array.php:636
+msgid "YouTube"
+msgstr "YouTube"
+
+#: lib/icons-array.php:530 lib/icons-array.php:638
+msgid "YouTube Square"
+msgstr "YouTube-Platz"
+
+#: lib/icons-array.php:531
+msgid "Ambulance"
+msgstr "Krankenwagen"
+
+#: lib/icons-array.php:532
+msgid "H Square"
+msgstr "Quadratisch"
+
+#: lib/icons-array.php:533
+msgid "Hospital Outlined"
+msgstr "Krankenhaus Beschriebenen"
+
+#: lib/icons-array.php:534
+msgid "Medkit"
+msgstr "Verbandkasten"
+
+#: lib/icons-array.php:536
+msgid "Stethoscope"
+msgstr "Stethoskop"
+
+#: lib/icons-array.php:537
+msgid "User-md"
+msgstr "Benutzer-md"
+
+#: lib/metaboxes-old.php:6 lib/metaboxes.php:6
+msgid "Page Layout"
+msgstr "Seite Layout"
+
+#: lib/metaboxes-old.php:10 lib/metaboxes-old.php:1174
+#: lib/metaboxes-old.php:1220 lib/metaboxes.php:10 lib/metaboxes.php:1237
+msgid "Page layout"
+msgstr "Seitenlayout"
+
+#: lib/metaboxes-old.php:13 lib/metaboxes.php:13
+msgid "Select the page layout"
+msgstr "Seiten Layout Typ wählen"
+
+#: lib/metaboxes-old.php:22 lib/metaboxes-old.php:1081
+#: lib/metaboxes-old.php:1186 lib/metaboxes-old.php:1232 lib/metaboxes.php:22
+#: lib/metaboxes.php:1144 lib/metaboxes.php:1249
+msgid "With left sidebar"
+msgstr "Blog mit linker Seitenleiste"
+
+#: lib/metaboxes-old.php:23 lib/metaboxes-old.php:1082
+#: lib/metaboxes-old.php:1187 lib/metaboxes-old.php:1233 lib/metaboxes.php:23
+#: lib/metaboxes.php:1145 lib/metaboxes.php:1250
+msgid "With right sidebar"
+msgstr "Blog mit rechter Seitenleiste"
+
+#: lib/metaboxes-old.php:24 lib/metaboxes-old.php:1083
+#: lib/metaboxes-old.php:1188 lib/metaboxes-old.php:1234 lib/metaboxes.php:24
+#: lib/metaboxes.php:1146 lib/metaboxes.php:1251
+msgid "No sidebar"
+msgstr "Keine Seitenleiste"
+
+#: lib/metaboxes-old.php:39 lib/metaboxes.php:39
+msgid "Select sidebar"
+msgstr "Seitenleiste auswählen"
+
+#: lib/metaboxes-old.php:42 lib/metaboxes.php:42
+msgid ""
+"Select a sidebar. You can create unlimited sidebars in Appearance >> Theme "
+"options."
+msgstr ""
+"Wählen Sie eine Sidebar. Sie können unbegrenzt Sidebars in Aussehen >> Thema "
+"Optionen erstellen."
+
+#: lib/metaboxes-old.php:115 lib/metaboxes.php:114
+msgid "Theme Options"
+msgstr "Theme-Optionen"
+
+#: lib/metaboxes-old.php:119 lib/metaboxes.php:118
+msgid "General"
+msgstr "Allgemeines"
+
+#: lib/metaboxes-old.php:135 lib/metaboxes.php:134
+msgid "Site preloader"
+msgstr "Seiten Preloader"
+
+#: lib/metaboxes-old.php:138 lib/metaboxes.php:137
+msgid "Enable/disable the site preloader"
+msgstr "Aktivieren / Deaktivieren des Preloaders"
+
+#: lib/metaboxes-old.php:151 lib/metaboxes.php:150
+msgid "Logo"
+msgstr "Logo"
+
+#: lib/metaboxes-old.php:167 lib/metaboxes.php:166
+msgid "Display image logo"
+msgstr "Bild anzeigen"
+
+#: lib/metaboxes-old.php:170 lib/metaboxes.php:169
+msgid "Display an image logo instead of the title."
+msgstr "Zeigen Sie ein Bild Logo anstelle des Titels."
+
+#: lib/metaboxes-old.php:183 lib/metaboxes.php:182
+msgid "Logo image"
+msgstr "Logo"
+
+#: lib/metaboxes-old.php:186 lib/metaboxes-old.php:263
+#: lib/metaboxes-old.php:311 lib/metaboxes.php:185 lib/metaboxes.php:262
+#: lib/metaboxes.php:310
+msgid "Upload the logo image"
+msgstr "Logo-Bild hochladen"
+
+#: lib/metaboxes-old.php:215 lib/metaboxes.php:214
+msgid "Logo margins"
+msgstr "Ränder"
+
+#: lib/metaboxes-old.php:218 lib/metaboxes-old.php:343 lib/metaboxes.php:217
+#: lib/metaboxes.php:342
+msgid "Insert the logo margins, if necessary. Eg: 5px 0 0 2px"
+msgstr "Legen Sie die Logo-Margen, falls erforderlich. ZB: 5px 0 0 2px"
+
+#: lib/metaboxes-old.php:244 lib/metaboxes.php:243
+msgid "Display wp admin image logo"
+msgstr "Anzeige wp admin Bild-Logo"
+
+#: lib/metaboxes-old.php:247 lib/metaboxes.php:246
+msgid "Display a custom image/logo on the wp admin login area."
+msgstr ""
+"Zeigen Sie ein benutzerdefiniertes Bild / Logo auf der Login-Bereich wp "
+"admin."
+
+#: lib/metaboxes-old.php:260 lib/metaboxes.php:259
+msgid "WP admin logo image"
+msgstr "WP Admin-Logo-Bild"
+
+#: lib/metaboxes-old.php:292 lib/metaboxes.php:291
+msgid "Display footer image logo"
+msgstr "Anzeige Fußzeile Bild Logo"
+
+#: lib/metaboxes-old.php:295 lib/metaboxes.php:294
+msgid "Display an image logo in the footer"
+msgstr "Zeigen Sie ein Bild-Logo in der Fußzeile"
+
+#: lib/metaboxes-old.php:308 lib/metaboxes.php:307
+msgid "Footer logo image"
+msgstr "Bild im Fußbereich"
+
+#: lib/metaboxes-old.php:340 lib/metaboxes.php:339
+msgid "Footer logo margins"
+msgstr "Footer Logo Margen"
+
+#: lib/metaboxes-old.php:385 lib/metaboxes.php:384
+msgid "Sticky menu"
+msgstr "Sticky Menü"
+
+#: lib/metaboxes-old.php:401 lib/metaboxes.php:448
+msgid "Footer"
+msgstr "Fußbereich"
+
+#: lib/metaboxes-old.php:417 lib/metaboxes.php:464
+msgid "Footer image"
+msgstr "Bild im Fußbereich"
+
+#: lib/metaboxes-old.php:420 lib/metaboxes.php:467
+msgid "Insert a footer image."
+msgstr "Legen Sie eine Fußzeile Bild."
+
+#: lib/metaboxes-old.php:441 lib/metaboxes.php:488
+msgid "Footer text"
+msgstr "Text Fusszeile"
+
+#: lib/metaboxes-old.php:444 lib/metaboxes.php:491
+msgid "Insert the footer text"
+msgstr ""
+
+#: lib/metaboxes-old.php:462 lib/metaboxes.php:509
+msgid "Footer widgets"
+msgstr "Footer Widgets"
+
+#: lib/metaboxes-old.php:465 lib/metaboxes.php:512
+msgid "Enable/Disable footer widgets"
+msgstr "Aktivieren / Deaktivieren Footer Widgets"
+
+#: lib/metaboxes-old.php:478 lib/metaboxes.php:525
+msgid "Footer extras"
+msgstr "Footer Extras"
+
+#: lib/metaboxes-old.php:481 lib/metaboxes.php:528
+msgid "Enable/Disable footer extras (copyright)."
+msgstr "Aktivieren / Deaktivieren Fußzeile Extras (Copyright)."
+
+#: lib/metaboxes-old.php:494 lib/metaboxes.php:541
+msgid "Footer Copyright"
+msgstr "Footer Copywright"
+
+#: lib/metaboxes-old.php:497 lib/metaboxes.php:544
+msgid "Footer copyright"
+msgstr "Copyright im Footer"
+
+#: lib/metaboxes-old.php:523 lib/metaboxes.php:570
+msgid "Footer menu"
+msgstr "Fußzeilenmenü"
+
+#: lib/metaboxes-old.php:526 lib/metaboxes.php:573
+msgid "Enable/disable footer menu"
+msgstr "Aktivieren / Deaktivieren Fußzeile Menü"
+
+#: lib/metaboxes-old.php:547 lib/metaboxes.php:594
+msgid "Footer social icons"
+msgstr "Produktlizenz"
+
+#: lib/metaboxes-old.php:550 lib/metaboxes.php:597
+msgid "Enable/disable footer social icons"
+msgstr "im Footer Social Icons deaktivieren"
+
+#: lib/metaboxes-old.php:587 lib/metaboxes.php:634
+msgid "Page comments"
+msgstr "Seiten Kommentare"
+
+#: lib/metaboxes-old.php:590 lib/metaboxes.php:637
+msgid "Enable/Disable comments on all pages."
+msgstr "Aktivieren / Deaktivieren Kommentare zu Lektionsseiten."
+
+#: lib/metaboxes-old.php:603 lib/metaboxes.php:650
+msgid "Post comments"
+msgstr "Kommentar gesendet"
+
+#: lib/metaboxes-old.php:606 lib/metaboxes.php:653
+msgid "Enable/Disable comments on all posts."
+msgstr "Aktivieren / Deaktivieren Kommentare zu allen Beiträgen."
+
+#: lib/metaboxes-old.php:619 lib/metaboxes.php:666
+msgid "Social media"
+msgstr "Soziale Medien"
+
+#: lib/metaboxes-old.php:635 lib/metaboxes.php:682
+msgid "Social icons"
+msgstr "Social-Media-Symbole"
+
+#: lib/metaboxes-old.php:638 lib/metaboxes.php:685
+msgid "These icons are displayed with the help of \"Social Icons Widget\""
+msgstr "Diese Symbole werden mit Hilfe von \"Social Icons Widget\" angezeigt"
+
+#: lib/metaboxes-old.php:675 lib/metaboxes.php:722
+msgid "Icon"
+msgstr "Icon"
+
+#: lib/metaboxes-old.php:816 lib/metaboxes.php:863
+msgid "Sidebars"
+msgstr "Seitenleisten"
+
+#: lib/metaboxes-old.php:832 lib/metaboxes.php:879
+msgid "Sidebar options"
+msgstr "Sidebar Einstellungen"
+
+#: lib/metaboxes-old.php:835 lib/metaboxes.php:882
+msgid ""
+"Create a custom sidebar to use on pages or posts. Then go to Appearance >> "
+"Widgets to add widgets."
+msgstr ""
+"Erstellen Sie eine benutzerdefinierte Seitenleiste auf den Seiten oder "
+"Beiträge zu verwenden. Dann gehen Sie zu Aussehen >> Widgets Widgets "
+"hinzufügen."
+
+#: lib/metaboxes-old.php:874 lib/metaboxes.php:921
+msgid "Fonts"
+msgstr "Schriften"
+
+#: lib/metaboxes-old.php:890 lib/metaboxes.php:937
+msgid "Headings font"
+msgstr "Schriftart für Überschriften"
+
+#: lib/metaboxes-old.php:893
+msgid "Select the theme font. Default: Oswald"
+msgstr ""
+
+#: lib/metaboxes-old.php:907 lib/metaboxes.php:954
+msgid "Body font"
+msgstr "Body Schriftart"
+
+#: lib/metaboxes-old.php:910 lib/metaboxes.php:957
+msgid "Select the theme font. Default: Lato"
+msgstr "Wählen Sie das Thema Schriftart. Standard: Lato"
+
+#: lib/metaboxes-old.php:924 lib/metaboxes.php:971
+msgid "Colors"
+msgstr "Farben"
+
+#: lib/metaboxes-old.php:940 lib/metaboxes.php:987
+msgid "Text colors"
+msgstr "Textfarben"
+
+#: lib/metaboxes-old.php:951 lib/metaboxes.php:998
+msgid "Modify the default text colors"
+msgstr "Ändern Sie die Standardtextfarben"
+
+#: lib/metaboxes-old.php:957 lib/metaboxes.php:1004
+msgid "Text body color"
+msgstr "Body Farbe"
+
+#: lib/metaboxes-old.php:960
+msgid "Default value: #ababab"
+msgstr ""
+
+#: lib/metaboxes-old.php:972 lib/metaboxes.php:1019
+msgid "Headings color"
+msgstr "Headings Farbe"
+
+#: lib/metaboxes-old.php:975 lib/metaboxes-old.php:990 lib/metaboxes.php:1007
+#: lib/metaboxes.php:1022
+msgid "Default value: #000000"
+msgstr "Standardwert: # 000000"
+
+#: lib/metaboxes-old.php:987 lib/metaboxes.php:1034
+msgid "Link and elements color"
+msgstr "Link / Elemente Farbe"
+
+#: lib/metaboxes-old.php:1002 lib/metaboxes.php:1049
+msgid "Elements color"
+msgstr "Elemente Farben"
+
+#: lib/metaboxes-old.php:1013
+msgid ""
+"Modify the default elements color. \n"
+"Affects: elements with background color, like footer, badges, dark menu, "
+"fullscreen search"
+msgstr ""
+
+#: lib/metaboxes-old.php:1020 lib/metaboxes.php:1067
+msgid "Primary color"
+msgstr "Primäre Farbe"
+
+#: lib/metaboxes-old.php:1023 lib/metaboxes.php:1086
+msgid "Default value: #000000\n"
+msgstr ""
+
+#: lib/metaboxes-old.php:1036 lib/metaboxes.php:1099
+msgid "Page templates"
+msgstr "Seitenvorlagen"
+
+#: lib/metaboxes-old.php:1052 lib/metaboxes.php:1115
+msgid "Search page"
+msgstr "Suchseite"
+
+#: lib/metaboxes-old.php:1063 lib/metaboxes.php:1126
+msgid "Select the layout of the search page."
+msgstr "Wählen Sie das Layout der Suchseite."
+
+#: lib/metaboxes-old.php:1069 lib/metaboxes.php:1132
+msgid "Search page layout"
+msgstr "Such-Layout"
+
+#: lib/metaboxes-old.php:1098 lib/metaboxes.php:1161
+msgid "404 page"
+msgstr "Fehler 404"
+
+#: lib/metaboxes-old.php:1109 lib/metaboxes.php:1172
+msgid "Set the options for the 404 error page."
+msgstr "Legen Sie die Optionen für die 404-Fehlerseite."
+
+#: lib/metaboxes-old.php:1115 lib/metaboxes.php:1178
+msgid "Error page title"
+msgstr "Fehlerseitentitel"
+
+#: lib/metaboxes-old.php:1118 lib/metaboxes.php:1181
+msgid "Set the page title"
+msgstr "Stellen Sie den Seitentitel"
+
+#: lib/metaboxes-old.php:1136 lib/metaboxes.php:1199
+msgid "Error page description"
+msgstr "Fehlerseite Beschreibung"
+
+#: lib/metaboxes-old.php:1139 lib/metaboxes.php:1202
+msgid "Set a message"
+msgstr "eine Nachricht"
+
+#: lib/metaboxes-old.php:1157 lib/metaboxes.php:1220
+msgid "Category/Archive page"
+msgstr "Auswahl Kategorie"
+
+#: lib/metaboxes-old.php:1168 lib/metaboxes.php:1231
+msgid "Select the layout of the posts category/archive page."
+msgstr "Wählen Sie das Layout der Beiträge Kategorie / Archivseite."
+
+#: lib/metaboxes-old.php:1203
+msgid "Gallery archive page"
+msgstr ""
+
+#: lib/metaboxes-old.php:1249 lib/metaboxes.php:1266
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: lib/metaboxes-old.php:1265 lib/metaboxes.php:1282
+msgid "CSS"
+msgstr "CSS"
+
+#: lib/metaboxes-old.php:1268 lib/metaboxes.php:1285
+msgid ""
+"Your custom CSS goes here. Do not include the style tag. This is already "
+"done for you."
+msgstr ""
+"Die benutzerdefinierte CSS geht hier. Sie nicht den Stil-Tags enthalten. "
+"Dies ist bereits für Sie erledigt."
+
+#: lib/metaboxes-old.php:1286 lib/metaboxes.php:1303
+msgid "Custom scripts"
+msgstr "Eigene Skripte"
+
+#: lib/metaboxes-old.php:1302 lib/metaboxes.php:1319
+msgid "JS"
+msgstr "JS"
+
+#: lib/metaboxes-old.php:1305 lib/metaboxes.php:1322
+msgid ""
+"Add custom footer scripts such as Google Analytics. Do not include the "
+"script tag. This is already done for you."
+msgstr ""
+"Fügen Sie benutzerdefinierte Fußzeile Skripte wie Google Analytics. Sie "
+"nicht das Skript-Tag enthalten. Dies ist bereits für Sie erledigt."
+
+#: lib/metaboxes-old.php:1323 lib/metaboxes.php:1340
+msgid "Store"
+msgstr "Filiale"
+
+#: lib/metaboxes-old.php:1339 lib/metaboxes.php:416
+msgid "Header minicart"
+msgstr "Kopf minicart"
+
+#: lib/metaboxes-old.php:1342
+msgid "Enable/disable header minicart"
+msgstr "Aktivieren / Deaktivieren des Header minicart"
+
+#: lib/metaboxes-old.php:1355 lib/metaboxes.php:432
+msgid "Header search"
+msgstr ""
+
+#: lib/metaboxes-old.php:1358 lib/metaboxes.php:435
+msgid "Enable/disable header search"
+msgstr ""
+
+#: lib/metaboxes-old.php:1371 lib/metaboxes.php:1372
+msgid "Catalog mode"
+msgstr "Katalog-Modus"
+
+#: lib/metaboxes-old.php:1374 lib/metaboxes.php:1375
+msgid ""
+"Enable/Disable catalog mode. This will disable: add to cart, checkout and "
+"buy functions."
+msgstr ""
+"Aktivieren / Deaktivieren der Katalog-Modus. Dies wird zu deaktivieren: in "
+"den Warenkorb, Kasse und Funktionen kaufen."
+
+#: lib/metaboxes-old.php:1387 lib/metaboxes.php:1356
+msgid "Activate product image sizes"
+msgstr "Produkt aktivieren Bildgrößen"
+
+#: lib/metaboxes-old.php:1390 lib/metaboxes.php:1359
+msgid ""
+"Check this to activate the inputs for image size change from WooCommerce >> "
+"Settings >> Products >> Display"
+msgstr ""
+"Prüfen Sie dies die Eingänge für die Bildgrößenänderung von WooCommerce >> "
+"Einstellungen >> Produkte >> Display zu aktivieren"
+
+#: lib/metaboxes-old.php:1403 lib/metaboxes-old.php:1414 lib/metaboxes.php:1437
+#: lib/metaboxes.php:1448
+msgid "Shop page options"
+msgstr "Seitenoptionen"
+
+#: lib/metaboxes-old.php:1420 lib/metaboxes.php:1454
+msgid "Shop columns"
+msgstr "Shop-Spalten"
+
+#: lib/metaboxes-old.php:1423 lib/metaboxes.php:1457
+msgid "Select the shop page number of columns"
+msgstr "Die Anzahl der Spalten wählen"
+
+#: lib/metaboxes-old.php:1449 lib/metaboxes.php:1483
+msgid "Shop style"
+msgstr "Shop-Listenstil"
+
+#: lib/metaboxes-old.php:1452 lib/metaboxes.php:1486
+msgid "Select the shop style"
+msgstr "Style auswählen"
+
+#: lib/metaboxes-old.php:1461 lib/metaboxes-old.php:2101 lib/metaboxes.php:1495
+#: lib/metaboxes.php:2119
+msgid "Style 1"
+msgstr "Style 1"
+
+#: lib/metaboxes-old.php:1462 lib/metaboxes-old.php:2102 lib/metaboxes.php:1496
+#: lib/metaboxes.php:2120
+msgid "Style 2"
+msgstr "Style 2"
+
+#: lib/metaboxes-old.php:1463 lib/metaboxes.php:1497
+msgid "Style 3"
+msgstr "Style 3"
+
+#: lib/metaboxes-old.php:1464 lib/metaboxes.php:1498
+msgid "Style 4"
+msgstr "Style 4"
+
+#: lib/metaboxes-old.php:1479 lib/metaboxes.php:1513
+msgid "Products per page"
+msgstr "Produkte je Seite"
+
+#: lib/metaboxes-old.php:1482 lib/metaboxes.php:1516
+msgid "Insert the number of products to display until pagination kicks is"
+msgstr ""
+"Legen Sie die Anzahl der Produkte, bis Paginierung Tritte anzuzeigen ist"
+
+#: lib/metaboxes-old.php:1500 lib/metaboxes.php:1534
+msgid "Products sale flash"
+msgstr "Produkte Verkauf Flash"
+
+#: lib/metaboxes-old.php:1503 lib/metaboxes.php:1537
+msgid "Enable/Disable sale flash on products."
+msgstr "Aktivieren / Deaktivieren Verkauf Blitz auf Produkte."
+
+#: lib/metaboxes-old.php:1516 lib/metaboxes.php:1550
+msgid "Products price"
+msgstr "Produkte Preis"
+
+#: lib/metaboxes-old.php:1519 lib/metaboxes.php:1553
+msgid "Enable/Disable products price."
+msgstr "Aktivieren / Deaktivieren Produkte Preis."
+
+#: lib/metaboxes-old.php:1532 lib/metaboxes.php:1566
+msgid "Add to cart button"
+msgstr "Zum Warenkorb zuführen Button"
+
+#: lib/metaboxes-old.php:1535 lib/metaboxes.php:1569
+msgid "Enable/Disable add to cart button"
+msgstr "Aktivieren/deaktivieren Zum Warenkorb hinzufügen"
+
+#: lib/metaboxes-old.php:1548 lib/metaboxes-old.php:1559 lib/metaboxes.php:1582
+#: lib/metaboxes.php:1593
+msgid "Product page options"
+msgstr "Produktseite Optionen"
+
+#: lib/metaboxes-old.php:1565 lib/metaboxes.php:1599
+msgid "Product sale flash"
+msgstr "Produkt-Verkauf Flash"
+
+#: lib/metaboxes-old.php:1568 lib/metaboxes.php:1602
+msgid "Enable/Disable sale flash on product"
+msgstr "Aktivieren / Deaktivieren Verkauf Blitz auf Produkt"
+
+#: lib/metaboxes-old.php:1581 lib/metaboxes.php:1615
+msgid "Product price"
+msgstr "Produktpreis"
+
+#: lib/metaboxes-old.php:1584 lib/metaboxes.php:1618
+msgid "Enable/Disable product price"
+msgstr "Aktivieren / Deaktivieren Produktpreis"
+
+#: lib/metaboxes-old.php:1597 lib/metaboxes.php:1631
+msgid "Product short description"
+msgstr "Kurzbeschreibung des Produkts"
+
+#: lib/metaboxes-old.php:1600 lib/metaboxes.php:1634
+msgid "Enable/Disable product short description"
+msgstr "Aktivieren / Deaktivieren Produkt kurze Beschreibung"
+
+#: lib/metaboxes-old.php:1613 lib/metaboxes.php:1647
+msgid "Product meta"
+msgstr "Produkt meta"
+
+#: lib/metaboxes-old.php:1616 lib/metaboxes.php:1650
+msgid "Enable/Disable product meta (sku, category, tag)"
+msgstr "Aktivieren / Deaktivieren Produkt Meta (sku, Kategorie, tag)"
+
+#: lib/metaboxes-old.php:1629 lib/metaboxes.php:1663
+msgid "Product add to cart button"
+msgstr "Produkt in den Warenkorb Button"
+
+#: lib/metaboxes-old.php:1632 lib/metaboxes.php:1666
+msgid "Enable/Disable product add to cart button"
+msgstr "Aktivieren/deaktivieren Zum Warenkorb hinzufügen"
+
+#: lib/metaboxes-old.php:1645
+msgid "Product size guide"
+msgstr ""
+
+#: lib/metaboxes-old.php:1648
+msgid "Enable/Disable product size guide"
+msgstr ""
+
+#: lib/metaboxes-old.php:1661 lib/metaboxes.php:1679
+msgid "Related products"
+msgstr "Verwandte Produkte"
+
+#: lib/metaboxes-old.php:1664 lib/metaboxes.php:1682
+msgid "Enable/Disable Related products"
+msgstr "Aktivieren / Deaktivieren Verwandte Produkte"
+
+#: lib/metaboxes-old.php:1677 lib/metaboxes.php:1695
+msgid "Up Sells products"
+msgstr "Kunden kauften auch"
+
+#: lib/metaboxes-old.php:1680 lib/metaboxes.php:1698
+msgid "Enable/Disable Up Sells products"
+msgstr "Aktivieren / Deaktivieren Up Sells Produkte"
+
+#: lib/metaboxes-old.php:1693 lib/metaboxes.php:1711
+msgid "Reviews tab"
+msgstr "Bewertungen-Tab"
+
+#: lib/metaboxes-old.php:1696 lib/metaboxes.php:1714
+msgid "Enable/Disable reviews tab"
+msgstr "Aktivieren / Deaktivieren der Registerkarte Bewertungen"
+
+#: lib/metaboxes-old.php:1709 lib/metaboxes.php:1727
+msgid "Description tab"
+msgstr "Registerkarte Beschreibung"
+
+#: lib/metaboxes-old.php:1712 lib/metaboxes.php:1730
+msgid "Enable/Disable description tab"
+msgstr "Aktivieren / Deaktivieren der Beschreibung Registerkarte"
+
+#: lib/metaboxes-old.php:1725 lib/metaboxes.php:1743
+msgid "Additional information tab"
+msgstr "Zusätzliches Informationens-Tab"
+
+#: lib/metaboxes-old.php:1728 lib/metaboxes.php:1746
+msgid "Enable/Disable additional information tab"
+msgstr "Aktivieren / Deaktivieren Registerkarte zusätzliche Informationen"
+
+#: lib/metaboxes-old.php:1741 lib/metaboxes-old.php:1752 lib/metaboxes.php:1759
+#: lib/metaboxes.php:1770
+msgid "Cart page options"
+msgstr "Seitenoptionen"
+
+#: lib/metaboxes-old.php:1758 lib/metaboxes.php:1776
+msgid "Cross Sells products"
+msgstr "Kreuz Verkauft Produkte"
+
+#: lib/metaboxes-old.php:1761 lib/metaboxes.php:1779
+msgid "Enable/Disable Cross Sells products"
+msgstr "Aktivieren / Deaktivieren Kreuz Verkauft Produkte"
+
+#: lib/metaboxes-old.php:1794 lib/metaboxes.php:1812
+msgid "Blog Options"
+msgstr "Blog-Optionen"
+
+#: lib/metaboxes-old.php:1798 lib/metaboxes.php:1816
+msgid "Blog layout"
+msgstr "Blog Layout"
+
+#: lib/metaboxes-old.php:1801 lib/metaboxes.php:1819
+msgid "Select the blog layout"
+msgstr "Wählen Sie das Layout des Blogs"
+
+#: lib/metaboxes-old.php:1810 lib/metaboxes.php:1828
+msgid "Grid Fit rows"
+msgstr "Zeilen anpassen"
+
+#: lib/metaboxes-old.php:1811 lib/metaboxes.php:1829
+msgid "Grid Masonry"
+msgstr "Mauerwerk (Masonry)"
+
+#: lib/metaboxes-old.php:1826 lib/metaboxes.php:1844
+msgid "Blog layout style"
+msgstr "l"
+
+#: lib/metaboxes-old.php:1829 lib/metaboxes.php:1847
+msgid "Select the blog layout style"
+msgstr "Wählen Sie den Blog-Layout-Stil"
+
+#: lib/metaboxes-old.php:1853 lib/metaboxes.php:1871
+msgid "Gap"
+msgstr "Umbruch"
+
+#: lib/metaboxes-old.php:1854 lib/metaboxes.php:1872
+msgid "No Gap"
+msgstr "Keine Lücke"
+
+#: lib/metaboxes-old.php:1869 lib/metaboxes.php:1887
+msgid "Blog columns"
+msgstr "Blog Rubriken"
+
+#: lib/metaboxes-old.php:1872 lib/metaboxes.php:1890
+msgid "Select the number of columns"
+msgstr "Die Anzahl der Spalten wählen"
+
+#: lib/metaboxes-old.php:1913 lib/metaboxes.php:1931
+msgid "Number of posts to show"
+msgstr "Anzahl anzuzeigender Beiträge"
+
+#: lib/metaboxes-old.php:1916 lib/metaboxes.php:1934
+msgid "Insert the number of blog posts to show"
+msgstr "Legen Sie die Anzahl der Blog-Posts zu zeigen"
+
+#: lib/metaboxes-old.php:1934 lib/metaboxes.php:1952
+msgid "Blog pagination"
+msgstr "Blog Pagination"
+
+#: lib/metaboxes-old.php:1937 lib/metaboxes.php:1955
+msgid "Select the blog pagination"
+msgstr "Wählen Sie den Blog Paginierung"
+
+#: lib/metaboxes-old.php:1946 lib/metaboxes.php:1964
+msgid "Numbered pagination"
+msgstr "Seitennummerierung ,Zahlen'."
+
+#: lib/metaboxes-old.php:1947 lib/metaboxes.php:1965
+msgid "Ajax load more pagination"
+msgstr "Ajax Last mehr Paginierung"
+
+#: lib/metaboxes-old.php:1989 lib/metaboxes.php:2007
+msgid "Post Options"
+msgstr "Beitrag Einstellungen"
+
+#: lib/metaboxes-old.php:1993 lib/metaboxes.php:2011
+msgid "Social share"
+msgstr "Soziales Teilen"
+
+#: lib/metaboxes-old.php:1996 lib/metaboxes.php:2014
+msgid "Enable/Disable social share on post"
+msgstr "Aktivieren / Deaktivieren der sozialen Anteil auf Post"
+
+#: lib/metaboxes-old.php:2009 lib/metaboxes.php:2027
+msgid "Post navigation"
+msgstr "Beitragsnavigation"
+
+#: lib/metaboxes-old.php:2012 lib/metaboxes.php:2030
+msgid "Enable/Disable the posts navigation"
+msgstr "Aktivieren / Deaktivieren Sie die Beiträge Navigation"
+
+#: lib/metaboxes-old.php:2045 lib/metaboxes.php:2063
+msgid "Page Options"
+msgstr "Seitenoptionen"
+
+#: lib/metaboxes-old.php:2065 lib/metaboxes.php:2083
+msgid "Page header"
+msgstr "Seitenkopf"
+
+#: lib/metaboxes-old.php:2076 lib/metaboxes.php:2094
+msgid "Enable/Disable page header."
+msgstr "Aktivieren / Deaktivieren der Seitenkopf."
+
+#: lib/metaboxes-old.php:2081 lib/metaboxes.php:2099
+msgid "Page header style"
+msgstr "Header Stil"
+
+#: lib/metaboxes-old.php:2117 lib/metaboxes.php:2135
+msgid "Page breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: lib/metaboxes-old.php:2136 lib/metaboxes.php:2154
+msgid "Enable/Disable page breadcrumbs"
+msgstr "Aktivieren / Deaktivieren Seite Paniermehl"
+
+#: lib/metaboxes-old.php:2141 lib/metaboxes.php:2159
+msgid "Page title"
+msgstr "Titel anzeigen/nicht anzeigen"
+
+#: lib/metaboxes-old.php:2160 lib/metaboxes.php:2178
+msgid "Enable/Disable page title."
+msgstr "Aktivieren / Deaktivieren der Seitentitel."
+
+#: lib/metaboxes-old.php:2165 lib/metaboxes.php:2183
+msgid "Page subtitle"
+msgstr "Seitenuntertitel"
+
+#: lib/metaboxes-old.php:2168 lib/metaboxes.php:2186
+msgid "Insert the page subtitle"
+msgstr "Legen Sie die Seite Untertitel"
+
+#: lib/metaboxes-old.php:2194 lib/metaboxes.php:2212
+msgid "Page description"
+msgstr "Seitenbeschreibung:"
+
+#: lib/metaboxes-old.php:2197 lib/metaboxes.php:2215
+msgid "Insert your page short description here."
+msgstr "Legen Sie Ihre Seite hier kurze Beschreibung."
+
+#: lib/metaboxes-old.php:2228 lib/metaboxes.php:2246
+msgid "Header Slideshow"
+msgstr "Header-Diashow"
+
+#: lib/metaboxes-old.php:2244 lib/metaboxes.php:2262
+msgid "Header slideshow info"
+msgstr "Header-Slideshow"
+
+#: lib/metaboxes-old.php:2255 lib/metaboxes.php:2273
+msgid ""
+"You can display a Revolution Slider in the theme header, under the menu."
+msgstr ""
+"Sie können in dem Thema Header, unter dem Menü eine Revolution Slider "
+"anzuzeigen."
+
+#: lib/metaboxes-old.php:2261 lib/metaboxes.php:2279
+msgid "Page header slideshow"
+msgstr "Seitenkopf Diashow"
+
+#: lib/metaboxes-old.php:2264 lib/metaboxes.php:2282
+msgid "Enable/disable page slideshow"
+msgstr "Slideshow ﻿Aktivieren / Deaktivieren"
+
+#: lib/metaboxes-old.php:2277 lib/metaboxes.php:2295
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: lib/metaboxes-old.php:2280 lib/metaboxes.php:2298
+msgid "Select the slideshow"
+msgstr "Wählen Sie die Diashow"
+
+#: lib/metaboxes-old.php:2312 lib/metaboxes.php:2330
+msgid "Slideshow position"
+msgstr "Diashow Position"
+
+#: lib/metaboxes-old.php:2315 lib/metaboxes.php:2333
+msgid "Select the slider position"
+msgstr "Wählen Sie die Schieberposition"
+
+#: lib/metaboxes-old.php:2332 lib/metaboxes.php:2350
+msgid "Under the header"
+msgstr "Unter der Überschrift"
+
+#: lib/metaboxes-old.php:2333 lib/metaboxes.php:2351
+msgid "Beneath the header"
+msgstr "Unter dem Kopf"
+
+#: lib/metaboxes-old.php:2348 lib/metaboxes.php:2366
+msgid "Page background"
+msgstr "Hintergrund Seite"
+
+#: lib/metaboxes-old.php:2364 lib/metaboxes.php:2382
+msgid "Background"
+msgstr "Hintergrund"
+
+#: lib/metaboxes-old.php:2367 lib/metaboxes.php:2385
+msgid "Upload an image background"
+msgstr "Hintergrundbild hochladen"
+
+#: lib/metaboxes-old.php:2429 lib/metaboxes.php:2447
+msgid "Contact Page Options"
+msgstr "<p class=\"description\"> 联系人页面选项</p>"
+
+#: lib/metaboxes-old.php:2433 lib/metaboxes.php:2451
+msgid "Address"
+msgstr "Adresse"
+
+#: lib/metaboxes-old.php:2449 lib/metaboxes.php:2467
+msgid "Show map"
+msgstr "Karte anzeigen"
+
+#: lib/metaboxes-old.php:2452 lib/metaboxes.php:2470
+msgid "Show/hide map"
+msgstr "Ein-/Ausblenden"
+
+#: lib/metaboxes-old.php:2465 lib/metaboxes.php:2483
+msgid "Addresses"
+msgstr "Adressen"
+
+#: lib/metaboxes-old.php:2468 lib/metaboxes.php:2486
+msgid "If your business has more addresses you can add them here."
+msgstr ""
+
+#: lib/metaboxes-old.php:2484 lib/metaboxes.php:2502
+msgid "Latitude"
+msgstr "Breitengrad"
+
+#: lib/metaboxes-old.php:2487 lib/metaboxes.php:2505
+msgid ""
+"Enter the latitude value of your location in this format 51.13456\n"
+"Latitude value is the first string (before comma) of google map address. E."
+"G.: 51.13456, -1.34333"
+msgstr ""
+"Geben Sie den Breitenwert von Ihrem Standort in diesem Format 51,13456 "
+"Latitude-Wert ist die erste Saite (vor Komma) von Google Map-Adresse. "
+"Beispiel: 51,13456, -1,34333"
+
+#: lib/metaboxes-old.php:2506 lib/metaboxes.php:2524
+msgid "Longitude"
+msgstr "Längengrad"
+
+#: lib/metaboxes-old.php:2509 lib/metaboxes.php:2527
+msgid ""
+"Enter the longitude value of your location in this format -1.34333\n"
+"Latitude value is the second string (after comma) of google map address. E."
+"G.: 51.13456, -1.34333"
+msgstr ""
+"Geben Sie den Längenwert Ihrer Position in diesem Format -1,34333 Latitude-"
+"Wert ist die zweite Saite (hinter dem Komma) von Google Map-Adresse. "
+"Beispiel: 51,13456, -1,34333"
+
+#: lib/metaboxes-old.php:2528 lib/metaboxes.php:2546
+msgid "Zoom"
+msgstr "Zoom"
+
+#: lib/metaboxes-old.php:2531 lib/metaboxes.php:2549
+msgid "Insert the zoom factor. Default: 10"
+msgstr "Setzen Sie den Zoomfaktor. Standard: 10"
+
+#: lib/metaboxes-old.php:2549 lib/metaboxes.php:2567
+msgid "InfoWindow"
+msgstr "Info Fenstertyp"
+
+#: lib/metaboxes-old.php:2552
+msgid ""
+"Insert your address details. Will appear after you click on the marker "
+"icon. \n"
+"This field supports HTML."
+msgstr ""
+
+#: lib/metaboxes-old.php:2571 lib/metaboxes.php:2588
+msgid "Switch menu title"
+msgstr ""
+
+#: lib/metaboxes-old.php:2574 lib/metaboxes.php:2591
+msgid ""
+"Insert here the link title for the menu. If you have more than 1 location a "
+"map menu will appear helping you to switch between locations."
+msgstr ""
+
+#: lib/metaboxes-old.php:2594 lib/metaboxes-old.php:2610 lib/metaboxes.php:2611
+#: lib/metaboxes.php:2627
+msgid "Contact form"
+msgstr "Kontaktformular"
+
+#: lib/metaboxes-old.php:2613 lib/metaboxes.php:2630
+msgid "Enable/disable contact form. Default: true"
+msgstr "Aktivieren / Deaktivieren Kontaktformular. Standard: true"
+
+#: lib/metaboxes-old.php:2626 lib/metaboxes.php:2643
+#: lib/nav/edit_custom_walker.php:194
+msgid "Description"
+msgstr "Beschreibung"
+
+#: lib/metaboxes-old.php:2629 lib/metaboxes.php:2646
+msgid "Describe your contact form."
+msgstr "Beschreiben Sie Ihre Kontakt-Formular."
+
+#: lib/metaboxes-old.php:2655 lib/metaboxes.php:2672
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+#: lib/metaboxes-old.php:2658 lib/metaboxes.php:2675
+msgid ""
+"Enter your email address. On this address you will receive the emails from "
+"this contact form. If the email is not set it defaults to the admin email "
+"from Settings >> General."
+msgstr ""
+"Geben sie ihre E-Mailadresse ein. Auf dieser Adresse finden Sie die E-Mails "
+"von diesem Kontaktformular erhalten. Wenn die E-Mail wird nicht "
+"standardmäßig auf den Admin-E-Mail von Einstellungen >> Allgemein "
+"eingestellt."
+
+#: lib/metaboxes-old.php:2684 lib/metaboxes.php:2701
+msgid "From: Email address"
+msgstr "Von E-Mail-Adresse:"
+
+#: lib/metaboxes-old.php:2687 lib/metaboxes.php:2704
+msgid "Enter the FROM email address. E.G.: noreply@yoursitename.com"
+msgstr "Geben Sie die FROM Email-Adresse. Beispiel: noreply@yoursitename.com"
+
+#: lib/metaboxes-old.php:2713 lib/metaboxes.php:2730
+msgid "Success text"
+msgstr "Text Erfolgsmeldung"
+
+#: lib/metaboxes-old.php:2716 lib/metaboxes.php:2733
+msgid ""
+"Enter the success message that will be displayed on successful email "
+"delivery."
+msgstr ""
+"Geben Sie die Erfolgsmeldung, die auf erfolgreichen E-Mail-Zustellung "
+"angezeigt wird."
+
+#: lib/metaboxes-old.php:2742 lib/metaboxes.php:2759
+msgid "Error text"
+msgstr "Errortext"
+
+#: lib/metaboxes-old.php:2745 lib/metaboxes.php:2762
+msgid ""
+"Enter the error message that will be displayed on\temail delivery failure."
+msgstr ""
+"Geben Sie die Fehlermeldung, die auf E-Mail-Übermittlungsfehler angezeigt "
+"wird."
+
+#: lib/metaboxes.php:387
+msgid "Enable/disable sticky menu"
+msgstr ""
+
+#: lib/metaboxes.php:400
+msgid "Language menu"
+msgstr ""
+
+#: lib/metaboxes.php:403
+msgid "Enable/disable lang menu (if WPML or Polylang is installed)"
+msgstr ""
+
+#: lib/metaboxes.php:419
+msgid "Enable/disable header minicart (if WooCommerce is installed)"
+msgstr ""
+
+#: lib/metaboxes.php:940
+msgid "Select the theme font. Default: Playfair Display"
+msgstr "Wählen Sie das Thema Schriftart. Standard: Playfair Anzeige"
+
+#: lib/metaboxes.php:1037
+msgid "Default value: #b0976d"
+msgstr "Standardwert: # b0976d"
+
+#: lib/metaboxes.php:1060
+msgid ""
+"Modify the default elements color. \n"
+"Affects: elements with background color, like footer, badges, menu, buttons, "
+"etc"
+msgstr ""
+"Ändern Sie die Standard-Elemente Farbe. Beeinflusst: Elemente mit "
+"Hintergrundfarbe, wie Fußzeile, Abzeichen, Menü, Buttons, etc."
+
+#: lib/metaboxes.php:1070
+msgid "Default value: #121212\n"
+msgstr ""
+
+#: lib/metaboxes.php:1083
+msgid "Primary color alt"
+msgstr "Primärfarbe"
+
+#: lib/metaboxes.php:1388
+msgid "Store custom fields"
+msgstr ""
+
+#: lib/metaboxes.php:1399
+msgid "Custom fields options"
+msgstr ""
+
+#: lib/metaboxes.php:1405
+msgid "Year field"
+msgstr ""
+
+#: lib/metaboxes.php:1408
+msgid "Show/hide the Year field on frontend"
+msgstr ""
+
+#: lib/metaboxes.php:1421
+msgid "Bottle size field"
+msgstr ""
+
+#: lib/metaboxes.php:1424
+msgid "Show/hide the Bottle size field on frontend"
+msgstr ""
+
+#: lib/metaboxes.php:2570
+msgid ""
+"Insert your address details. Will appear after you click on the marker icon."
+msgstr ""
+"Legen Sie Ihre Adressdaten ein. Wird angezeigt, nachdem Sie auf das "
+"Markierungssymbol klicken."
+
+#: lib/nav/edit_custom_walker.php:99
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Ungültig)"
+
+#: lib/nav/edit_custom_walker.php:103
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (ausstehend)"
+
+#: lib/nav/edit_custom_walker.php:116
+msgid "sub item"
+msgstr "Unterartikel"
+
+#: lib/nav/edit_custom_walker.php:131
+msgid "Move up"
+msgstr "Nach oben"
+
+#: lib/nav/edit_custom_walker.php:144
+msgid "Move down"
+msgstr "Nach unten"
+
+#: lib/nav/edit_custom_walker.php:148
+msgid "Edit menu item"
+msgstr "Menüpunkt bearbeiten"
+
+#: lib/nav/edit_custom_walker.php:148 parts/gallery/part-gallery.php:61
+#: parts/post-formats/part.php:58
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: lib/nav/edit_custom_walker.php:157
+msgid "URL"
+msgstr "URL"
+
+#: lib/nav/edit_custom_walker.php:164
+msgid "Navigation Label"
+msgstr "Navigation Label"
+
+#: lib/nav/edit_custom_walker.php:170
+msgid "Title Attribute"
+msgstr "Titel-Attribut"
+
+#: lib/nav/edit_custom_walker.php:177
+msgid "Open link in a new tab"
+msgstr "Link in einem neuen Tab öffnen"
+
+#: lib/nav/edit_custom_walker.php:182
+msgid "CSS Classes (optional)"
+msgstr "CSS Klassen (optional)"
+
+#: lib/nav/edit_custom_walker.php:188
+msgid "Link Relationship (XFN)"
+msgstr "Link-Beziehung (XFN)"
+
+#: lib/nav/edit_custom_walker.php:196
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"Die Beschreibung wird im Menü angezeigt, wenn es das derzeitige Theme "
+"unterstützt."
+
+#: lib/nav/edit_custom_walker.php:202
+msgid "Move"
+msgstr "Bewegen"
+
+#: lib/nav/edit_custom_walker.php:203
+msgid "Up one"
+msgstr "Eins hoch"
+
+#: lib/nav/edit_custom_walker.php:204
+msgid "Down one"
+msgstr "Eins runter"
+
+#: lib/nav/edit_custom_walker.php:207
+msgid "To the top"
+msgstr "Nach oben"
+
+#: lib/nav/edit_custom_walker.php:217
+msgid "Menu type"
+msgstr "Menü Typ"
+
+#: lib/nav/edit_custom_walker.php:245
+msgid "Force megamenu fullscreen"
+msgstr "Kraft megamenu Vollbild"
+
+#: lib/nav/edit_custom_walker.php:251
+msgid "Extra HTML"
+msgstr "Extra-HTML"
+
+#: lib/nav/edit_custom_walker.php:253
+msgid ""
+"Use a key and value on each line like this: <br>image : image_url "
+"<br>video : video_url"
+msgstr ""
+"Verwenden Sie einen Schlüssel und einen Wert in jeder Zeile wie folgt aus: "
+"<br> Bild: image_url <br> Video: video_url"
+
+#: lib/nav/edit_custom_walker.php:260
+msgid "Hide the menu item label"
+msgstr "Ausblenden der Menüpunkt Etikett"
+
+#: lib/nav/edit_custom_walker.php:271
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: lib/nav/edit_custom_walker.php:284
+msgid "Remove"
+msgstr "Entfernen"
+
+#: lib/nav/edit_custom_walker.php:285
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: lib/nav/menu-limit-detector.php:28
+msgid ""
+"Your server is running Suhosin, and your current maxvars settings may limit "
+"the number of menu items you can save."
+msgstr ""
+"Der Server läuft Suhosin, und Ihre aktuellen maxvars Einstellungen können "
+"die Anzahl der Menüpunkte begrenzen Sie sparen können."
+
+#: lib/nav/menu-limit-detector.php:35
+msgid ""
+"You are approaching the post variable limit imposed by your server "
+"configuration.  Exceeding this limit may automatically delete menu items "
+"when you save.  Please increase your <strong>max_input_vars/"
+"suhosin_post_maxvars/suhosin_request_maxvars</strong> directive in php.ini.  "
+"<a href='http://goo.gl/9jm7s'>More information</a>"
+msgstr ""
+"Sie nähern sich die Post variable Grenze durch die Serverkonfiguration "
+"auferlegt. Ein Überschreiten dieser Grenze kann Menüeinträge automatisch "
+"löschen, wenn Sie speichern. Bitte erhöhen Sie Ihre <strong>max_input_vars / "
+"suhosin_post_maxvars / suhosin_request_maxvars</strong> in der php.ini. <a "
+"href='http://goo.gl/9jm7s'>Weitere Informationen</a>"
+
+#: lib/nav/menu-limit-detector.php:42
+msgid "Menu Item Limit Warning"
+msgstr "Menüpunkt Limit-Warnung"
+
+#: lib/nav/menu-limit-detector.php:55
+msgid "Menu Item Post variable count on last save"
+msgstr "Menüpunkt Beitrag Variable count auf dem letzten Speichern"
+
+#: lib/nav/menu-limit-detector.php:59
+msgid "Approximate remaining menu items"
+msgstr "Ungefähre restlichen Menüpunkte"
+
+#: lib/sidebars.php:10
+msgid "Page Sidebar"
+msgstr "Sidebar Seiten"
+
+#: lib/sidebars.php:11
+msgid "Posts Sidebar"
+msgstr "Beiträge Sidebar"
+
+#: lib/sidebars.php:12
+msgid "Search Sidebar"
+msgstr "Suchen- Seitenleiste"
+
+#: lib/sidebars.php:13
+msgid "Shop Sidebar"
+msgstr "Shop Sidebar"
+
+#: lib/sidebars.php:14
+msgid "Product Sidebar"
+msgstr "Produkt Seitenleiste"
+
+#: lib/sidebars.php:15
+msgid "Footer First Sidebar"
+msgstr "Footer Erste Sidebar"
+
+#: lib/sidebars.php:16
+msgid "Footer Second Sidebar"
+msgstr "Footer Zweite Sidebar"
+
+#: lib/sidebars.php:17
+msgid "Footer Third Sidebar"
+msgstr "Footer Third Sidebar"
+
+#: lib/sidebars.php:18
+msgid "Footer Fourth Sidebar"
+msgstr "Footer Vierte Sidebar"
+
+#: lib/theme-woocommerce.php:79
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Startseite"
+
+#: lib/theme-woocommerce.php:420
+msgid "View your shopping cart"
+msgstr "Ansicht deines Einkaufswagens"
+
+#: lib/theme-woocommerce.php:424
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/twitter/twitter.php:36
+#, php-format
+msgid "%s ago"
+msgstr "vor %s"
+
+#: lib/twitter/twitter.php:38
+msgid "Y/m/d"
+msgstr "J/M/T"
+
+#: lib/twitter/twitter.php:40
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: lib/twitter/twitter.php:64
+msgid "Y/m/d H:i:s"
+msgstr "Y/m/d H:i:s"
+
+#: lib/widgets/contact-widget.php:13
+msgid "Contact Widget"
+msgstr "Kontakt Widget"
+
+#: lib/widgets/contact-widget.php:14
+msgid "Contact us Widget"
+msgstr "Kontaktiere uns Widget"
+
+#: lib/widgets/contact-widget.php:41
+msgid "Get directions"
+msgstr "Wegbeschreibung"
+
+#: lib/widgets/contact-widget.php:79 lib/widgets/flickr-widget.php:54
+#: lib/widgets/social-icons-widget.php:68
+#: lib/widgets/working-hours-widget.php:72
+msgid "Title:"
+msgstr "Titel:"
+
+#: lib/widgets/contact-widget.php:85
+msgid "Your Phone:"
+msgstr "Deine Telefonnummer:"
+
+#: lib/widgets/contact-widget.php:90
+msgid "Your Fax:"
+msgstr "Deine Faxnummer:"
+
+#: lib/widgets/contact-widget.php:96
+msgid "Your Email:"
+msgstr "Deine E-Mail:"
+
+#: lib/widgets/contact-widget.php:102
+msgid "Your Address:"
+msgstr "Ihre Adresse:"
+
+#: lib/widgets/contact-widget.php:107
+msgid "Directions:"
+msgstr "Anfahrtsbeschreibung:"
+
+#: lib/widgets/contact-widget.php:109
+msgid ""
+"Insert the longitude and latitude coordinates separated by comma. E.g.: "
+"43.2238916,-76.2575936"
+msgstr ""
+"Legen Sie die Längen- und Breitengrad-Koordinaten durch Komma getrennt. ZB: "
+"43.2238916, -76,2575936"
+
+#: lib/widgets/contact-widget.php:114
+msgid "Extra details:"
+msgstr "Zusätzliche Details:"
+
+#: lib/widgets/flickr-widget.php:13
+msgid "Flickr Widget"
+msgstr "Flickr Widget"
+
+#: lib/widgets/flickr-widget.php:14
+msgid "Display up to 20 of your latest Flickr submissions"
+msgstr "Anzeige von bis zu 20 Ihrer neuesten Flickr Einreichungen"
+
+#: lib/widgets/flickr-widget.php:35
+msgid "View stream on flickr"
+msgstr "Siehe Stream auf FLickr"
+
+#: lib/widgets/flickr-widget.php:48
+msgid "Photostream"
+msgstr "ICloud"
+
+#: lib/widgets/flickr-widget.php:59
+#, php-format
+msgid ""
+"Flickr ID (To find your flickID visit <a href=\"%s\" target=\"_blank"
+"\">idGettr</a>)"
+msgstr ""
+"Flickr - ID (Zu Ihrer flickID Besuch finden <a href=\"%s\" target=\"_blank"
+"\">idGettr</a> )"
+
+#: lib/widgets/flickr-widget.php:64
+msgid "Count:"
+msgstr "Anzahl:"
+
+#: lib/widgets/instagram-widget.php:13
+msgid "Displays your latest Instagram photos"
+msgstr "Zeig deine neuesten Instagram-Fotos."
+
+#: lib/widgets/instagram-widget.php:40
+msgid "Instagram Followers"
+msgstr "Instagram Follower"
+
+#: lib/widgets/instagram-widget.php:92
+msgid "Follow Us"
+msgstr "Folge uns"
+
+#: lib/widgets/instagram-widget.php:99
+msgid "Title"
+msgstr "Titel"
+
+#: lib/widgets/instagram-widget.php:100
+msgid "Username"
+msgstr "Benutzername"
+
+#: lib/widgets/instagram-widget.php:101
+msgid "Number of photos"
+msgstr "Anzahl der Bilder"
+
+#: lib/widgets/instagram-widget.php:102
+msgid "Number of followers"
+msgstr "Anzahl d. Abonnierten Nutzer"
+
+#: lib/widgets/instagram-widget.php:104
+msgid "Link text"
+msgstr "Verbindungstext"
+
+#: lib/widgets/instagram-widget.php:130
+msgid "Unable to communicate with Instagram."
+msgstr "Es konnte keine Verbindung / Kommunikation mit Instagram"
+
+#: lib/widgets/instagram-widget.php:133
+msgid "Instagram did not return a 200."
+msgstr "Instagram hat keine 200 zurückgegeben."
+
+#: lib/widgets/instagram-widget.php:140 lib/widgets/instagram-widget.php:145
+#: lib/widgets/instagram-widget.php:149
+msgid "Instagram has returned invalid data."
+msgstr "Instagram hat ungültige Daten zurückgegeben."
+
+#: lib/widgets/instagram-widget.php:167
+msgid "Instagram Image"
+msgstr "Instagram Bild"
+
+#: lib/widgets/instagram-widget.php:202
+msgid "Instagram did not return any images."
+msgstr "Instagram sendete keine Bilder zurück"
+
+#: lib/widgets/social-icons-widget.php:13
+msgid "Social Icons Widget"
+msgstr "Social-Media Icon-Widget aktivieren"
+
+#: lib/widgets/social-icons-widget.php:14
+msgid "Display a list of social icons"
+msgstr "Eine Liste der sozialen Symbole"
+
+#: lib/widgets/working-hours-widget.php:13
+msgid "Working Hours Widget"
+msgstr "Arbeitszeit Widget"
+
+#: lib/widgets/working-hours-widget.php:14
+msgid "Display your business working hours"
+msgstr "Zeigen Sie Ihr Unternehmen Arbeitszeit"
+
+#: lib/widgets/working-hours-widget.php:37
+msgid "Monday - Friday"
+msgstr "Montag – Freitag"
+
+#: lib/widgets/working-hours-widget.php:40
+msgid "Saturday"
+msgstr "Samstag"
+
+#: lib/widgets/working-hours-widget.php:43
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: lib/widgets/working-hours-widget.php:61
+msgid "Working hours"
+msgstr "Arbeitszeit"
+
+#: lib/widgets/working-hours-widget.php:77
+msgid "Monday - Friday:"
+msgstr "Montag – Freitag:"
+
+#: lib/widgets/working-hours-widget.php:82
+msgid "Saturday:"
+msgstr "Samstag:"
+
+#: lib/widgets/working-hours-widget.php:87
+msgid "Sunday:"
+msgstr "Sonntag:"
+
+#: lib/widgets/working-hours-widget.php:92
+msgid "Other details:"
+msgstr "Andere Angaben :"
+
+#: lib/woocommerce-sold-out.php:16 woocommerce/sold-out-flash.php:8
+msgid "Sold Out!"
+msgstr "Ausverkauft!"
+
+#: lib/woocommerce-year-field.php:16 woocommerce/loop/price.php:46
+msgid "Year"
+msgstr "Jahr"
+
+#: lib/woocommerce-year-field.php:18
+msgid "Enter the year here"
+msgstr "Jahr hier eingeben"
+
+#: lib/woocommerce-year-field.php:26
+msgid "Bottle size"
+msgstr "Flaschengröße"
+
+#: lib/woocommerce-year-field.php:28
+msgid "Enter the bottle size here"
+msgstr "Geben Sie die Flaschengröße hier"
+
+#: parts/forms/part-contact-form.php:22
+#: parts/forms/part-contact-miniform.php:18
+msgid "The name is required and cannot be empty"
+msgstr "Der Name ist erforderlich und kann nicht leer sein"
+
+#: parts/forms/part-contact-form.php:26
+#: parts/forms/part-contact-miniform.php:22
+msgid "The email is required and cannot be empty"
+msgstr "Die E-Mail ist erforderlich und kann nicht leer sein"
+
+#: parts/forms/part-contact-form.php:26
+#: parts/forms/part-contact-miniform.php:22
+msgid "The input is not a valid email address"
+msgstr "ist keine gültige E-Mail-Adresse"
+
+#: parts/forms/part-contact-form.php:29 parts/forms/part-contact-form.php:30
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: parts/forms/part-contact-form.php:30
+msgid "The phone number is required and cannot be empty"
+msgstr "Die Telefonnummer ist erforderlich und kann nicht leer sein"
+
+#: parts/forms/part-contact-form.php:34
+msgid "The subject is required and cannot be empty"
+msgstr "Das Thema ist erforderlich und kann nicht leer sein"
+
+#: parts/forms/part-contact-form.php:38
+#: parts/forms/part-contact-miniform.php:26
+msgid "The message is required and cannot be empty"
+msgstr "Die Meldung ist erforderlich und kann nicht leer sein"
+
+#: parts/forms/part-contact-form.php:44
+#: parts/forms/part-contact-miniform.php:31
+msgid "Send"
+msgstr "Abschicken"
+
+#: parts/gallery/part-gallery-single.php:34 parts/gallery/part-gallery.php:47
+#: parts/part-page.php:16 parts/post-formats/part.php:37
+msgid "Pages:"
+msgstr ""
+"Keine vorhandenen Beiträge, Seiten, Kategorien, Bilder, benutzerdefinierte "
+"Post-Typen oder andere Daten werden gelöscht oder verändert."
+
+#: parts/gallery/part-gallery.php:42 parts/post-formats/part-vc-default.php:23
+#: parts/post-formats/part.php:32
+#, php-format
+msgid "Continue reading %s"
+msgstr "Weiterlesen %s"
+
+#: parts/part-searchform-toolbar.php:13
+msgid "search for products"
+msgstr "Suche"
+
+#: parts/post-formats/part-none.php:15
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: parts/post-formats/part-none.php:21
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Es wurden leider keine Suchergebnisse gefunden. Vielleicht hilft Ihnen die "
+"Suchfunktion dabei, einen passenden Eintrag zu finden."
+
+#: search.php:37
+msgid "Blog results"
+msgstr ""
+
+#: search.php:41
+msgid "Product search results"
+msgstr ""
+
+#: single.php:25
+msgid "Previous post"
+msgstr "Vorheriger Artikel"
+
+#: single.php:26
+msgid "Next post"
+msgstr "Nächste Artikel"
+
+#: theme-templates/contact.php:40
+msgid "View map"
+msgstr "Karte zeigen"
+
+#: tribe-events/day/single-event.php:48 tribe-events/list/single-event.php:54
+msgid "Price - "
+msgstr "Preis - "
+
+#: tribe-events/day/single-event.php:52 tribe-events/list/single-event.php:57
+msgid "Find out more"
+msgstr "Mehr erfahren"
+
+#: tribe-events/modules/bar.php:30 tribe-events/modules/bar.php:45
+#, php-format
+msgid "Find %s"
+msgstr "Suche %s"
+
+#: tribe-events/modules/bar.php:57
+msgid "Event Views Navigation"
+msgstr "Legen Sie eine Aktion für das Klick-Ereignis fest falls nötig."
+
+#: tribe-events/modules/bar.php:58
+msgid "View As"
+msgstr "Anzeigen als:"
+
+#: tribe-events/single-event.php:77
+#, php-format
+msgid "%s Navigation"
+msgstr "%s Navigation"
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr "Warenkorb gesamt"
+
+#: woocommerce/cart/cart-totals.php:32 woocommerce/cart/cart-totals.php:33
+msgid "Subtotal"
+msgstr "Zwischensumme"
+
+#: woocommerce/cart/cart-totals.php:54 woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr "Versand"
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr "voraussichtlich %s"
+
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:118
+msgid "Total"
+msgstr "Summe"
+
+#: woocommerce/cart/cart-totals.php:100
+msgid "Update Cart"
+msgstr "Warenkorb aktualisieren"
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:77
+msgid "Product"
+msgstr "Produkt"
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:95
+#: woocommerce/loop/price.php:55
+msgid "Price"
+msgstr "Preis - "
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:101
+msgid "Quantity"
+msgstr "Menge"
+
+#: woocommerce/cart/cart.php:58
+msgid "Remove this item"
+msgstr "Diesen Artikel entfernen"
+
+#: woocommerce/cart/cart.php:90
+msgid "Available on backorder"
+msgstr "Nur auf Vorbestellung"
+
+#: woocommerce/cart/cart.php:137 woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr "Gutscheincode"
+
+#: woocommerce/cart/cart.php:141
+msgid "Apply"
+msgstr "Hinzufügen"
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr "Zahlung &amp; Versand"
+
+#: woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr "Rechnungsdetails"
+
+#: woocommerce/checkout/form-billing.php:41
+msgid "Ship to a different address?"
+msgstr "Lieferung an abweichende Adresse"
+
+#: woocommerce/checkout/form-billing.php:65
+msgid "Create an account?"
+msgstr "Erstellen Sie ein Konto"
+
+#: woocommerce/checkout/form-billing.php:76
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Erstelle ein Kundenkonto indem du deine Informationen eingibst. Bist du ein "
+"wiederkehrender Besucher einfach oben einloggen."
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Sie müssen eingeloggt sein, um zur Kasse gehen zu können. %s oder %s."
+
+#: woocommerce/checkout/form-checkout.php:50
+msgid "Your order"
+msgstr "Ihre Bestellung"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr "Haben Sie einen Gutscheincode?"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr "Klicken Sie hier, um Ihren Gutscheincode einzugeben"
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Apply Coupon"
+msgstr "Gutschein anwenden"
+
+#: woocommerce/checkout/form-shipping.php:20
+msgid "Shipping Details"
+msgstr "Versanddetails"
+
+#: woocommerce/checkout/form-shipping.php:42
+msgid "Additional Information"
+msgstr "Weitere Informationen"
+
+#. Theme Name of the plugin/theme
+msgid "Villenoir"
+msgstr "Villenoir"
+
+#. Theme URI of the plugin/theme
+msgid "http://okthemes.com/villenoir"
+msgstr "http://okthemes.com/villenoir"
+
+#. Description of the plugin/theme
+msgid "Vineyard, Winery  & Wine WooCommerce shop"
+msgstr "Weinberg, Weingut & Wein WooCommerce Shop"
+
+#. Author of the plugin/theme
+msgid "Cristian Gogoneata"
+msgstr "Cristian Gogoneata"
+
+#. Author URI of the plugin/theme
+msgid "http://www.okthemes.com"
+msgstr "http://www.okthemes.com"
+
+#~ msgid "If your clinic has more addresses you can add them here."
+#~ msgstr ""
+#~ "Wenn Ihre Klinik mehrere Adressen hat, können Sie sie hier bereitstellen."
+
+#~ msgid "Remote server returned %1$d %2$s for %3$s"
+#~ msgstr "Remote-Server lieferte folgende Meldung zurück %1$d %2$s für %3$s"
+
+#~ msgid ""
+#~ "Insert the footer text. E.G.: <pre>&lt;div class=\"heading\"&gt;&lt;p "
+#~ "class=\"h_subtitle\"&gt;Villenoir promise&lt;/p&gt;&lt;h2 class=\"h_title"
+#~ "\"&gt;We make good wines&lt;/h2&gt;&lt;/div&gt;</pre>"
+#~ msgstr ""
+#~ "Legen Sie die Fußzeile Text. Z.B: <pre> <Div class = \"heading\"> <p "
+#~ "class = \"h_subtitle\"> Villenoir Versprechen </ p> <h2 class = \"h_title"
+#~ "\"> Wir machen gute Weine </ h2> </ div> </pre>"

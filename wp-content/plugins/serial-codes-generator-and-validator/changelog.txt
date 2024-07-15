@@ -1,0 +1,384 @@
+= 2.4.10 - 2023-02-10 =
+* Added option to activate a compatibility mode for the ticket urls in case you experience issues
+* Fixed color issue of the ticket title and event name, so that your theme is not overwriting it
+* Fix for the meta object information
+
+= 2.4.9 - 2023-01-19 =
+* Optimization of classes and calls
+* Fix issues with wp-cli calls
+* Fix table upgrade renaming function
+
+= 2.4.8 - 2023-01-04 =
+* Fix of the missing ticket bug (one ticket or none ticket numbers where generated)
+
+= 2.4.7 - 2022-12-31 =
+* Fix table definition of ip list
+* Code size to 150 letters increased
+
+= 2.4.6 - 2022-12-27 =
+* You can now enter date placeholder on the code prefix that will be replaced when the code is generated. Makes sense on the lists and product.
+* The list of serials is now sorted by the creation date descending, to find faster your new generated codes numbers
+* Bug fix for redirect btn label
+
+= 2.4.5 - 2022-12-10 =
+* If the order is cancelled, the used ticket codes will be freed up
+* Quantity check while adding ticket number to the order
+* Add stats to support area
+
+= 2.4.4 - 2022-12-02 =
+* Fix JS Redirect URL return value
+* ONLY FREE USERS: Renaming tables to match the PREMIUM (in case you want upgrade, you are not loosing your codes anymore - was a bug)
+
+= 2.4.3 - 2022-11-30 =
+* Fix for the purchase
+* Fix Ajax loading
+
+= 2.4.2 - 2022-11-29 =
+* Add new option to display serial codes in the user profile view
+* Add new option to display bought serial codes in the user profile view
+* Add missing qr code javascript loader
+
+= 2.4.1 - 2022-11-22 =
+* Add action for option update
+* Add new search option for registered user id
+* Allow spaces between the search commands (LIST:, ORDERID:, CVV:, STATUS:, USERID:)
+
+= 2.4.0 - 2022-11-09 =
+* Redirect btn label and option added to the code list
+* Added more error handling to the PDF generation
+
+= 2.3.16 - 2022-10-31 =
+* Serials are only generated for WooCommerce orders, if the status is now set to complete or processing. This should prevent generating codes for failed payments.
+
+= 2.3.15 - 2022-10-26 =
+* Catch deleted orders on the ticket detail view
+* Ticket scanner page is checking now also the ticket security salt while loading the ticket
+* Hide ticket and serial code information if the order is not paid
+
+= 2.3.14 - 2022-10-06 =
+* JS redirect fixed
+
+= 2.3.13 - 2022-10-05 =
+* Add button to display the QR with just the serial code in it
+* Add new option to add an URL for the QR code to be displayed
+* Add button to display the QR with an URL in it
+* Add new filter for JS redirect "sngmbh_serial-code_getJSRedirectURL"
+* Add CVV on the email and PDF for purchased serials if available
+* Fix clickable serial code in order view if more than one serial was added
+
+= 2.3.12 - 2022-09-22 =
+* Default value is changed to true for the option reuse not used serial codes within a code list assigned to a product
+* Fix ticket scanner URL
+
+= 2.3.11 - 2022-09-21 =
+* Add new information to the support area
+* Optimized the URL building for the ticket URLs
+
+= 2.3.10 - 2022-09-10 =
+* Time optimized for code imports
+* Ticket scanner error message optimized
+* Ticket scanner scan and loading of the ticket optimized
+
+= 2.3.9 - 2022-08-27 =
+* Add new parameter "action" for the URL to the validation form. You can now trigger the validation with the paramter in the URL.
+
+= 2.3.8 - 2022-08-22 =
+* Deletion of code also removes now the information on the product
+* Code optimization
+
+= 2.3.7 - 2022-08-20 =
+* Fix product formatter values
+
+= 2.3.6 - 2022-08-09 =
+* New browser window open if clicked on the ticket detail view after purchase an event ticket
+* Code list at WooCommerce product detail is sorted now
+* Allow HTML like on posts for event ticket short description and info text
+* Display price on ticket with currency and two decimal digits
+
+= 2.3.5 - 2022-08-07 =
+* Default display for one time usage of a restriction code is set to be 0
+* Correct typo for "ticket redeemed" default message
+* Code optimization
+* HTML can be used on the ticket detail note and product description
+* Font changed to support arabic letters
+
+= 2.3.4 - 2022-08-01 =
+* Fixed restrict purchase form
+
+= 2.3.3 - 2022-08-01 =
+* Fixed restrict purchase form
+
+= 2.3.2 - 2022-07-28 =
+* DB Prefix changed
+
+= 2.3.1 - 2022-07-28 =
+* QR Code for tickets fixed
+
+= 2.3.0 - 2022-07-27 =
+* Add more support information to the support area
+* Add repair table button to support
+* A default list is now created with the initial installation
+* Add ticket checks for stolen and inactive codes
+* Fixed activation bug
+* Prepared for the next premium version
+* Changed some major components and communication channel between objects
+
+= 2.2.2 - 2022-07-25 =
+* Import für exported codes added
+* Fix JS pre function
+* Added php filter_hooks for pre and after code checks
+* Add additional information for the validation message
+
+= 2.2.1 - 2022-07-10 =
+* Ticket PDF error message optimized
+* Tickets can be scanned and redeemed immediately to save time
+* New ticket option: You can activate that only an admin user can start the ticket scanner page
+* New Option for restriticted WooCommerce sale code: You can define how the code used as a restriction code is marked as used
+* Changed action parameter name to prevent collision with some other plugins
+* Add new text message added for validation if the ticket is redeemed
+* Code optimization
+* Premium Serial Helper added
+
+= 2.2.0 - 2022-06-22 =
+* You can sell now tickets for your event
+* Ticket serial code is printed on the purchase emails and confirmation page
+* Added ticket "is-used" page for your client
+* New webhook URL for "WooCommerce order removed from code"
+* Add webhooks for ticket sale
+* Add export fields for WooCommerce sale restriction
+* Add export fields for WooCommerce ticket sale
+* Serial code is printed also on the confirmation email of a sale
+* Scanner to redeem tickets added
+
+= 2.1.20 - 2022-06-10 =
+* Changes on the global variable
+
+= 2.1.19 - 2022-06-06
+* Adopted code to support PHP 8
+* Adopted code to support non globals and $_REQUEST variable
+
+= 2.1.18 - 2022-05-26 =
+* Code optimization
+* Bugfix for meta data display of a code
+* Add a support button for support information of the chosen options
+
+= 2.1.17 - 2022-05-24 =
+* Woocommerce restriction code check will be now reloading the page, to change the error message or to remove it.
+* Bugfix for the get_options
+
+= 2.1.16 - 2022-05-13 =
+* Ip blocker issue for unknown codes fixed
+
+= 2.1.15 - 2022-04-12 =
+* Add validation fields to the export
+
+= 2.1.14 - 2022-03-21 =
+* Add new seperator option for serials printed on PDF invoices and on the "complete order" email
+* Code optimized
+* Add details about the first successful validation check
+* More clear error messages
+
+= 2.1.13 - 2022-03-01 =
+* Add new URL replacement tags from the meta information of a code to have the value if available added to the redirect, webhook URL and text messages
+* Add new code export setting to filter for a code list
+* Add new option to control the seperator to display the assigned codes to the user
+* Optimized refreshing for restriction codes on the WooCommerce cart
+
+= 2.1.12 - 2022-02-16 =
+* You can use the replacement tags for the URLs also your own text messages
+* Add new URL replacement tag {LIST_DESC} to have the list description added to the redirect and webhook URL
+* Add new option to allow a redirect for a already registered code, if the user is the one that is registered to the code
+* Bug fix for one time use message
+
+= 2.1.11 - 2022-02-14 =
+* Display serial codes assigned to your user via new shortcode [sngmbhSerialcodesValidator_code]
+* Bug fix for JS after call
+
+= 2.1.10 - 2022-02-07 =
+* Bug fix for order->id access on Woocommerce
+* Bug fix storing the option values
+
+= 2.1.9 - 2022-02-02 =
+* Add do_actions for several functions
+* Add apply_filters for several functions
+* Add a new webhook for "new a code was purchased"
+* JS redirect fix for code list empty URLs
+
+= 2.1.8 - 2022-01-27 =
+* Add code list description that can be displayed to the successful validation check
+* JS Redirect for the code list added. It will overwrite the global JS redirect URL
+* Own messages can contain now also the URL placeholder
+* Fix the CVV check in combination of one time usage
+
+= 2.1.7 - 2022-01-17 =
+* Add custom serial code format for WooCommerce product sales to the product edit page
+* Add custom serial code format for WooCommerce product sales to the code list
+* Add warning if using a very old WooCommerce version and deactivate the sales restriction feature
+
+= 2.1.6 - 2022-01-11 =
+* Add new option for numbers. You can now have only numbers as a serial code
+* Small optimizations numbers assignment to auto generated serial code
+
+= 2.1.4 - 2021-12-30 =
+* Add global custom serial code formatter for WooCommerce product sales into the serical code options
+* Code optimization
+
+= 2.1.3 - 2021-12-15 =
+* Add filter option on codes for code lists
+* Add filter option for columns with command syntax uppercase columname followed by : and the search value
+
+= 2.1.2 - 2021-11-30 =
+* Error fix for input mask for restricted products
+* Sold serial code (in woocommerce) are now added before the email is sent to your customer
+
+= 2.1.1 - 2021-10-25 =
+* Bug fix for non woocommerce users
+
+= 2.1.0 - 2021-10-25 =
+* New options to restrict purchases of individual products. The purchase is possible only with a serial code
+* The displayed texts for the purchase allowance code can be customized
+* Added Option if an order is delete or a refund is activated to free up used purchase allowance code
+* Renamed WooCommerce serial code section to "Serial Codes and Sales Restrictions"
+
+= 2.0.12 - 2021-10-21 =
+* bugfix on option value
+
+= 2.0.11 - 2021-10-11 =
+* New options to control the color of the validation button
+* Added support for compression
+* New option to prevent the serial code put in the outgoing email to the customer for a WooCommerce sale
+* Add your pre-text for the serial code also to the outgoing email to the customer for a WooCommerce sale
+
+= 2.0.10 - 2021-10-02 =
+* New option to add your own text if the serial code is printed on the PDF invoice for a WooCommerce sale
+* New option to prevent the serial code printed on the PDF invoice of a WooCommerce sale
+
+= 2.0.9 - 2021-10-01 =
+* bug fix for woocommerce reusing serial code and optimization of code update parts
+
+= 2.0.8 - 2021-09-29 =
+* bug fix for woocommerce reusing serial code
+
+= 2.0.7 - 2021-09-23 =
+* Display if a code is used in the code table
+* Bug fix storing used registration information
+
+= 2.0.6 - 2021-09-07 =
+* New option to use existing codes for WooCommerce purchases, if they are not already register to a user purchase
+* New option to change the text on the WooCommerce purchases, if you run out of the free plugin codes amounts - only for basic plugin, not applicable for premium plugin, because they can generate an unlimited amount of codes
+
+= 2.0.5 - 2021-08-24 =
+* Added serial code information to the email notification "order completed"
+
+= 2.0.4 - 2021-08-23 =
+* New option to change the check-button on the serial code validation frontend form
+* New option to change the placeholder value of the input field on the serial code validation frontend form
+
+= 2.0.3 - 2021-08-16 =
+* New paramater "userid" for redirects and webhooks added
+* fixed to recognize if the user is logged in
+
+= 2.0.2 - 2021-08-15 =
+* added JS redirect to free plugin
+* JS redirect will be executed after an optional activated "user registration" is done
+
+= 2.0.1 - 2021-07-20 =
+* bugfixes
+
+= 2.0.0 - 2021-07-19 =
+* Add all premium features (except IP Tracker, IP Brute Force Protection, Bulk action for stolen and deactive code, overruling the onetime rules within a code list) to the free basic plugin
+* Optimized performance
+* Warning: Reduced the max values from 1.000 to 500 - you will keep your codes above this value, but cannot add more as long as you do not have the premium plugin
+* You can now overwrite the message for "Code and CVV is not valid"
+
+= 1.1.13 - 2021-06-17 =
+* Adding "Stolen" status to the serial code, you can set your serial code now to status "stolen"
+* Changed color of activ serial to green
+* Changed color of inactiv serial to gray
+* Color of "stolen" status will be red for better recognition within the admin area
+* Fixed code sorting in admin area
+
+= 1.1.12 - 2021-06-07 =
+* Fix code error
+* Added Woocommerce functionality: Auto-generate a serial code for each sold product item
+* Remove Order information from the code and woocommerce order
+* Support WooCommerce PDF Invoices: Serial code is printed on the PDF invoice
+
+= 1.1.11 - 2021-04-13 =
+* Optimization for frontend calls
+* Fixed list table display elements per page
+
+= 1.1.10 - 2021-04-12 =
+* You can enter now a prefix within the code generator
+
+= 1.1.9 - 2021-04-09 =
+* Fix search paging on codes
+* Removed warning message about the plugin version
+
+= 1.1.8 - 2021-03-18 =
+* Fix code creation without CVV
+* Loading wp jquery-ui-dialog.css in case your theme do not have it
+
+= 1.1.7 - 2021-03-14 =
+* Adding security level with CVV (Code Verification Value) option
+* Updating to Wordpress 5.7
+* Small optimizations
+
+= 1.1.6 - 2021-03-02 =
+* Minor optimization and premium connector fix
+* Export fixed
+
+= 1.1.5 - 2021-01-28 =
+* You can now add codes to be imported multiple times with the code generator.
+* Shortcode is extended. You can use now your own input, trigger and output html element. Just add the id parameter to your html elements and pass them to the shortcode.
+* You can add now also your own JS function name that will be called before the code is checked on the server and also if the result comes back.
+* [sngmbhSerialcodesValidator inputid="" triggerid="" outputid="" jspre="" jsafter=""]
+
+= 1.1.4 - 2020-11-24 =
+* Export for premium optimized
+
+= 1.1.3 - 2020-10-21 =
+* Added a range chooser and order selector for export, to prevent disruption of long running execution if you have a lot of codes and a slow server
+
+= 1.1.2 - 2020-10-02 =
+* Fixed messages for premium text
+
+= 1.1.1 - 2020-09-29 =
+* Fixed messages for code is expired message und code is already registered
+
+= 1.1.0 - 2020-09-27 =
+* Optimization for the timeout issue while adding the serial codes. Display now the progress and store the codes in sequenz with chunks of 100 codes.
+
+= 1.0.9 - 2020-09-26 =
+* Added bulk operation on codes. Delete the selected codes within the table in the admin area.
+
+= 1.0.8 - 2020-09-21 =
+* Added chooser for code-export delimiter and filesuffix
+
+= 1.0.7 - 2020-09-14 =
+* Added object return value for more premium features
+
+= 1.0.6 - 2020-09-10 =
+* You can now add your own codes as a comma separated list and mix "," with newlines if needed
+
+= 1.0.5 - 2020-07-11 =
+* Repaired to detected the premium plugin, with changed plugin folder name
+
+= 1.0.4 - 2020-07-08 =
+* Repaired empty messages
+* Added CSV export function for codes
+
+= 1.0.3 - 2020-07-01 =
+* Added option to empty tables
+
+= 1.0.2 - 2020-06-25 =
+* Added Premium Hooks and callbacks to the validator
+* Added option to connect registered user to a code (premium hook), so that the code can be validated only once
+
+= 1.0.1 - 2020-06-15 =
+* Added Premium Hooks and callbacks options
+* Expand the table for IPs
+* Add your own messages for the code check reply
+
+= 1.0.0 - 2020-06-13 =
+* Initial Public Release

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0">
+  <defs>
+	<clipPath id="medical-service-shape-1col">
+	  <polygon points="80 0,10000 0,10000 10000,190 190" />
+	</clipPath>
+	<clipPath id="medical-service-shape-2cols">
+	  <polygon points="115 0,10000 0,10000 10000,260 260" />
+	</clipPath>
+
+	<clipPath id="medical-service-inner-shape">
+	  <polygon points="115 0,10000 0,10000 10000,260 320" />
+	</clipPath>
+
+	<clipPath id="medical-service-inner-shape-rtl">
+	  <polygon points="0 0,115 0,260 320,0 10000" />
+	</clipPath>
+
+	<clipPath id="medical-service-widget-shape">
+	  <polygon points="25 0,1000 0,1000 1000,65 55" />
+	</clipPath>
+
+	<clipPath id="medical-service-vc-shape">
+	  <polygon points="35 0,1000 0,1000 1000,100 70" />
+	</clipPath>
+
+  </defs>
+</svg>

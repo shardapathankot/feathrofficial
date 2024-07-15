@@ -1,0 +1,33 @@
+.hidden,
+.menu-item-depth-0 .gg-nav-extra-html,
+.menu-item-depth-0 .gg-nav-hide-label {
+	display: none;
+}
+
+.menu-item-depth-0 .hidden {
+	display: block;
+}
+
+.menu-item-depth-0 .hidden.gg-menu-columns,
+.menu-item-depth-0 .hidden.gg-force-megamenu {
+	display: none;
+}
+
+/*Admin Welcome Page*/
+.gg-admin-welcome-page {
+	margin: 10px 16px 0 15px;
+}
+
+.gg-admin-welcome-page .welcome-panel {
+	background: transparent;
+}
+
+.gg-admin-welcome-page .welcome-panel .welcome-panel-column {
+	width: 30%;
+	padding-right: 3%;
+}
+
+
+body.appearance_page_one-click-demo-import .ocdi-imported-footer .button:first-child{
+	display: none;
+}

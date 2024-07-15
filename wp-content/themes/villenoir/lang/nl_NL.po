@@ -1,0 +1,4749 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Villenoir\n"
+"POT-Creation-Date: 2016-09-07 17:14+0300\n"
+"PO-Revision-Date: 2017-04-21 10:17+0300\n"
+"Language-Team: Cristian Gogoneata <cristiangogoneata@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Cristian Gogoneata <cristiangogoneata@gmail.com>\n"
+"Language: nl_BE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:29
+msgid "Go to homepage"
+msgstr "Naar homepagina"
+
+#: admin/importer/importer/okthemes-importer.php:99
+#: admin/importer/importer/okthemes-importer.php:125
+msgid "Import Demo Data"
+msgstr "Importeer demogegevens"
+
+#: admin/importer/importer/okthemes-importer.php:101
+msgid ""
+"Importing demo data (post, pages, images, theme settings, ...) is the easiest "
+"way to setup your theme. It will\n"
+"            allow you to quickly edit everything instead of creating content "
+"from scratch. When you import the data following things will happen:"
+msgstr ""
+"Demogegevens (posts, pagina's, afbeeldingen, thema-instellingen,...) "
+"importeren is de gemakkelijkste manier om uw thema in te richten. Het zal u "
+"toelaten alles snel te bewerken in plaats eigen inhoud van nul te moeten "
+"creëren. Wanneer u de gegevens importeert, zullen deze dingen gebeuren:"
+
+#: admin/importer/importer/okthemes-importer.php:105
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any other "
+"data will be deleted or modified."
+msgstr ""
+"Geen bestaande posts, pagina's, categorieën, afbeeldingen, aangepaste "
+"berichttypen of andere gegevens zullen worden verwijderd of gewijzigd."
+
+#: admin/importer/importer/okthemes-importer.php:106
+msgid "No WordPress settings will be modified."
+msgstr "WordPress instellingen zullen niet worden gewijzigd."
+
+#: admin/importer/importer/okthemes-importer.php:107
+msgid "Posts, pages, some images, some widgets and menus will get imported."
+msgstr ""
+"Berichten, pagina's, enkele afbeeldingen, widgets en menu's zullen "
+"geïmporteerd worden."
+
+#: admin/importer/importer/okthemes-importer.php:108
+msgid ""
+"Images will be downloaded from our server, these images are copyrighted and "
+"are for demo use only."
+msgstr ""
+"Afbeeldingen worden gedownload van onze server, deze beelden zijn "
+"auteursrechtelijk beschermd en zijn alleen voor demo gebruik bestemd."
+
+#: admin/importer/importer/okthemes-importer.php:109
+msgid "Please click import only once and wait, it can take a couple of minutes."
+msgstr ""
+"Klik slechts eenmaal op importeren en wacht even, dit kan een paar minuten "
+"duren."
+
+#: admin/importer/importer/okthemes-importer.php:115
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+"Voordat u begint, zorg ervoor dat alle vereiste plugins zijn geactiveerd."
+
+#: admin/importer/importer/okthemes-importer.php:175
+msgid "Customizer Import"
+msgstr "Customizer Import"
+
+#: admin/importer/importer/okthemes-importer.php:195
+msgid "All options were restored successfully!"
+msgstr "Alle opties werden met succes terug gezet!"
+
+#: admin/importer/importer/okthemes-importer.php:197
+msgid "Invalid file or file size too big."
+msgstr "Ongeldig bestand of bestandsgrootte te groot."
+
+#: admin/importer/importer/okthemes-importer.php:204
+msgid ""
+"If you have settings in a backup file (json) on your computer, the Import "
+"system can import it into this site. To get started, upload your backup file "
+"using the form below."
+msgstr ""
+"Als u instellingen in een back-upbestand (json) op uw computer hebt, kan de "
+"Import functie dit in deze site importeren. Om te beginnen, upload uw back-"
+"upbestand via onderstaand formulier."
+
+#: admin/importer/importer/okthemes-importer.php:205
+msgid "Choose a file (json) from your computer:"
+msgstr "Kies een bestand (json) vanaf uw computer:"
+
+#: admin/importer/importer/okthemes-importer.php:226
+msgid "Customizer Export"
+msgstr "Customizer Export"
+
+#: admin/importer/importer/okthemes-importer.php:229
+msgid ""
+"When you click the button below, the Export system will create a backup file "
+"(json) for you to save to your computer."
+msgstr ""
+"Wanneer u op onderstaande knop drukt, zal het Export systeem een ​​back-"
+"upbestand (json) voor u opslaan op uw computer."
+
+#: admin/importer/importer/okthemes-importer.php:230
+msgid ""
+"This text file can be used to restore your settings or to easily setup "
+"another website with the same theme settings."
+msgstr ""
+"Dit tekstbestand kan worden gebruikt om uw instellingen te herstellen of om "
+"eenvoudig een andere website met dezelfde thema-instellingen in te richten."
+
+#: admin/importer/importer/okthemes-importer.php:231
+msgid ""
+"Please note that this export manager backs up only your theme settings and "
+"not your content. To backup your content, please use the WordPress Export "
+"Tool."
+msgstr ""
+"Houdt u er rekening mee dat de exportmanager alleen een back-up maakt van uw "
+"thema-instellingen, en niet uw eigen inhoud. Om een ​​backup van uw inhoud te "
+"nemen, gebruik de WordPress Export Tool."
+
+#: admin/importer/importer/okthemes-importer.php:386
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+"Importbestand met thema-opties kan niet worden gevonden. Probeer het opnieuw."
+
+#: admin/importer/importer/okthemes-importer.php:401
+msgid ""
+"Theme options import data could not be read. Please try a different file."
+msgstr ""
+"De data van de te importeren thema-opties kon niet worden gelezen. Probeer "
+"een ander bestand."
+
+#: admin/importer/importer/okthemes-importer.php:468
+msgid "Widget Import file could not be found. Please try again."
+msgstr "Widget importbestand kan niet worden gevonden. Probeer het opnieuw."
+
+#: admin/importer/importer/okthemes-importer.php:504
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+"De data van de te importeren widget(s) kon niet worden gelezen. Probeer een "
+"ander bestand."
+
+#: admin/importer/importer/okthemes-importer.php:545
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr "Zijbalk bestaat niet in thema (bijgevolg uitgeschakeld)"
+
+#: admin/importer/importer/okthemes-importer.php:567
+msgid "Site does not support widget"
+msgstr "Site biedt geen ondersteuning voor widget"
+
+#: admin/importer/importer/okthemes-importer.php:590
+msgid "Widget already exists"
+msgstr "Widget bestaat al"
+
+#: admin/importer/importer/okthemes-importer.php:639
+msgid "Imported"
+msgstr "Geïmporteerd"
+
+#: admin/importer/importer/okthemes-importer.php:642
+msgid "Imported to Inactive"
+msgstr "Geïmporteerd naar inactief"
+
+#: admin/importer/importer/okthemes-importer.php:649
+msgid "No Title"
+msgstr "Geen titel"
+
+#: admin/importer/importer/parsers.php:42 admin/importer/importer/parsers.php:77
+#: admin/importer/importer/parsers.php:85
+msgid "There was an error when reading this WXR file"
+msgstr "Er is een fout opgetreden bij het lezen van dit WXR bestand"
+
+#: admin/importer/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Details worden hierboven weergegeven. De importer zal nu opnieuw proberen met "
+"een andere parser..."
+
+#: admin/importer/importer/parsers.php:89 admin/importer/importer/parsers.php:94
+#: admin/importer/importer/parsers.php:288
+#: admin/importer/importer/parsers.php:482
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Dit lijkt geen WXR bestand te zijn, ontbrekend/ongeldig WXR versienummer"
+
+#: admin/importer/importer/wordpress-importer.php:134
+#: admin/importer/importer/wordpress-importer.php:143
+#: admin/importer/importer/wordpress-importer.php:194
+#: admin/importer/importer/wordpress-importer.php:198
+#: admin/importer/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "Sorry, er is een fout opgetreden."
+
+#: admin/importer/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "Het bestand bestaat niet, probeer het opnieuw."
+
+#: admin/importer/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr "Helemaal gedaan."
+
+#: admin/importer/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "Veel plezier ermee!"
+
+#: admin/importer/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+"Vergeet niet de wachtwoorden en de rollen van geïmporteerde gebruikers bij te "
+"werken."
+
+#: admin/importer/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that this "
+"was caused by a permissions problem."
+msgstr ""
+"Het exportbestand kan niet worden gevonden op <code>%s</code>. Het is "
+"waarschijnlijk dat dit werd veroorzaakt door een probleem met permissies."
+
+#: admin/importer/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Dit WXR-bestand (versie %s) wordt mogelijk niet ondersteund door deze versie "
+"van de importer. Gelieve te overwegen om te updaten."
+
+#: admin/importer/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Kon auteur %s niet importeren. Zijn/haar berichten zullen toegekend worden "
+"aan de huidige gebruiker."
+
+#: admin/importer/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "Toewijzen van auteurs"
+
+#: admin/importer/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may want "
+"to reassign the author of the imported item to an existing user of this site. "
+"For example, you may want to import all the entries as <code>admin</code>s "
+"entries."
+msgstr ""
+"Om het voor u gemakkelijker te maken de geïmporteerde inhoud te bewerken en "
+"bewaren, kunt u misschien de auteur van het geïmporteerde item opnieuw "
+"toewijzen aan een bestaande gebruiker van deze site. U kan bijvoorbeeld alle "
+"items importeren als invoer van de <code>admin</code>."
+
+#: admin/importer/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Als er een nieuwe gebruiker wordt gemaakt in WordPress, zal een nieuw "
+"willekeurig wachtwoord worden gegenereerd en de rol van de nieuwe gebruiker "
+"wordt ingesteld op %s. Het zal nodig zijn om de details van de nieuwe "
+"gebruiker handmatig te wijzigen."
+
+#: admin/importer/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "Bijlagen importeren"
+
+#: admin/importer/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "Downloaden en importeren van bestandsbijlagen"
+
+#: admin/importer/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr "Verstuur"
+
+#: admin/importer/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr "Import Auteur:"
+
+#: admin/importer/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "of creëer nieuwe gebruiker met loginnaam:"
+
+#: admin/importer/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "als een nieuwe gebruiker:"
+
+#: admin/importer/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "berichten toewijzen aan een bestaande gebruiker:"
+
+#: admin/importer/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "of berichten aan een bestaande gebruiker toewijzen:"
+
+#: admin/importer/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr "Selecteer ..."
+
+#: admin/importer/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Aanmaken nieuwe gebruiker voor %s mislukt. Hun berichten zullen toegekend "
+"worden aan de huidige gebruiker."
+
+#: admin/importer/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Fout bij importeren van categorie %s"
+
+#: admin/importer/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Fout bij importeren van post tag %s"
+
+#: admin/importer/importer/wordpress-importer.php:511
+#: admin/importer/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Importeren van %s %s mislukt"
+
+#: admin/importer/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Importeren van &#8220;%s&#8221; mislukt: ongeldig berichttype %s"
+
+#: admin/importer/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; bestaat al."
+
+#: admin/importer/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Import van %s &#8220;%s&#8221; gefaald"
+
+#: admin/importer/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Menu-item overgeslagen vanwege ontbrekende slug"
+
+#: admin/importer/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Menu-item overgeslagen vanwege ongeldige slug: %s"
+
+#: admin/importer/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr "Het ophalen van attachments is niet ingeschakeld"
+
+#: admin/importer/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr "Ongeldig bestandstype"
+
+#: admin/importer/importer/wordpress-importer.php:924
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "Remote server antwoordde %1$d %2$s voor %3$s"
+
+#: admin/importer/importer/wordpress-importer.php:937
+msgid "Remote file is incorrect size"
+msgstr "Extern bestand heeft een onjuiste grootte"
+
+#: admin/importer/importer/wordpress-importer.php:942
+msgid "Zero size file downloaded"
+msgstr "Leeg bestand gedownload"
+
+#: admin/importer/importer/wordpress-importer.php:948
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Extern bestand is te groot, limiet is %s"
+
+#: admin/importer/importer/wordpress-importer.php:1047
+msgid "Import WordPress"
+msgstr "Importeer WordPress"
+
+#: admin/importer/importer/wordpress-importer.php:1054
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Er is een nieuwe versie van deze importer beschikbaar. Gelieve te updaten "
+"naar versie %s voor compatibiliteit met nieuwere export bestanden."
+
+#: admin/importer/importer/wordpress-importer.php:1069
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Hallo! Upload uw WordPress eXtended RSS (WXR) bestand en we zullen de "
+"berichten, pagina’s, commentaren, aangepaste velden, categorieën en tags in "
+"deze site importeren."
+
+#: admin/importer/importer/wordpress-importer.php:1070
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Kies een WXR (.xml) bestand om op te laden, klik vervolgens op Upload bestand "
+"en importeer."
+
+#: admin/importer/importer/wordpress-importer.php:1144
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+"Importeer <strong>berichten, pagina's, commentaren, custom velden, "
+"categorieën, en tags</strong> vanuit een WordPress exportbestand."
+
+#: admin/importer/init.php:246
+#, php-format
+msgid "Welcome to <strong>%s</strong>"
+msgstr "Welkom bij <strong>%s</strong>"
+
+#: admin/importer/init.php:247
+msgid ""
+"Beautifully crafted WordPress theme ready to take your wine journey to the "
+"next level."
+msgstr ""
+"Een prachtig vormgegeven WordPress thema, klaar om uw wijnavontuur naar het "
+"volgende niveau te tillen."
+
+#: admin/importer/init.php:251 admin/importer/init.php:253
+#: lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+#: admin/importer/init.php:252
+#, php-format
+msgid ""
+"%s has bundled popular premium plugins which greatly increases the "
+"flexibility of the theme. Install them in order to maximize the theme power."
+msgstr ""
+"%s bundelt populaire premium plugins die de flexibiliteit van het thema flink "
+"verhogen. Installeer deze om het thema maximaal te benutten."
+
+#: admin/importer/init.php:256
+msgctxt "noun"
+msgid "Import Demo Content"
+msgstr "Importeer demogegevens"
+
+#: admin/importer/init.php:257
+msgid ""
+"If you have installed this theme on a clean WordPress installation then this "
+"is where you'll want to go next. This feature imports the demo content."
+msgstr ""
+"Als je dit thema op een verse WordPress-installatie hebt geïnstalleerd, dan "
+"is dit waar je vervolgens wil heen gaan. Deze functie importeert de demo "
+"content."
+
+#: admin/importer/init.php:259
+msgid "Import Demo Content"
+msgstr "Importeer demogegevens"
+
+#: admin/importer/init.php:262
+msgid "Customize Appearance"
+msgstr "Weergave aanpassen"
+
+#: admin/importer/init.php:263
+msgid ""
+"Customize the look and feel of your site with the help of the Theme Options "
+"panel."
+msgstr ""
+"Aanpassen van de look en feel van uw site met behulp van de thema-opties "
+"pagina."
+
+#: admin/importer/init.php:264
+msgid "Go to Theme Options"
+msgstr "Ga naar thema opties"
+
+#: admin/importer/init.php:274
+msgid "Online Documentation"
+msgstr "online Documentatie"
+
+#: admin/importer/init.php:278
+msgid "Support Portal"
+msgstr "Ondersteuningsportaal"
+
+#: admin/importer/init.php:282
+msgid "Theme Changelog"
+msgstr "Logboek van veranderingen aan het thema"
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "Één reactie op &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reacties op &ldquo;%2$s&rdquo;"
+
+#: comments.php:42
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere reacties &rarr;"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Commentaren afgesloten."
+
+#: comments.php:56
+msgctxt "noun"
+msgid "Comment"
+msgstr "Commentaar"
+
+#: comments.php:63 lib/forms/cf_ajax.php:48 lib/forms/cmf_ajax.php:47
+#: lib/metaboxes.php:653 parts/forms/part-contact-form.php:21
+#: parts/forms/part-contact-form.php:22 parts/forms/part-contact-miniform.php:17
+#: parts/forms/part-contact-miniform.php:18
+msgid "Name"
+msgstr "Naam"
+
+#: comments.php:68 lib/forms/cf_ajax.php:49 lib/forms/cmf_ajax.php:48
+#: parts/forms/part-contact-form.php:25 parts/forms/part-contact-form.php:26
+#: parts/forms/part-contact-miniform.php:21
+#: parts/forms/part-contact-miniform.php:22
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:74
+msgid "Website"
+msgstr "Website"
+
+#: functions.php:113
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+#: functions.php:114
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: functions.php:166
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "Aan"
+
+#: functions.php:174
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "Aan"
+
+#: functions.php:182
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:330
+#, php-format
+msgid "Posted on %s "
+msgstr "Geplaatst op %s"
+
+#: functions.php:331
+msgid "by"
+msgstr "door"
+
+#: functions.php:333
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ","
+
+#: functions.php:336
+msgctxt "Used before category names."
+msgid "in"
+msgstr "in "
+
+#: functions.php:342
+msgid "By"
+msgstr "Door "
+
+#: functions.php:346
+msgid "Posted on"
+msgstr "Geplaatst op"
+
+#: functions.php:433
+#, php-format
+msgid "All %s"
+msgstr "Alle %s"
+
+#: functions.php:498
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions.php:869
+msgctxt "min_price"
+msgid ""
+msgstr " "
+
+#: lib/acf/acf-functions.php:16
+msgid "Theme options"
+msgstr "Thema opties"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:35
+msgid "Google Font Selector"
+msgstr "Google Font Selector"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:36
+msgid "Choice"
+msgstr "Keuze"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:77
+msgid "Web Safe Fonts?"
+msgstr "Lettertypes veilig voor web?"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:78
+msgid "Include web safe fonts?"
+msgstr "Lettertypes veilig voor web insluiten?"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:85
+msgid "Enqueue Font?"
+msgstr "Lettertype in de wachtrij zetten?"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:86
+msgid "Automatically load font?"
+msgstr "Lettertype automatisch laden?"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:93
+msgid "Default Font"
+msgstr "Standaard lettertype"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:121
+msgid "Font Family"
+msgstr "Familie lettertype"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:137
+msgid "This is a preview of the selected font"
+msgstr ""
+"Voorbeeld van geselecteerd lettertype. \n"
+"The Quick Brown Fox Jumps Over The Lazy Dog. \n"
+"ABCDEFGH 0123456789"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:144
+msgid "Variants"
+msgstr "Varianten"
+
+#: lib/acf/acf-google-font-selector-field/acf-google_font_selector-v5.php:152
+msgid "Subsets"
+msgstr "Subsets"
+
+#: lib/breadcrumbs.php:12 lib/icons-array.php:135
+msgid "Home"
+msgstr "Home"
+
+#: lib/breadcrumbs.php:168
+msgid "Posts tagged"
+msgstr "Getagde berichten"
+
+#: lib/breadcrumbs.php:174
+msgid "Articles posted by"
+msgstr "Artikels gepost door"
+
+#: lib/breadcrumbs.php:178
+msgid "Error 404"
+msgstr "Error 404"
+
+#: lib/breadcrumbs.php:185 parts/gallery/part-gallery.php:51
+#: parts/post-formats/part.php:41
+msgid "Page"
+msgstr "Pagina"
+
+#: lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Installeren benodigde plugins"
+
+#. translators: %s: plugin name.
+#: lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installatie Plugin: %s"
+
+#. translators: %s: plugin name.
+#: lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Bijwerken Plugin: %s"
+
+#: lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets fout met de plugin API."
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit thema vereist de volgende plugin: %1$s."
+msgstr[1] "Dit thema vereist de volgende plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema beveelt de volgende plugin aan: %1$s."
+msgstr[1] "Dit thema beveelt de volgende plugins aan: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"De volgende plug-in moet worden bijgewerkt naar de nieuwste versie om "
+"maximale compatibiliteit met dit thema te waarborgen: %1$s."
+msgstr[1] ""
+"De volgende plug-ins moeten worden bijgewerkt naar de nieuwste versie om "
+"maximale compatibiliteit met dit thema te waarborgen: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Er is een update beschikbaar voor: %1$s."
+msgstr[1] "Er zijn updates beschikbaar voor volgende plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende vereiste plugin is momenteel niet actief: %1$s."
+msgstr[1] "De volgende vereiste plugins zijn momenteel niet actief: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plugin is momenteel inactief: %1$s."
+msgstr[1] "De volgende aanbevolen plugins zijn momenteel inactief: %1$s."
+
+#: lib/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginnen met het installeren plugin"
+msgstr[1] "Beginnen met het installeren plugins"
+
+#: lib/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin bijwerken van plugin"
+msgstr[1] "Begin bijwerken van plugins"
+
+#: lib/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin activeren plugin"
+msgstr[1] "Begin activeren plugins"
+
+#: lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Keer terug naar Vereiste Plugins Installer"
+
+#: lib/class-tgm-plugin-activation.php:393
+#: lib/class-tgm-plugin-activation.php:912
+#: lib/class-tgm-plugin-activation.php:2618
+#: lib/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Keer terug naar het dashboard"
+
+#: lib/class-tgm-plugin-activation.php:394
+#: lib/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Plugin is succesvol geactiveerd."
+
+#: lib/class-tgm-plugin-activation.php:395
+#: lib/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plugin is succesvol geactiveerd:"
+msgstr[1] "De volgende plugins zijn succesvol geactiveerd:"
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Niets gedaan. Plugin %1$s was al actief."
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+"Plugin niet geactiveerd. Een hogere versie van %s is nodig voor dit thema. "
+"Werk de plugin bij."
+
+#. translators: 1: dashboard link.
+#: lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins geïnstalleerd en succesvol geactiveerd. %1$s"
+
+#: lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Deze mededeling verbergen"
+
+#: lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Er zijn één of meer vereiste of aanbevolen plugins om te installeren, updaten "
+"of activeren."
+
+#: lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Neem contact op met de beheerder van deze site voor hulp."
+
+#: lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Deze plugin moet worden bijgewerkt om compatibel met uw thema te zijn."
+
+#: lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Bijwerken vereist"
+
+#: lib/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+"Het externe plug-in pakket bevat geen map met de gewenste slug en hernoemen "
+"werkte niet."
+
+#: lib/class-tgm-plugin-activation.php:1019
+#: lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Neem contact op met de plugin provider en vraag hen om hun plugin te "
+"verpakken volgens de WordPress richtlijnen."
+
+#: lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Het externe plugin-pakket bestaat uit meer dan één bestand, maar de bestanden "
+"werden niet verpakt in een map."
+
+#: lib/class-tgm-plugin-activation.php:1206
+#: lib/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#. translators: %s: version number
+#: lib/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: lib/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Verplicht"
+
+#: lib/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: lib/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: lib/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Externe bron"
+
+#: lib/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Voorverpakt"
+
+#: lib/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: lib/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd"
+
+#: lib/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Actief"
+
+#: lib/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Vereiste update onbeschikbaar"
+
+#: lib/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Heeft update nodig"
+
+#: lib/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Update aanbevolen"
+
+#. translators: 1: install status, 2: update status
+#: lib/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Te installeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Te installeren <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+msgstr[1] "Updates beschikbaar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Te Activeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Te Activeren <span class=\"count\">(%s)</span>"
+
+#: lib/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#: lib/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: lib/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Minimum vereiste versie:"
+
+#: lib/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: lib/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Geen plugins te installeren, updaten of activeren. "
+
+#: lib/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Plugin"
+
+#: lib/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Bron"
+
+#: lib/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "Type"
+
+#: lib/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Versie"
+
+#: lib/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "Status"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Instaleer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activeer %2$s"
+
+#: lib/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade-boodschap van de plugin-auteur:"
+
+#: lib/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Installeren"
+
+#: lib/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Bijwerken"
+
+#: lib/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Activeren"
+
+#: lib/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Er werden geen plugins geselecteerd om te worden geïnstalleerd. Geen actie "
+"ondernomen."
+
+#: lib/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Er werden geen plugins geselecteerd om te worden bijgewerkt. Geen actie "
+"ondernomen."
+
+#: lib/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om te installeren."
+
+#: lib/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om te worden bijgewerkt."
+
+#: lib/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Er werden geen plugins geselecteerd om te worden bijgewerkt. Geen actie "
+"ondernomen."
+
+#: lib/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om te activeren."
+
+#: lib/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Activeren van plugin mislukt."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s bijwerken (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Er is een fout opgetreden tijdens het installeren van %1$s: <strong>%2$s</"
+"strong>."
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#: lib/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Beginnen met installeren en activeren. Op sommige hosts kan dit proces even "
+"duren, dus gelieve even geduld te oefenen. "
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s geïnstalleerd en succesvol geactiveerd."
+
+#: lib/class-tgm-plugin-activation.php:3594
+#: lib/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Toon details"
+
+#: lib/class-tgm-plugin-activation.php:3594
+#: lib/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Verberg details"
+
+#: lib/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activaties zijn afgewerkt."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren en activeren plugin %1$s (%2$d/%3$d)"
+
+#: lib/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Het installatieproces start. Dit proces kan een tijdje duren op sommige "
+"hosts, dus wees geduldig."
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s met succes geïnstalleerd."
+
+#: lib/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn afgewerkt."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren Plugin %1$s (%2$d/%3$d)"
+
+#: lib/forms/cf_ajax.php:13 lib/forms/cmf_ajax.php:12
+msgid "Your message was sent successfully."
+msgstr "Uw bericht werd met succes verzonden."
+
+#: lib/forms/cf_ajax.php:17 lib/forms/cmf_ajax.php:18
+msgid "There was an error submitting the form."
+msgstr "Sorry, er is een fout opgetreden bij het verzenden van het bericht."
+
+#: lib/forms/cf_ajax.php:28 lib/forms/cmf_ajax.php:29
+msgid "All fields are required to enter."
+msgstr "Alle velden zijn verplicht."
+
+#: lib/forms/cf_ajax.php:31 lib/forms/cmf_ajax.php:32
+msgid "Verification error, try again."
+msgstr "Verificatiefout, gelieve het opnieuw te proberen."
+
+#: lib/forms/cf_ajax.php:43 lib/forms/cmf_ajax.php:43
+#, php-format
+msgid "New contact form message from : %1$s"
+msgstr "Nieuw contact-form bericht van: %1$s"
+
+#: lib/forms/cf_ajax.php:47 parts/forms/part-contact-form.php:33
+#: parts/forms/part-contact-form.php:34
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: lib/forms/cf_ajax.php:50 lib/forms/cmf_ajax.php:49
+#: parts/forms/part-contact-form.php:37 parts/forms/part-contact-form.php:38
+#: parts/forms/part-contact-miniform.php:25
+#: parts/forms/part-contact-miniform.php:26
+msgid "Message"
+msgstr "Bericht"
+
+#: lib/headers/part-default-menu.php:6
+msgid "Toggle navigation"
+msgstr "Navigatie aan/af"
+
+#. translators: 1 search phrase
+#: lib/helpers.php:252
+#, php-format
+msgid "Search Results For: %1$s"
+msgstr "Zoekresultaten voor: %1$s"
+
+#: lib/helpers.php:348
+msgid "Loading the next set of posts..."
+msgstr "Ophalen van de volgende set berichten... "
+
+#: lib/helpers.php:349
+msgid "All posts loaded."
+msgstr "Alle berichten geladen."
+
+#: lib/helpers.php:415
+msgid "Featured"
+msgstr "Voorgesteld"
+
+#: lib/helpers.php:421
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Formaat "
+
+#: lib/helpers.php:441
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Volledige grootte"
+
+#: lib/helpers.php:450
+msgid "Leave a comment"
+msgstr "Geef commentaar"
+
+#: lib/helpers.php:450
+msgid "1 Comment"
+msgstr "1 commentaar"
+
+#: lib/helpers.php:450
+msgid "% Comments"
+msgstr "% Commentaren"
+
+#: lib/helpers.php:463
+msgid "Read More"
+msgstr "Lees meer"
+
+#: lib/helpers.php:528
+msgid "The entered email address isn't valid."
+msgstr "Het ingevoerde email adres is niet geldig."
+
+#: lib/helpers.php:700
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: lib/helpers.php:720
+msgid "Post author"
+msgstr "Bericht auteur:"
+
+#: lib/helpers.php:729
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+#: lib/helpers.php:737 lib/icons-array.php:196
+msgid "Reply"
+msgstr "Beantwoorden"
+
+#: lib/helpers.php:746
+msgid "Your comment is awaiting moderation."
+msgstr "Uw commentaar wordt gemodereerd."
+
+#: lib/helpers.php:827
+msgid "Search products"
+msgstr "Zoeken naar producten"
+
+#: lib/helpers.php:829
+msgid "Search for products"
+msgstr "Zoeken naar producten"
+
+#: lib/icons-array.php:3
+msgid "Adjust"
+msgstr "Aanpassen"
+
+#: lib/icons-array.php:4
+msgid "Anchor"
+msgstr "Anker"
+
+#: lib/icons-array.php:5
+msgid "Archive"
+msgstr "Archief"
+
+#: lib/icons-array.php:6 lib/icons-array.php:315
+msgid "Area Chart"
+msgstr "Area Chart"
+
+#: lib/icons-array.php:7 lib/icons-array.php:390
+msgid "Arrows"
+msgstr "Pijlen"
+
+#: lib/icons-array.php:8 lib/icons-array.php:392
+msgid "Arrows Horizontal"
+msgstr "Pijlen horizontaal"
+
+#: lib/icons-array.php:9 lib/icons-array.php:393
+msgid "Arrows Vertical"
+msgstr "Pijlen verticaal"
+
+#: lib/icons-array.php:10
+msgid "Asterisk"
+msgstr "Asterisk"
+
+#: lib/icons-array.php:11
+msgid "At"
+msgstr "Op"
+
+#: lib/icons-array.php:12
+msgid "Ban"
+msgstr "Ban"
+
+#: lib/icons-array.php:13 lib/icons-array.php:316
+msgid "Bar Chart"
+msgstr "Bar Chart"
+
+#: lib/icons-array.php:14
+msgid "Barcode"
+msgstr "Barcode"
+
+#: lib/icons-array.php:15
+msgid "Bars"
+msgstr "Bars"
+
+#: lib/icons-array.php:16
+msgid "Beer"
+msgstr "Bier"
+
+#: lib/icons-array.php:17
+msgid "Bell"
+msgstr "Bel"
+
+#: lib/icons-array.php:18
+msgid "Bell Outlined"
+msgstr "Bel geschetst"
+
+#: lib/icons-array.php:19
+msgid "Bell Slash"
+msgstr "Bell Slash"
+
+#: lib/icons-array.php:20
+msgid "Bell Slash Outlined"
+msgstr "Bell Slash geschetst"
+
+#: lib/icons-array.php:21
+msgid "Bicycle"
+msgstr "Fiets"
+
+#: lib/icons-array.php:22
+msgid "Binoculars"
+msgstr "Verrekijker"
+
+#: lib/icons-array.php:23
+msgid "Birthday Cake"
+msgstr "Verjaardagstaart"
+
+#: lib/icons-array.php:24
+msgid "Lightning Bolt"
+msgstr "Bliksemflits"
+
+#: lib/icons-array.php:25
+msgid "Bomb"
+msgstr "Bom"
+
+#: lib/icons-array.php:26
+msgid "Book"
+msgstr "Boek"
+
+#: lib/icons-array.php:27
+msgid "Bookmark"
+msgstr "Bookmark"
+
+#: lib/icons-array.php:28
+msgid "Bookmark Outlined"
+msgstr "Bookmark geschetst"
+
+#: lib/icons-array.php:29
+msgid "Briefcase"
+msgstr "Aktentas"
+
+#: lib/icons-array.php:30
+msgid "Bug"
+msgstr "Insect"
+
+#: lib/icons-array.php:31
+msgid "Building"
+msgstr "Gebouw"
+
+#: lib/icons-array.php:32
+msgid "Building Outlined"
+msgstr "Gebouw geschetst"
+
+#: lib/icons-array.php:33
+msgid "bullhorn"
+msgstr "Megafoon"
+
+#: lib/icons-array.php:34
+msgid "Bullseye"
+msgstr "Roos"
+
+#: lib/icons-array.php:35
+msgid "Bus"
+msgstr "Bus"
+
+#: lib/icons-array.php:36
+msgid "Calculator"
+msgstr "Rekenmachine"
+
+#: lib/icons-array.php:37
+msgid "Calendar"
+msgstr "Kalender"
+
+#: lib/icons-array.php:38
+msgid "Calendar-o"
+msgstr "Kalender-o"
+
+#: lib/icons-array.php:39
+msgid "Camera"
+msgstr "Camera"
+
+#: lib/icons-array.php:40
+msgid "Camera-retro"
+msgstr "Retro Camera"
+
+#: lib/icons-array.php:41
+msgid "Car"
+msgstr "Auto"
+
+#: lib/icons-array.php:42 lib/icons-array.php:397
+msgid "Caret Square Outlined Down"
+msgstr "Caret Square Outlined Down"
+
+#: lib/icons-array.php:43 lib/icons-array.php:398
+msgid "Caret Square Outlined Left"
+msgstr "Caret Square Outlined Left"
+
+#: lib/icons-array.php:44 lib/icons-array.php:399
+msgid "Caret Square Outlined Right"
+msgstr "Caret Square Outlined Right"
+
+#: lib/icons-array.php:45 lib/icons-array.php:400
+msgid "Caret Square Outlined Up"
+msgstr "Caret Square Outlined Up"
+
+#: lib/icons-array.php:46
+msgid "Closed Captions"
+msgstr "Gesloten bijschriften"
+
+#: lib/icons-array.php:47
+msgid "Certificate"
+msgstr "Certificaat"
+
+#: lib/icons-array.php:48
+msgid "Check"
+msgstr "Check"
+
+#: lib/icons-array.php:49
+msgid "Check Circle"
+msgstr "Check cirkel"
+
+#: lib/icons-array.php:50
+msgid "Check Circle Outlined"
+msgstr "Check cirkel geschetst"
+
+#: lib/icons-array.php:51 lib/icons-array.php:295
+msgid "Check Square"
+msgstr "Check vierkant"
+
+#: lib/icons-array.php:52 lib/icons-array.php:296
+msgid "Check Square Outlined"
+msgstr "Check vierkant geschetst"
+
+#: lib/icons-array.php:53
+msgid "Child"
+msgstr "Kind"
+
+#: lib/icons-array.php:54 lib/icons-array.php:297
+msgid "Circle"
+msgstr "Cirkel"
+
+#: lib/icons-array.php:55 lib/icons-array.php:298
+msgid "Circle Outlined"
+msgstr "Cirkel geschetst"
+
+#: lib/icons-array.php:56 lib/icons-array.php:291
+msgid "Circle Outlined Notched"
+msgstr "Cirkel geschetst afgesneden"
+
+#: lib/icons-array.php:57
+msgid "Circle Outlined Thin"
+msgstr "Cirkel geschetst dun"
+
+#: lib/icons-array.php:58
+msgid "Clock Outlined"
+msgstr "Klok geschetst"
+
+#: lib/icons-array.php:59
+msgid "Cloud"
+msgstr "Cloud"
+
+#: lib/icons-array.php:60
+msgid "Cloud Download"
+msgstr "Cloud Download"
+
+#: lib/icons-array.php:61
+msgid "Cloud Upload"
+msgstr "Cloud Upload"
+
+#: lib/icons-array.php:62
+msgid "Code"
+msgstr "Code"
+
+#: lib/icons-array.php:63
+msgid "Code-fork"
+msgstr "Gevorkte code"
+
+#: lib/icons-array.php:64
+msgid "Coffee"
+msgstr "Koffie"
+
+#: lib/icons-array.php:65
+msgid "Cog"
+msgstr "Tandwiel"
+
+#: lib/icons-array.php:66
+msgid "Cogs"
+msgstr "Tandwielen"
+
+#: lib/icons-array.php:67
+msgid "Comment"
+msgstr "Commentaar"
+
+#: lib/icons-array.php:68
+msgid "Comment-o"
+msgstr "Commentaar-o"
+
+#: lib/icons-array.php:69 lib/metaboxes.php:570
+msgid "Comments"
+msgstr "Reacties"
+
+#: lib/icons-array.php:70
+msgid "Comments-o"
+msgstr "Opmerkingen-o"
+
+#: lib/icons-array.php:71
+msgid "Compass"
+msgstr "Kompas"
+
+#: lib/icons-array.php:72
+msgid "Copyright"
+msgstr "Copyright"
+
+#: lib/icons-array.php:73 lib/icons-array.php:312
+msgid "credit-card"
+msgstr "Kredietkaart"
+
+#: lib/icons-array.php:74
+msgid "Crop"
+msgstr "Bijsnijden"
+
+#: lib/icons-array.php:75
+msgid "Crosshairs"
+msgstr "Vizier"
+
+#: lib/icons-array.php:76
+msgid "Cube"
+msgstr "Kubus"
+
+#: lib/icons-array.php:77
+msgid "Cubes"
+msgstr "Kubussen"
+
+#: lib/icons-array.php:78
+msgid "Cutlery"
+msgstr "Bestek"
+
+#: lib/icons-array.php:79
+msgid "Database"
+msgstr "Databank"
+
+#: lib/icons-array.php:80
+msgid "Desktop"
+msgstr "Desktop"
+
+#: lib/icons-array.php:81 lib/icons-array.php:299
+msgid "Dot Circle O"
+msgstr "Punt Cirkel O"
+
+#: lib/icons-array.php:82
+msgid "Download"
+msgstr "Download"
+
+#: lib/icons-array.php:83
+msgid "Ellipsis Horizontal"
+msgstr "Horizontale ellipsis"
+
+#: lib/icons-array.php:84
+msgid "Ellipsis Vertical"
+msgstr "Verticale ellipsis"
+
+#: lib/icons-array.php:85
+msgid "Envelope"
+msgstr "Enveloppe"
+
+#: lib/icons-array.php:86
+msgid "Envelope Outlined"
+msgstr "Enveloppe geschetst"
+
+#: lib/icons-array.php:87
+msgid "Envelope Square"
+msgstr "Enveloppe Vierkant"
+
+#: lib/icons-array.php:88 lib/icons-array.php:338
+msgid "Eraser"
+msgstr "Gum"
+
+#: lib/icons-array.php:89
+msgid "Exchange"
+msgstr "Exchange"
+
+#: lib/icons-array.php:90
+msgid "Exclamation"
+msgstr "Uitroepteken"
+
+#: lib/icons-array.php:91
+msgid "Exclamation Circle"
+msgstr "Uitroepteken cirkel"
+
+#: lib/icons-array.php:92
+msgid "Exclamation Triangle"
+msgstr "Uitroepteken driehoek"
+
+#: lib/icons-array.php:93
+msgid "External Link"
+msgstr "Externe link"
+
+#: lib/icons-array.php:94
+msgid "External Link Square"
+msgstr "Externe link vierkant"
+
+#: lib/icons-array.php:95
+msgid "Eye"
+msgstr "Oog"
+
+#: lib/icons-array.php:96
+msgid "Eye Slash"
+msgstr "Oog Slash"
+
+#: lib/icons-array.php:97
+msgid "Eyedropper"
+msgstr "Pipet"
+
+#: lib/icons-array.php:98
+msgid "Fax"
+msgstr "Fax"
+
+#: lib/icons-array.php:99
+msgid "Female"
+msgstr "Vrouwelijk"
+
+#: lib/icons-array.php:100
+msgid "Fighter-jet"
+msgstr "Straaljager"
+
+#: lib/icons-array.php:101 lib/icons-array.php:279
+msgid "Archive File Outlined"
+msgstr "Archiefbestand geschetst"
+
+#: lib/icons-array.php:102 lib/icons-array.php:280
+msgid "Audio File Outlined"
+msgstr "Audiobestand Geschetst"
+
+#: lib/icons-array.php:103 lib/icons-array.php:281
+msgid "Code File Outlined"
+msgstr "Codebestand geschetst"
+
+#: lib/icons-array.php:104 lib/icons-array.php:282
+msgid "Excel File Outlined"
+msgstr "Excelbestand geschetst"
+
+#: lib/icons-array.php:105 lib/icons-array.php:283
+msgid "Image File Outlined"
+msgstr "Beeldbestand geschetst"
+
+#: lib/icons-array.php:106 lib/icons-array.php:285
+msgid "PDF File Outlined"
+msgstr "PDF bestand geschetst"
+
+#: lib/icons-array.php:107 lib/icons-array.php:286
+msgid "Powerpoint File Outlined"
+msgstr "PowerPoint bestand geschetst"
+
+#: lib/icons-array.php:108 lib/icons-array.php:289
+msgid "Video File Outlined"
+msgstr "Videobestand geschetst"
+
+#: lib/icons-array.php:109 lib/icons-array.php:290
+msgid "Word File Outlined"
+msgstr "Word bestand geschetst"
+
+#: lib/icons-array.php:110
+msgid "Film"
+msgstr "Film"
+
+#: lib/icons-array.php:111
+msgid "Filter"
+msgstr "Filter"
+
+#: lib/icons-array.php:112
+msgid "Fire"
+msgstr "Vuur"
+
+#: lib/icons-array.php:113
+msgid "Fire-extinguisher"
+msgstr "Brandblusser"
+
+#: lib/icons-array.php:114
+msgid "Flag"
+msgstr "Vlag"
+
+#: lib/icons-array.php:115
+msgid "Flag-checkered"
+msgstr "Geblokte vlag"
+
+#: lib/icons-array.php:116
+msgid "Flag Outlined"
+msgstr "Vlag geschetst"
+
+#: lib/icons-array.php:117
+msgid "Flask"
+msgstr "Flacon"
+
+#: lib/icons-array.php:118
+msgid "Folder"
+msgstr "Folder"
+
+#: lib/icons-array.php:119
+msgid "Folder Outlined"
+msgstr "Folder geschetst"
+
+#: lib/icons-array.php:120
+msgid "Folder Open"
+msgstr "Folder Open"
+
+#: lib/icons-array.php:121
+msgid "Folder Open Outlined"
+msgstr "Folder Open geschetst"
+
+#: lib/icons-array.php:122
+msgid "Frown Outlined"
+msgstr "Frons geschetst"
+
+#: lib/icons-array.php:123
+msgid "Futbol Outlined"
+msgstr "Futbol geschetst"
+
+#: lib/icons-array.php:124
+msgid "Gamepad"
+msgstr "Gamepad"
+
+#: lib/icons-array.php:125
+msgid "Gavel"
+msgstr "Voorzittershamer"
+
+#: lib/icons-array.php:126
+msgid "Gift"
+msgstr "Geschenk"
+
+#: lib/icons-array.php:127
+msgid "Glass"
+msgstr "Glas"
+
+#: lib/icons-array.php:128
+msgid "Globe"
+msgstr "Wereldbol"
+
+#: lib/icons-array.php:129
+msgid "Graduation Cap"
+msgstr "Afstudeerhoedje"
+
+#: lib/icons-array.php:130
+msgid "HDD"
+msgstr "HDD"
+
+#: lib/icons-array.php:131
+msgid "Headphones"
+msgstr "Hoofdtelefoon"
+
+#: lib/icons-array.php:132
+msgid "Heart"
+msgstr "Hart"
+
+#: lib/icons-array.php:133
+msgid "Heart Outlined"
+msgstr "Hart geschetst"
+
+#: lib/icons-array.php:134
+msgid "History"
+msgstr "Geschiedenis"
+
+#: lib/icons-array.php:136
+msgid "Inbox"
+msgstr "Inbox"
+
+#: lib/icons-array.php:137
+msgid "Info"
+msgstr "Info"
+
+#: lib/icons-array.php:138
+msgid "Info Circle"
+msgstr "Info Cirkel"
+
+#: lib/icons-array.php:139
+msgid "Key"
+msgstr "Toets"
+
+#: lib/icons-array.php:140
+msgid "Keyboard Outlined"
+msgstr "Toetsenbord geschetst"
+
+#: lib/icons-array.php:141
+msgid "Language"
+msgstr "Taal"
+
+#: lib/icons-array.php:142
+msgid "Laptop"
+msgstr "Laptop"
+
+#: lib/icons-array.php:143
+msgid "Leaf"
+msgstr "Blad"
+
+#: lib/icons-array.php:144
+msgid "Lemon Outlined"
+msgstr "Citroen geschetst"
+
+#: lib/icons-array.php:145
+msgid "Level Down"
+msgstr "Niveau naar beneden"
+
+#: lib/icons-array.php:146
+msgid "Level Up"
+msgstr "Niveau naar boven"
+
+#: lib/icons-array.php:147
+msgid "Life Ring"
+msgstr "Levensring"
+
+#: lib/icons-array.php:148
+msgid "Lightbulb Outlined"
+msgstr "Peertje geschetst"
+
+#: lib/icons-array.php:149 lib/icons-array.php:317
+msgid "Line Chart"
+msgstr "Lijngrafiek"
+
+#: lib/icons-array.php:150
+msgid "Location-arrow"
+msgstr "Locatie pijl"
+
+#: lib/icons-array.php:151
+msgid "Lock"
+msgstr "Slot"
+
+#: lib/icons-array.php:152
+msgid "Magic"
+msgstr "Magie"
+
+#: lib/icons-array.php:153
+msgid "Magnet"
+msgstr "Magneet"
+
+#: lib/icons-array.php:154
+msgid "Male"
+msgstr "Mannelijk"
+
+#: lib/icons-array.php:155
+msgid "Map-marker"
+msgstr "Kaart marker"
+
+#: lib/icons-array.php:156
+msgid "Meh Outlined"
+msgstr "Meh  geschetst"
+
+#: lib/icons-array.php:157
+msgid "Microphone"
+msgstr "Microfoon"
+
+#: lib/icons-array.php:158
+msgid "Microphone Slash"
+msgstr "Microfoon doorstreept"
+
+#: lib/icons-array.php:159
+msgid "Minus"
+msgstr "Minus"
+
+#: lib/icons-array.php:160
+msgid "Minus Circle"
+msgstr "Minus Cirkel"
+
+#: lib/icons-array.php:161 lib/icons-array.php:300
+msgid "Minus Square"
+msgstr "Minus Vierkant"
+
+#: lib/icons-array.php:162 lib/icons-array.php:301
+msgid "Minus Square Outlined"
+msgstr "Minus vierkant geschetst"
+
+#: lib/icons-array.php:163
+msgid "Mobile Phone"
+msgstr "Mobiele telefoon"
+
+#: lib/icons-array.php:164 lib/icons-array.php:326
+msgid "Money"
+msgstr "Geld"
+
+#: lib/icons-array.php:165
+msgid "Moon Outlined"
+msgstr "Maan geschetst"
+
+#: lib/icons-array.php:166
+msgid "Music"
+msgstr "Muziek"
+
+#: lib/icons-array.php:167
+msgid "Newspaper Outlined"
+msgstr "Krant geschetst"
+
+#: lib/icons-array.php:168
+msgid "Paint Brush"
+msgstr "Verfborstel"
+
+#: lib/icons-array.php:169
+msgid "Paper Plane"
+msgstr "Papieren vliegtuig"
+
+#: lib/icons-array.php:170
+msgid "Paper Plane Outlined"
+msgstr "Papieren vliegtuig geschetst"
+
+#: lib/icons-array.php:171
+msgid "Paw"
+msgstr "Poot"
+
+#: lib/icons-array.php:172
+msgid "Pencil"
+msgstr "Potlood"
+
+#: lib/icons-array.php:173
+msgid "Pencil Square"
+msgstr "Potlood Vierkant"
+
+#: lib/icons-array.php:174
+msgid "Pencil Square Outlined"
+msgstr "Potlood Vierkant geschetst"
+
+#: lib/icons-array.php:175
+msgid "Phone"
+msgstr "Telefoon"
+
+#: lib/icons-array.php:176
+msgid "Phone Square"
+msgstr "Telefoon vierkant"
+
+#: lib/icons-array.php:177
+msgid "Picture Outlined"
+msgstr "Afbeelding geschetst"
+
+#: lib/icons-array.php:178 lib/icons-array.php:318
+msgid "Pie Chart"
+msgstr "Taartdiagram"
+
+#: lib/icons-array.php:179
+msgid "Plane"
+msgstr "Vliegtuig"
+
+#: lib/icons-array.php:180
+msgid "Plug"
+msgstr "Plug"
+
+#: lib/icons-array.php:181
+msgid "Plus"
+msgstr "Plus"
+
+#: lib/icons-array.php:182
+msgid "Plus Circle"
+msgstr "Plus Cirkel"
+
+#: lib/icons-array.php:183 lib/icons-array.php:302 lib/icons-array.php:535
+msgid "Plus Square"
+msgstr "Plus Vierkant"
+
+#: lib/icons-array.php:184 lib/icons-array.php:303
+msgid "Plus Square Outlined"
+msgstr "Plus Vierkant geschetst"
+
+#: lib/icons-array.php:185
+msgid "Power Off"
+msgstr "Stroom uit"
+
+#: lib/icons-array.php:186
+msgid "Print"
+msgstr "Afdrukken"
+
+#: lib/icons-array.php:187
+msgid "Puzzle Piece"
+msgstr "Puzzelstuk"
+
+#: lib/icons-array.php:188
+msgid "QRcode"
+msgstr "QR Code"
+
+#: lib/icons-array.php:189
+msgid "Question"
+msgstr "Vraag"
+
+#: lib/icons-array.php:190
+msgid "Question Circle"
+msgstr "Vraag cirkel"
+
+#: lib/icons-array.php:191
+msgid "Quote-left"
+msgstr "Quote links"
+
+#: lib/icons-array.php:192
+msgid "Quote-right"
+msgstr "Quote rechts"
+
+#: lib/icons-array.php:193
+msgid "Random"
+msgstr "Willekeurig"
+
+#: lib/icons-array.php:194
+msgid "Recycle"
+msgstr "Recycleer"
+
+#: lib/icons-array.php:195
+msgid "Refresh"
+msgstr "Ververs"
+
+#: lib/icons-array.php:197
+msgid "Reply-all"
+msgstr "Antwoord-allen"
+
+#: lib/icons-array.php:198
+msgid "Retweet"
+msgstr "Retweet"
+
+#: lib/icons-array.php:199
+msgid "Road"
+msgstr "Weg"
+
+#: lib/icons-array.php:200
+msgid "Rocket"
+msgstr "Raket"
+
+#: lib/icons-array.php:201
+msgid "RSS"
+msgstr "RSS"
+
+#: lib/icons-array.php:202
+msgid "RSS Square"
+msgstr "RSS vierkant"
+
+#: lib/icons-array.php:203 parts/part-searchform-toolbar.php:14
+#: searchform.php:13 searchform.php:15
+msgid "Search"
+msgstr "Zoek"
+
+#: lib/icons-array.php:204
+msgid "Search Minus"
+msgstr "Zoek minus"
+
+#: lib/icons-array.php:205
+msgid "Search Plus"
+msgstr "Zoek Plus"
+
+#: lib/icons-array.php:206
+msgid "Share"
+msgstr "Delen"
+
+#: lib/icons-array.php:207 lib/icons-array.php:497 lib/icons-array.php:605
+msgid "Share Alt"
+msgstr "Delen Alt"
+
+#: lib/icons-array.php:208 lib/icons-array.php:498 lib/icons-array.php:606
+msgid "Share Alt Square"
+msgstr "Delen Alt Vierkant"
+
+#: lib/icons-array.php:209
+msgid "Share Square"
+msgstr "Delen Vierkant"
+
+#: lib/icons-array.php:210
+msgid "Share Square Outlined"
+msgstr "Delen Vierkant geschetst"
+
+#: lib/icons-array.php:211
+msgid "shield"
+msgstr "Schild"
+
+#: lib/icons-array.php:212
+msgid "shopping-cart"
+msgstr "Winkelmandje"
+
+#: lib/icons-array.php:213
+msgid "Sign In"
+msgstr "Inloggen"
+
+#: lib/icons-array.php:214
+msgid "Sign Out"
+msgstr "Uitloggen"
+
+#: lib/icons-array.php:215
+msgid "signal"
+msgstr "Signaal"
+
+#: lib/icons-array.php:216
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: lib/icons-array.php:217
+msgid "Sliders"
+msgstr "Schuivers"
+
+#: lib/icons-array.php:218
+msgid "Smile Outlined"
+msgstr "Glimlach geschetst"
+
+#: lib/icons-array.php:219
+msgid "Sort"
+msgstr "Sorteren"
+
+#: lib/icons-array.php:220
+msgid "Sort Alpha Ascending"
+msgstr "Sorteren Alfa Oplopend"
+
+#: lib/icons-array.php:221
+msgid "Sort Alpha Descending"
+msgstr "Sorteren Alfa Aflopend"
+
+#: lib/icons-array.php:222
+msgid "Sort Amount Ascending"
+msgstr "Sorteren bedrag oplopend"
+
+#: lib/icons-array.php:223
+msgid "Sort Amount Descending"
+msgstr "Sorteren bedrag aflopend"
+
+#: lib/icons-array.php:224
+msgid "Sort Ascending"
+msgstr "Sorteren Oplopend"
+
+#: lib/icons-array.php:225
+msgid "Sort Descending"
+msgstr "Sorteren Aflopend"
+
+#: lib/icons-array.php:226
+msgid "Sort Numeric Ascending"
+msgstr "Sorteer Numeriek Oplopend"
+
+#: lib/icons-array.php:227
+msgid "Sort Numeric Descending"
+msgstr "Sorteer Numeriek Aflopend"
+
+#: lib/icons-array.php:228
+msgid "Space Shuttle"
+msgstr "Space Shuttle"
+
+#: lib/icons-array.php:229 lib/icons-array.php:294
+msgid "Spinner"
+msgstr "Spinner"
+
+#: lib/icons-array.php:230
+msgid "spoon"
+msgstr "lepel"
+
+#: lib/icons-array.php:231 lib/icons-array.php:304
+msgid "Square"
+msgstr "Vierkant"
+
+#: lib/icons-array.php:232 lib/icons-array.php:305
+msgid "Square Outlined"
+msgstr "Vierkant geschetst"
+
+#: lib/icons-array.php:233
+msgid "Star"
+msgstr "Ster"
+
+#: lib/icons-array.php:234
+msgid "star-half"
+msgstr "Halve ster"
+
+#: lib/icons-array.php:235
+msgid "Star Half Outlined"
+msgstr "Halve ster geschetst"
+
+#: lib/icons-array.php:236
+msgid "Star Outlined"
+msgstr "Ster geschetst"
+
+#: lib/icons-array.php:237
+msgid "Suitcase"
+msgstr "Valies"
+
+#: lib/icons-array.php:238
+msgid "Sun Outlined"
+msgstr "Zon geschetst"
+
+#: lib/icons-array.php:239
+msgid "tablet"
+msgstr "tablet"
+
+#: lib/icons-array.php:240
+msgid "Tachometer"
+msgstr "Tachometer"
+
+#: lib/icons-array.php:241
+msgid "tag"
+msgstr "tag"
+
+#: lib/icons-array.php:242
+msgid "tags"
+msgstr "tags"
+
+#: lib/icons-array.php:243
+msgid "Tasks"
+msgstr "Taken"
+
+#: lib/icons-array.php:244
+msgid "Taxi"
+msgstr "Taxi"
+
+#: lib/icons-array.php:245
+msgid "Terminal"
+msgstr "Terminal"
+
+#: lib/icons-array.php:246
+msgid "Thumb Tack"
+msgstr "Duimkopspijker"
+
+#: lib/icons-array.php:247
+msgid "thumbs-down"
+msgstr "Duim omlaag"
+
+#: lib/icons-array.php:248
+msgid "Thumbs Down Outlined"
+msgstr "Duim omlaag geschetst"
+
+#: lib/icons-array.php:249
+msgid "Thumbs Up Outlined"
+msgstr "Duim omhoog geschetst"
+
+#: lib/icons-array.php:250
+msgid "thumbs-up"
+msgstr "Duim omhoog"
+
+#: lib/icons-array.php:251
+msgid "Ticket"
+msgstr "Ticket"
+
+#: lib/icons-array.php:252
+msgid "Times"
+msgstr "Tijden"
+
+#: lib/icons-array.php:253
+msgid "Times Circle"
+msgstr "Tijden cirkel"
+
+#: lib/icons-array.php:254
+msgid "Times Circle Outlined"
+msgstr "Tijden cirkel geschetst"
+
+#: lib/icons-array.php:255
+msgid "tint"
+msgstr "tint"
+
+#: lib/icons-array.php:256
+msgid "Toggle Off"
+msgstr "Zet af"
+
+#: lib/icons-array.php:257
+msgid "Toggle On"
+msgstr "Zet aan"
+
+#: lib/icons-array.php:258
+msgid "Trash"
+msgstr "Afval"
+
+#: lib/icons-array.php:259
+msgid "Trash Outlined"
+msgstr "Afval geschetst"
+
+#: lib/icons-array.php:260
+msgid "Tree"
+msgstr "Boom"
+
+#: lib/icons-array.php:261
+msgid "trophy"
+msgstr "trofee"
+
+#: lib/icons-array.php:262
+msgid "truck"
+msgstr "vrachtwagen"
+
+#: lib/icons-array.php:263
+msgid "TTY"
+msgstr "TTY"
+
+#: lib/icons-array.php:264
+msgid "Umbrella"
+msgstr "Paraplu"
+
+#: lib/icons-array.php:265
+msgid "University"
+msgstr "Universiteit"
+
+#: lib/icons-array.php:266
+msgid "unlock"
+msgstr "ontsluit"
+
+#: lib/icons-array.php:267
+msgid "Unlock Alt"
+msgstr "Ontsluit Alt"
+
+#: lib/icons-array.php:268
+msgid "Upload"
+msgstr "Upload"
+
+#: lib/icons-array.php:269
+msgid "User"
+msgstr "Gebruiker"
+
+#: lib/icons-array.php:270
+msgid "Users"
+msgstr "Gebruikers"
+
+#: lib/icons-array.php:271
+msgid "Video Camera"
+msgstr "Video camera"
+
+#: lib/icons-array.php:272
+msgid "volume-down"
+msgstr "Volume omlaag"
+
+#: lib/icons-array.php:273
+msgid "volume-off"
+msgstr "Volume af"
+
+#: lib/icons-array.php:274
+msgid "volume-up"
+msgstr "Volume omhoog"
+
+#: lib/icons-array.php:275 lib/icons-array.php:538
+msgid "Wheelchair"
+msgstr "Rolstoel"
+
+#: lib/icons-array.php:276
+msgid "WiFi"
+msgstr "WiFi"
+
+#: lib/icons-array.php:277
+msgid "Wrench"
+msgstr "Moersleutel"
+
+#: lib/icons-array.php:278 lib/icons-array.php:339
+msgid "File"
+msgstr "Bestand"
+
+#: lib/icons-array.php:284 lib/icons-array.php:340
+msgid "File Outlined"
+msgstr "Bestand geschetst"
+
+#: lib/icons-array.php:287 lib/icons-array.php:341
+msgid "File Text"
+msgstr "Bestand tekst"
+
+#: lib/icons-array.php:288 lib/icons-array.php:342
+msgid "File Text Outlined"
+msgstr "Bestand Tekst geschetst"
+
+#: lib/icons-array.php:292
+msgid "cog"
+msgstr "Tandwiel"
+
+#: lib/icons-array.php:293
+msgid "refresh"
+msgstr "Ververs"
+
+#: lib/icons-array.php:306 lib/icons-array.php:443 lib/icons-array.php:551
+msgid "American Express Credit Card"
+msgstr "American Express Kredietkaart"
+
+#: lib/icons-array.php:307 lib/icons-array.php:444 lib/icons-array.php:552
+msgid "Discover Credit Card"
+msgstr "Discover Kredietkaart"
+
+#: lib/icons-array.php:308 lib/icons-array.php:445 lib/icons-array.php:553
+msgid "MasterCard Credit Card"
+msgstr "MasterCard kredietkaart"
+
+#: lib/icons-array.php:309 lib/icons-array.php:446 lib/icons-array.php:554
+msgid "Paypal Credit Card"
+msgstr "PayPal Kredietkaart"
+
+#: lib/icons-array.php:310 lib/icons-array.php:447 lib/icons-array.php:555
+msgid "Stripe Credit Card"
+msgstr "Stripe Kredietkaart"
+
+#: lib/icons-array.php:311 lib/icons-array.php:448 lib/icons-array.php:556
+msgid "Visa Credit Card"
+msgstr "Visa Kredietkaart"
+
+#: lib/icons-array.php:313 lib/icons-array.php:471 lib/icons-array.php:579
+msgid "Goole Wallet"
+msgstr "Google Portefeuille"
+
+#: lib/icons-array.php:314 lib/icons-array.php:487 lib/icons-array.php:595
+msgid "Paypal"
+msgstr "PayPal"
+
+#: lib/icons-array.php:319 lib/icons-array.php:442 lib/icons-array.php:550
+msgid "Bitcoin (BTC)"
+msgstr "Bitcoin (BTC)"
+
+#: lib/icons-array.php:320
+msgid "Euro (EUR)"
+msgstr "Euro (EUR)"
+
+#: lib/icons-array.php:321
+msgid "GBP"
+msgstr "GBP"
+
+#: lib/icons-array.php:322
+msgid "Shekel (ILS)"
+msgstr "Shekel (ILS)"
+
+#: lib/icons-array.php:323
+msgid "Indian Rupee (INR)"
+msgstr "Indiase Roepie (INR)"
+
+#: lib/icons-array.php:324
+msgid "Japanese Yen (JPY)"
+msgstr "Japanse Yen (JPY)"
+
+#: lib/icons-array.php:325
+msgid "Korean Won (KRW)"
+msgstr "Koreaanse Won (KRW)"
+
+#: lib/icons-array.php:327
+msgid "Russian Ruble (RUB)"
+msgstr "Russische Roebel (RUB)"
+
+#: lib/icons-array.php:328
+msgid "Turkish Lira (TRY)"
+msgstr "Turkse Lire (TRY)"
+
+#: lib/icons-array.php:329
+msgid "US Dollar"
+msgstr "US Dollar"
+
+#: lib/icons-array.php:330
+msgid "Align Center"
+msgstr "Midden uitlijnen"
+
+#: lib/icons-array.php:331
+msgid "Align Justify"
+msgstr "Breedte uitlijnen"
+
+#: lib/icons-array.php:332
+msgid "Align Left"
+msgstr "Links uitlijnen"
+
+#: lib/icons-array.php:333
+msgid "Align Right"
+msgstr "Rechts uitlijnen"
+
+#: lib/icons-array.php:334
+msgid "Bold"
+msgstr "Vet"
+
+#: lib/icons-array.php:335
+msgid "Chain Broken"
+msgstr "Gebroken ketting"
+
+#: lib/icons-array.php:336
+msgid "Clipboard"
+msgstr "Klembord"
+
+#: lib/icons-array.php:337 lib/nav/edit_custom_walker.php:227
+msgid "Columns"
+msgstr "Kolommen"
+
+#: lib/icons-array.php:343
+msgid "Files Outlined"
+msgstr "Bestanden geschetst"
+
+#: lib/icons-array.php:344
+msgid "Floppy Outlined"
+msgstr "Floppy geschetst"
+
+#: lib/icons-array.php:345
+msgid "Font"
+msgstr "Lettertype"
+
+#: lib/icons-array.php:346 lib/metaboxes.php:368 lib/metaboxes.php:1986
+msgid "Header"
+msgstr "Hoofding"
+
+#: lib/icons-array.php:347
+msgid "Indent"
+msgstr "Inspringen"
+
+#: lib/icons-array.php:348
+msgid "Italic"
+msgstr "Cursief"
+
+#: lib/icons-array.php:349 lib/metaboxes.php:797
+msgid "Link"
+msgstr "Link"
+
+#: lib/icons-array.php:350
+msgid "List"
+msgstr "Lijst"
+
+#: lib/icons-array.php:351
+msgid "List alt"
+msgstr "Lijst Alt"
+
+#: lib/icons-array.php:352
+msgid "List ol"
+msgstr "Lijst OL"
+
+#: lib/icons-array.php:353
+msgid "List ul"
+msgstr "Lijst UL"
+
+#: lib/icons-array.php:354
+msgid "Outdent"
+msgstr "Uitspringen"
+
+#: lib/icons-array.php:355
+msgid "Paperclip"
+msgstr "Paperclip"
+
+#: lib/icons-array.php:356
+msgid "paragraph"
+msgstr "Paragraaf"
+
+#: lib/icons-array.php:357
+msgid "Repeat"
+msgstr "Herhaal"
+
+#: lib/icons-array.php:358
+msgid "Scissors"
+msgstr "Schaar"
+
+#: lib/icons-array.php:359
+msgid "Strikethrough"
+msgstr "Uitstrepen"
+
+#: lib/icons-array.php:360
+msgid "Subscript"
+msgstr "Onderschrift"
+
+#: lib/icons-array.php:361
+msgid "Superscript"
+msgstr "Bovenschrift"
+
+#: lib/icons-array.php:362
+msgid "Table"
+msgstr "Tabel"
+
+#: lib/icons-array.php:363
+msgid "Text-height"
+msgstr "Teksthoogte"
+
+#: lib/icons-array.php:364
+msgid "Text-width"
+msgstr "Textbreedte"
+
+#: lib/icons-array.php:365
+msgid "Th"
+msgstr "Th"
+
+#: lib/icons-array.php:366
+msgid "Th-large"
+msgstr "Th-groot"
+
+#: lib/icons-array.php:367
+msgid "Th-list"
+msgstr "Th-lijst"
+
+#: lib/icons-array.php:368
+msgid "Underline"
+msgstr "Onderlijnen"
+
+#: lib/icons-array.php:369
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+#: lib/icons-array.php:370
+msgid "Angle Double Down"
+msgstr "Hoek dubbel omlaag"
+
+#: lib/icons-array.php:371
+msgid "Angle Double Left"
+msgstr "Hoek dubbel links"
+
+#: lib/icons-array.php:372
+msgid "Angle Double Right"
+msgstr "Hoek dubbel omlaag"
+
+#: lib/icons-array.php:373
+msgid "Angle Double Up"
+msgstr "Hoek dubbel omhoog"
+
+#: lib/icons-array.php:374
+msgid "Angle Down"
+msgstr "Hoek omlaag"
+
+#: lib/icons-array.php:375
+msgid "Angle Left"
+msgstr "Hoek Links"
+
+#: lib/icons-array.php:376
+msgid "Angle Right"
+msgstr "Hoek rechts"
+
+#: lib/icons-array.php:377
+msgid "Angle Up"
+msgstr "Hoek omhoog"
+
+#: lib/icons-array.php:378
+msgid "Arrow Circle Down"
+msgstr "Pijl cirkel omlaag"
+
+#: lib/icons-array.php:379
+msgid "Arrow Circle Left"
+msgstr "Pijl cirkel links"
+
+#: lib/icons-array.php:380
+msgid "Arrow Circle Outlined Down"
+msgstr "Pijl cirkel omlaag geschetst"
+
+#: lib/icons-array.php:381
+msgid "Arrow Circle Outlined Left"
+msgstr "Pijl cirkel links geschetst"
+
+#: lib/icons-array.php:382
+msgid "Arrow Circle Outlined Right"
+msgstr "Pijl cirkel rechts geschetst"
+
+#: lib/icons-array.php:383
+msgid "Arrow Circle Outlined Up"
+msgstr "Pijl cirkel omhoog geschetst"
+
+#: lib/icons-array.php:384
+msgid "Arrow Circle Right"
+msgstr "Pijl cirkel rechts "
+
+#: lib/icons-array.php:385
+msgid "Arrow Circle Up"
+msgstr "Pijl cirkel omhoog "
+
+#: lib/icons-array.php:386
+msgid "Arrow Down"
+msgstr "Pijltje naar beneden"
+
+#: lib/icons-array.php:387
+msgid "Arrow Left"
+msgstr "Pijl links"
+
+#: lib/icons-array.php:388
+msgid "Arrow Right"
+msgstr "Pijl rechts"
+
+#: lib/icons-array.php:389
+msgid "Arrow Up"
+msgstr "Pijl omhoog"
+
+#: lib/icons-array.php:391 lib/icons-array.php:418
+msgid "Arrows Alt"
+msgstr "pijlen Alt"
+
+#: lib/icons-array.php:394
+msgid "Caret Down"
+msgstr "dakje omlaag"
+
+#: lib/icons-array.php:395
+msgid "Caret Left"
+msgstr "dakje links"
+
+#: lib/icons-array.php:396
+msgid "Caret Right"
+msgstr "dakje rechts"
+
+#: lib/icons-array.php:401
+msgid "Caret Up"
+msgstr "dakje omhoog"
+
+#: lib/icons-array.php:402
+msgid "Chevron Circle Down"
+msgstr "Chevron cirkel omlaag"
+
+#: lib/icons-array.php:403
+msgid "Chevron Circle Left"
+msgstr "Chevron cirkel links"
+
+#: lib/icons-array.php:404
+msgid "Chevron Circle Right"
+msgstr "Chevron cirkel rechts"
+
+#: lib/icons-array.php:405
+msgid "Chevron Circle Up"
+msgstr "Chevron cirkel omhoog"
+
+#: lib/icons-array.php:406
+msgid "Chevron Down"
+msgstr "Chevron omlaag"
+
+#: lib/icons-array.php:407
+msgid "Chevron Left"
+msgstr "Chevron links"
+
+#: lib/icons-array.php:408
+msgid "Chevron Right"
+msgstr "Chevron rechts"
+
+#: lib/icons-array.php:409
+msgid "Chevron Up"
+msgstr "Chevron omhoog"
+
+#: lib/icons-array.php:410
+msgid "Hand Outlined Down"
+msgstr "Hand omlaag geschetst"
+
+#: lib/icons-array.php:411
+msgid "Hand Outlined Left"
+msgstr "Hand links geschetst"
+
+#: lib/icons-array.php:412
+msgid "Hand Outlined Right"
+msgstr "Hand rechts geschetst"
+
+#: lib/icons-array.php:413
+msgid "Hand Outlined Up"
+msgstr "Hand omhoog geschetst"
+
+#: lib/icons-array.php:414
+msgid "Long Arrow Down"
+msgstr "Lange pijl naar beneden"
+
+#: lib/icons-array.php:415
+msgid "Long Arrow Left"
+msgstr "Lange pijl naar links"
+
+#: lib/icons-array.php:416
+msgid "Long Arrow Right"
+msgstr "Lange pijl naar rechts"
+
+#: lib/icons-array.php:417
+msgid "Long Arrow Up"
+msgstr "Lange pijl naar boven"
+
+#: lib/icons-array.php:419
+msgid "Backward"
+msgstr "Terug"
+
+#: lib/icons-array.php:420
+msgid "Compress"
+msgstr "Comprimeer"
+
+#: lib/icons-array.php:421
+msgid "Eject"
+msgstr "Werp uit"
+
+#: lib/icons-array.php:422
+msgid "Expand"
+msgstr "Klap uit"
+
+#: lib/icons-array.php:423
+msgid "Fast Backward"
+msgstr "Snel terug"
+
+#: lib/icons-array.php:424
+msgid "Fast Forward"
+msgstr "Snel voorwaarts"
+
+#: lib/icons-array.php:425
+msgid "Forward"
+msgstr "Voorwaarts"
+
+#: lib/icons-array.php:426
+msgid "Pause"
+msgstr "Pauze"
+
+#: lib/icons-array.php:427
+msgid "Play"
+msgstr "Speel af"
+
+#: lib/icons-array.php:428
+msgid "Play Circle"
+msgstr "Speel af cirkel"
+
+#: lib/icons-array.php:429
+msgid "Play Circle Outlined"
+msgstr "Speel af cirkel geschetst"
+
+#: lib/icons-array.php:430
+msgid "Step Backward"
+msgstr "Stap terug"
+
+#: lib/icons-array.php:431
+msgid "Step Forward"
+msgstr "Stap vooruit"
+
+#: lib/icons-array.php:432
+msgid "Stop"
+msgstr "Stop"
+
+#: lib/icons-array.php:433 lib/icons-array.php:529 lib/icons-array.php:637
+msgid "YouTube Play"
+msgstr "YouTube afspelen"
+
+#: lib/icons-array.php:434 lib/icons-array.php:542
+msgid "App.net"
+msgstr "App.net"
+
+#: lib/icons-array.php:435 lib/icons-array.php:543
+msgid "Android"
+msgstr "Android"
+
+#: lib/icons-array.php:436 lib/icons-array.php:544
+msgid "AngelList"
+msgstr "AngelList"
+
+#: lib/icons-array.php:437 lib/icons-array.php:545
+msgid "Apple"
+msgstr "Apple"
+
+#: lib/icons-array.php:438 lib/icons-array.php:546
+msgid "Behance"
+msgstr "Behance"
+
+#: lib/icons-array.php:439 lib/icons-array.php:547
+msgid "Behance Square"
+msgstr "Behance vierkant"
+
+#: lib/icons-array.php:440 lib/icons-array.php:548
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: lib/icons-array.php:441 lib/icons-array.php:549
+msgid "Bitbucket Square"
+msgstr "Bitbucket vierkant"
+
+#: lib/icons-array.php:449 lib/icons-array.php:557
+msgid "Codepen"
+msgstr "Codepen"
+
+#: lib/icons-array.php:450 lib/icons-array.php:558
+msgid "CSS 3 Logo"
+msgstr "CSS 3 Logo"
+
+#: lib/icons-array.php:451 lib/icons-array.php:559
+msgid "Delicious Logo"
+msgstr "Del.ici.ous Logo"
+
+#: lib/icons-array.php:452 lib/icons-array.php:560
+msgid "deviantART"
+msgstr "deviantART"
+
+#: lib/icons-array.php:453 lib/icons-array.php:561
+msgid "Digg Logo"
+msgstr "Digg Logo"
+
+#: lib/icons-array.php:454 lib/icons-array.php:562
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: lib/icons-array.php:455 lib/icons-array.php:563
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: lib/icons-array.php:456 lib/icons-array.php:564
+msgid "Drupal Logo"
+msgstr "Drupal Logo"
+
+#: lib/icons-array.php:457 lib/icons-array.php:565
+msgid "Galactic Empire"
+msgstr "Galactisch Rijk"
+
+#: lib/icons-array.php:458 lib/icons-array.php:566
+msgid "Facebook"
+msgstr "Facebook"
+
+#: lib/icons-array.php:459 lib/icons-array.php:567
+msgid "Facebook Square"
+msgstr "Facebook vierkant"
+
+#: lib/icons-array.php:460 lib/icons-array.php:568
+msgid "Flickr"
+msgstr "Flickr"
+
+#: lib/icons-array.php:461 lib/icons-array.php:569
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: lib/icons-array.php:462 lib/icons-array.php:570
+msgid "Git"
+msgstr "Git"
+
+#: lib/icons-array.php:463 lib/icons-array.php:571
+msgid "Git Square"
+msgstr "Git vierkant"
+
+#: lib/icons-array.php:464 lib/icons-array.php:572
+msgid "GitHub"
+msgstr "GitHub"
+
+#: lib/icons-array.php:465 lib/icons-array.php:573
+msgid "GitHub Alt"
+msgstr "GitHub Alt"
+
+#: lib/icons-array.php:466 lib/icons-array.php:574
+msgid "GitHub Square"
+msgstr "GitHub vierkant"
+
+#: lib/icons-array.php:467 lib/icons-array.php:575
+msgid "Gittip"
+msgstr "Gittip"
+
+#: lib/icons-array.php:468 lib/icons-array.php:576
+msgid "Google Logo"
+msgstr "Google logo"
+
+#: lib/icons-array.php:469 lib/icons-array.php:577
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: lib/icons-array.php:470 lib/icons-array.php:578
+msgid "Google Plus Square"
+msgstr "Google Plus vierkant"
+
+#: lib/icons-array.php:472 lib/icons-array.php:580
+msgid "Hacker News"
+msgstr "Hacker nieuws"
+
+#: lib/icons-array.php:473 lib/icons-array.php:581
+msgid "HTML 5 Logo"
+msgstr "HTML 5 Logo"
+
+#: lib/icons-array.php:474 lib/icons-array.php:582
+#: lib/widgets/instagram-widget.php:12 lib/widgets/instagram-widget.php:92
+msgid "Instagram"
+msgstr "Instagram"
+
+#: lib/icons-array.php:475 lib/icons-array.php:583
+msgid "ioxhost"
+msgstr "ioxhost"
+
+#: lib/icons-array.php:476 lib/icons-array.php:584
+msgid "Joomla Logo"
+msgstr "Joomla Logo"
+
+#: lib/icons-array.php:477 lib/icons-array.php:585
+msgid "jsFiddle"
+msgstr "jsFiddle"
+
+#: lib/icons-array.php:478 lib/icons-array.php:586
+msgid "last.fm"
+msgstr "last.fm"
+
+#: lib/icons-array.php:479 lib/icons-array.php:587
+msgid "last.fm Square"
+msgstr "last.fm vierkant"
+
+#: lib/icons-array.php:480 lib/icons-array.php:588
+msgid "LinkedIn"
+msgstr "LinkedIN"
+
+#: lib/icons-array.php:481 lib/icons-array.php:589
+msgid "LinkedIn Square"
+msgstr "LinkedIn vierkant"
+
+#: lib/icons-array.php:482 lib/icons-array.php:590
+msgid "Linux"
+msgstr "Linux"
+
+#: lib/icons-array.php:483 lib/icons-array.php:591
+msgid "MaxCDN"
+msgstr "MaxCDN"
+
+#: lib/icons-array.php:484 lib/icons-array.php:592
+msgid "meanpath"
+msgstr "meanpath"
+
+#: lib/icons-array.php:485 lib/icons-array.php:593
+msgid "OpenID"
+msgstr "OpenID"
+
+#: lib/icons-array.php:486 lib/icons-array.php:594
+msgid "Pagelines"
+msgstr "Pagelines"
+
+#: lib/icons-array.php:488 lib/icons-array.php:596
+msgid "Pied Piper Logo"
+msgstr "Pied Piper Logo"
+
+#: lib/icons-array.php:489 lib/icons-array.php:597
+msgid "Pied Piper Alternate Logo"
+msgstr "Pied Piper alternatief Logo"
+
+#: lib/icons-array.php:490 lib/icons-array.php:598
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: lib/icons-array.php:491 lib/icons-array.php:599
+msgid "Pinterest Square"
+msgstr "Pinterest vierkant"
+
+#: lib/icons-array.php:492 lib/icons-array.php:600
+msgid "QQ"
+msgstr "QQ"
+
+#: lib/icons-array.php:493 lib/icons-array.php:601
+msgid "Rebel Alliance"
+msgstr "Rebellen alliantie"
+
+#: lib/icons-array.php:494 lib/icons-array.php:602
+msgid "reddit Logo"
+msgstr "reddit logo"
+
+#: lib/icons-array.php:495 lib/icons-array.php:603
+msgid "reddit Square"
+msgstr "reddit vierkant"
+
+#: lib/icons-array.php:496 lib/icons-array.php:604
+msgid "Renren"
+msgstr "Renren"
+
+#: lib/icons-array.php:499 lib/icons-array.php:607
+msgid "Skype"
+msgstr "Skype"
+
+#: lib/icons-array.php:500 lib/icons-array.php:608
+msgid "Slack Logo"
+msgstr "Slack logo"
+
+#: lib/icons-array.php:501 lib/icons-array.php:609
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: lib/icons-array.php:502 lib/icons-array.php:610
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: lib/icons-array.php:503 lib/icons-array.php:611
+msgid "Spotify"
+msgstr "Spotify"
+
+#: lib/icons-array.php:504 lib/icons-array.php:612
+msgid "Stack Exchange"
+msgstr ""
+
+#: lib/icons-array.php:505 lib/icons-array.php:613
+msgid "Stack Overflow"
+msgstr ""
+
+#: lib/icons-array.php:506 lib/icons-array.php:614
+msgid "Steam"
+msgstr ""
+
+#: lib/icons-array.php:507 lib/icons-array.php:615
+msgid "Steam Square"
+msgstr "Steam vierkant"
+
+#: lib/icons-array.php:508 lib/icons-array.php:616
+msgid "StumbleUpon Logo"
+msgstr ""
+
+#: lib/icons-array.php:509 lib/icons-array.php:617
+msgid "StumbleUpon Circle"
+msgstr ""
+
+#: lib/icons-array.php:510 lib/icons-array.php:618
+msgid "Tencent Weibo"
+msgstr ""
+
+#: lib/icons-array.php:511 lib/icons-array.php:619
+msgid "Trello"
+msgstr ""
+
+#: lib/icons-array.php:512 lib/icons-array.php:620
+msgid "Tumblr"
+msgstr ""
+
+#: lib/icons-array.php:513 lib/icons-array.php:621
+msgid "Tumblr Square"
+msgstr "Tumblr vierkant"
+
+#: lib/icons-array.php:514 lib/icons-array.php:622
+msgid "Twitch"
+msgstr ""
+
+#: lib/icons-array.php:515 lib/icons-array.php:623
+msgid "Twitter"
+msgstr ""
+
+#: lib/icons-array.php:516 lib/icons-array.php:624
+msgid "Twitter Square"
+msgstr "Twitter vierkant"
+
+#: lib/icons-array.php:517 lib/icons-array.php:625
+msgid "Vimeo Square"
+msgstr "Vimeo vierkant"
+
+#: lib/icons-array.php:518 lib/icons-array.php:626
+msgid "Vine"
+msgstr ""
+
+#: lib/icons-array.php:519 lib/icons-array.php:627
+msgid "VK"
+msgstr ""
+
+#: lib/icons-array.php:520 lib/icons-array.php:628
+msgid "Weibo"
+msgstr ""
+
+#: lib/icons-array.php:521 lib/icons-array.php:629
+msgid "Weixin (WeChat)"
+msgstr ""
+
+#: lib/icons-array.php:522 lib/icons-array.php:630
+msgid "Windows"
+msgstr ""
+
+#: lib/icons-array.php:523 lib/icons-array.php:631
+msgid "Wordpress Logo"
+msgstr ""
+
+#: lib/icons-array.php:524 lib/icons-array.php:632
+msgid "Xing"
+msgstr ""
+
+#: lib/icons-array.php:525 lib/icons-array.php:633
+msgid "Xing Square"
+msgstr ""
+
+#: lib/icons-array.php:526 lib/icons-array.php:634
+msgid "Yahoo Logo"
+msgstr ""
+
+#: lib/icons-array.php:527 lib/icons-array.php:635
+msgid "Yelp"
+msgstr ""
+
+#: lib/icons-array.php:528 lib/icons-array.php:636
+msgid "YouTube"
+msgstr ""
+
+#: lib/icons-array.php:530 lib/icons-array.php:638
+msgid "YouTube Square"
+msgstr "YouTube vierkant"
+
+#: lib/icons-array.php:531
+msgid "Ambulance"
+msgstr "Ziekenwagen"
+
+#: lib/icons-array.php:532
+msgid "H Square"
+msgstr ""
+
+#: lib/icons-array.php:533
+msgid "Hospital Outlined"
+msgstr "Ziekenhuis geschetst"
+
+#: lib/icons-array.php:534
+msgid "Medkit"
+msgstr "EHBO box"
+
+#: lib/icons-array.php:536
+msgid "Stethoscope"
+msgstr "Stethoscoop"
+
+#: lib/icons-array.php:537
+msgid "User-md"
+msgstr "Gebruiker-md"
+
+#: lib/metaboxes.php:6
+msgid "Page Layout"
+msgstr "Pagina Lay-out"
+
+#: lib/metaboxes.php:10 lib/metaboxes.php:1189
+msgid "Page layout"
+msgstr "Pagina lay-out"
+
+#: lib/metaboxes.php:13
+msgid "Select the page layout"
+msgstr "Selecteer pagina lay-out"
+
+#: lib/metaboxes.php:22 lib/metaboxes.php:1096 lib/metaboxes.php:1201
+msgid "With left sidebar"
+msgstr "Met linker zijbalk"
+
+#: lib/metaboxes.php:23 lib/metaboxes.php:1097 lib/metaboxes.php:1202
+msgid "With right sidebar"
+msgstr "Met rechter zijbalk"
+
+#: lib/metaboxes.php:24 lib/metaboxes.php:1098 lib/metaboxes.php:1203
+msgid "No sidebar"
+msgstr "Geen zijbalk"
+
+#: lib/metaboxes.php:39
+msgid "Select sidebar"
+msgstr "Kies zijbalk"
+
+#: lib/metaboxes.php:42
+msgid ""
+"Select a sidebar. You can create unlimited sidebars in Appearance >> Theme "
+"options."
+msgstr ""
+"Kies een zijbalk. U kan er onbeperkt bijmaken in Weergave >> Thema opties. "
+
+#: lib/metaboxes.php:114
+msgid "Theme Options"
+msgstr "Thema Opties"
+
+#: lib/metaboxes.php:118
+msgid "General"
+msgstr "Algemeen"
+
+#: lib/metaboxes.php:134
+msgid "Site preloader"
+msgstr "Site preloader"
+
+#: lib/metaboxes.php:137
+msgid "Enable/disable the site preloader"
+msgstr "Activeer tonen van voortgang terwijl de site geladen wordt."
+
+#: lib/metaboxes.php:150
+msgid "Logo"
+msgstr "Logo"
+
+#: lib/metaboxes.php:166
+msgid "Display image logo"
+msgstr "Toon een afbeeldingslogo"
+
+#: lib/metaboxes.php:169
+msgid "Display an image logo instead of the title."
+msgstr "Toon een afbeelding als logo in plaats van de titel."
+
+#: lib/metaboxes.php:182
+msgid "Logo image"
+msgstr "Logo afbeelding"
+
+#: lib/metaboxes.php:185 lib/metaboxes.php:262 lib/metaboxes.php:310
+msgid "Upload the logo image"
+msgstr "Logo afbeelding opladen"
+
+#: lib/metaboxes.php:214
+msgid "Logo margins"
+msgstr "Logo marges"
+
+#: lib/metaboxes.php:217 lib/metaboxes.php:342
+msgid "Insert the logo margins, if necessary. Eg: 5px 0 0 2px"
+msgstr ""
+"Voeg logo marges toe indien nodig. Bv. (Top-Rechts-Beneden-Links) 5px 0 0 2px"
+
+#: lib/metaboxes.php:243
+msgid "Display wp admin image logo"
+msgstr "Toon WP admin afbeeldingslogo"
+
+#: lib/metaboxes.php:246
+msgid "Display a custom image/logo on the wp admin login area."
+msgstr "Toon een eigen afbeelding/logo op de wp beheerder login pagina."
+
+#: lib/metaboxes.php:259
+msgid "WP admin logo image"
+msgstr "WP Beheerder afbeelding logo"
+
+#: lib/metaboxes.php:291
+msgid "Display footer image logo"
+msgstr "Toon een afbeelding met logo in de Footer"
+
+#: lib/metaboxes.php:294
+msgid "Display an image logo in the footer"
+msgstr "Toon een afbeelding met logo in de Footer"
+
+#: lib/metaboxes.php:307
+msgid "Footer logo image"
+msgstr "Footer logo afbeelding"
+
+#: lib/metaboxes.php:339
+msgid "Footer logo margins"
+msgstr "Footer logo marges"
+
+#: lib/metaboxes.php:384
+msgid "Sticky menu"
+msgstr "Forceer zichtbaarheid menu"
+
+#: lib/metaboxes.php:400
+msgid "Footer"
+msgstr "Footer"
+
+#: lib/metaboxes.php:416
+msgid "Footer image"
+msgstr "Afbeelding Footer"
+
+#: lib/metaboxes.php:419
+msgid "Insert a footer image."
+msgstr "Voeg een Footer afbeelding toe."
+
+#: lib/metaboxes.php:440
+msgid "Footer text"
+msgstr "Footer: tekst"
+
+#: lib/metaboxes.php:443
+msgid ""
+"Insert the footer text. E.G.: <pre>&lt;div class=\"heading\"&gt;&lt;p class="
+"\"h_subtitle\"&gt;Villenoir promise&lt;/p&gt;&lt;h2 class=\"h_title\"&gt;We "
+"make good wines&lt;/h2&gt;&lt;/div&gt;</pre>"
+msgstr ""
+"Voer Footer in. Bv: <pre>&lt;div class=\"heading\"&gt;&lt;p class=\"h_subtitle"
+"\"&gt;Villenoir promise&lt;/p&gt;&lt;h2 class=\"h_title\"&gt;We make good "
+"wines&lt;/h2&gt;&lt;/div&gt;</pre>"
+
+#: lib/metaboxes.php:461
+msgid "Footer widgets"
+msgstr "Footer widgets"
+
+#: lib/metaboxes.php:464
+msgid "Enable/Disable footer widgets"
+msgstr "Activeer footer widgets"
+
+#: lib/metaboxes.php:477
+msgid "Footer extras"
+msgstr "Footer extras"
+
+#: lib/metaboxes.php:480
+msgid "Enable/Disable footer extras (copyright)."
+msgstr "Activeer footer extras  (copyright)"
+
+#: lib/metaboxes.php:493
+msgid "Footer Copyright"
+msgstr "Footer copyright"
+
+#: lib/metaboxes.php:496
+msgid "Footer copyright"
+msgstr "Footer copyright"
+
+#: lib/metaboxes.php:522
+msgid "Footer menu"
+msgstr "Footer Menu"
+
+#: lib/metaboxes.php:525
+msgid "Enable/disable footer menu"
+msgstr "Activeer menu in footer "
+
+#: lib/metaboxes.php:546
+msgid "Footer social icons"
+msgstr "Footer social media iconen"
+
+#: lib/metaboxes.php:549
+msgid "Enable/disable footer social icons"
+msgstr "Footer social media iconen activeren"
+
+#: lib/metaboxes.php:586
+msgid "Page comments"
+msgstr "Paginareacties"
+
+#: lib/metaboxes.php:589
+msgid "Enable/Disable comments on all pages."
+msgstr "Activeer commentaren op alle pagina's"
+
+#: lib/metaboxes.php:602
+msgid "Post comments"
+msgstr "Commentaren posten"
+
+#: lib/metaboxes.php:605
+msgid "Enable/Disable comments on all posts."
+msgstr "Activeer commentaar op alle posts"
+
+#: lib/metaboxes.php:618
+msgid "Social media"
+msgstr "Sociale media"
+
+#: lib/metaboxes.php:634
+msgid "Social icons"
+msgstr "Social Media iconen"
+
+#: lib/metaboxes.php:637
+msgid "These icons are displayed with the help of \"Social Icons Widget\""
+msgstr "Deze iconen worden weergegeven met behulp van \"Social Icons Widget\""
+
+#: lib/metaboxes.php:674
+msgid "Icon"
+msgstr "Icoon"
+
+#: lib/metaboxes.php:815
+msgid "Sidebars"
+msgstr "Zijbalken"
+
+#: lib/metaboxes.php:831
+msgid "Sidebar options"
+msgstr "Zijbalk-opties"
+
+#: lib/metaboxes.php:834
+msgid ""
+"Create a custom sidebar to use on pages or posts. Then go to Appearance >> "
+"Widgets to add widgets."
+msgstr ""
+"Creëer een aangepaste zijbalk voor gebruik op pagina's of berichten. Ga "
+"vervolgens naar Weergave >> Widgets om er widgets aan toe te voegen."
+
+#: lib/metaboxes.php:873
+msgid "Fonts"
+msgstr "Lettertypes"
+
+#: lib/metaboxes.php:889
+msgid "Headings font"
+msgstr "Lettertype voor hoofdingen"
+
+#: lib/metaboxes.php:892
+msgid "Select the theme font. Default: Playfair Display"
+msgstr "Kies het lettertype voor het thema. Standaard: Playfair Display"
+
+#: lib/metaboxes.php:906
+msgid "Body font"
+msgstr "Lettertype voor body tekst"
+
+#: lib/metaboxes.php:909
+msgid "Select the theme font. Default: Lato"
+msgstr "Kies het lettertype voor het thema. Standaard: Lato"
+
+#: lib/metaboxes.php:923
+msgid "Colors"
+msgstr "Kleuren"
+
+#: lib/metaboxes.php:939
+msgid "Text colors"
+msgstr "Tekstkleuren"
+
+#: lib/metaboxes.php:950
+msgid "Modify the default text colors"
+msgstr "Pas standaard tekstkleuren aan"
+
+#: lib/metaboxes.php:956
+msgid "Text body color"
+msgstr "Kleur van gewone tekst"
+
+#: lib/metaboxes.php:959 lib/metaboxes.php:974
+msgid "Default value: #000000"
+msgstr "Standaardwaarde: #000000"
+
+#: lib/metaboxes.php:971
+msgid "Headings color"
+msgstr "Kleur van titels"
+
+#: lib/metaboxes.php:986
+msgid "Link and elements color"
+msgstr "Kleur van links en elementen"
+
+#: lib/metaboxes.php:989
+msgid "Default value: #b0976d"
+msgstr "Standaardwaarde: #b0976d"
+
+#: lib/metaboxes.php:1001
+msgid "Elements color"
+msgstr "Kleur voor elementen"
+
+#: lib/metaboxes.php:1012
+msgid ""
+"Modify the default elements color. \n"
+"Affects: elements with background color, like footer, badges, menu, buttons, "
+"etc"
+msgstr ""
+"Wijzig de standaardkleur voor elementen. \n"
+"Beïnvloedt elementen met achtergrondkleur, zoals de footer, badges, menu, "
+"knoppen, etc"
+
+#: lib/metaboxes.php:1019
+msgid "Primary color"
+msgstr "Hoofdkleur"
+
+#: lib/metaboxes.php:1022
+msgid "Default value: #121212\n"
+msgstr "Standaardwaarde: #121212\n"
+
+#: lib/metaboxes.php:1035
+msgid "Primary color alt"
+msgstr "Hoofdkleur alt"
+
+#: lib/metaboxes.php:1038
+msgid "Default value: #000000\n"
+msgstr "Standaardwaarde: #000000\n"
+
+#: lib/metaboxes.php:1051
+msgid "Page templates"
+msgstr "Paginasjablonen"
+
+#: lib/metaboxes.php:1067
+msgid "Search page"
+msgstr "Zoekpagina"
+
+#: lib/metaboxes.php:1078
+msgid "Select the layout of the search page."
+msgstr "Kies de lay-out van de zoekpagina."
+
+#: lib/metaboxes.php:1084
+msgid "Search page layout"
+msgstr "Lay-out van zoekpagina"
+
+#: lib/metaboxes.php:1113
+msgid "404 page"
+msgstr "404 pagina"
+
+#: lib/metaboxes.php:1124
+msgid "Set the options for the 404 error page."
+msgstr "Stel opties in voor de 404 foutmeldingspagina (= pagina niet gevonden)"
+
+#: lib/metaboxes.php:1130
+msgid "Error page title"
+msgstr "Foutpagina titel"
+
+#: lib/metaboxes.php:1133
+msgid "Set the page title"
+msgstr "Zet de titel voor de pagina"
+
+#: lib/metaboxes.php:1151
+msgid "Error page description"
+msgstr "Foutpagina beschrijving"
+
+#: lib/metaboxes.php:1154
+msgid "Set a message"
+msgstr "Stel een boodschap in"
+
+#: lib/metaboxes.php:1172
+msgid "Category/Archive page"
+msgstr "Categorie/Archiefpagina"
+
+#: lib/metaboxes.php:1183
+msgid "Select the layout of the posts category/archive page."
+msgstr "Kies de lay-out voor de categorie/archiefpagina van berichten."
+
+#: lib/metaboxes.php:1218
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: lib/metaboxes.php:1234
+msgid "CSS"
+msgstr ""
+
+#: lib/metaboxes.php:1237
+msgid ""
+"Your custom CSS goes here. Do not include the style tag. This is already done "
+"for you."
+msgstr ""
+"Plaats hier uw aangepaste CSS. Geen < style > tag toevoegen: wordt reeds voor "
+"u gedaan."
+
+#: lib/metaboxes.php:1255
+msgid "Custom scripts"
+msgstr "Aangepaste scripts"
+
+#: lib/metaboxes.php:1271
+msgid "JS"
+msgstr ""
+
+#: lib/metaboxes.php:1274
+msgid ""
+"Add custom footer scripts such as Google Analytics. Do not include the script "
+"tag. This is already done for you."
+msgstr ""
+"Voeg aangepaste footer scripts toe, zoals Google Analytics. Geen < script > "
+"tag toevoegen: wordt reeds voor u gedaan. "
+
+#: lib/metaboxes.php:1292
+msgid "Store"
+msgstr "Webwinkel"
+
+#: lib/metaboxes.php:1308
+msgid "Header minicart"
+msgstr "Miniwinkelmandje in hoofding"
+
+#: lib/metaboxes.php:1311
+msgid "Enable/disable header minicart"
+msgstr "Activeer miniwinkelmandje in hoofding"
+
+#: lib/metaboxes.php:1324
+msgid "Catalog mode"
+msgstr "Catalogusmodus"
+
+#: lib/metaboxes.php:1327
+msgid ""
+"Enable/Disable catalog mode. This will disable: add to cart, checkout and buy "
+"functions."
+msgstr ""
+"Activeer Catalogusmodus: toevoegen aan winkelmandje, bestellen en kopen "
+"worden gedesactiveerd. "
+
+#: lib/metaboxes.php:1340
+msgid "Activate product image sizes"
+msgstr "Activeer productafbeeldingsgrootten"
+
+#: lib/metaboxes.php:1343
+msgid ""
+"Check this to activate the inputs for image size change from WooCommerce >> "
+"Settings >> Products >> Display"
+msgstr ""
+"Vink aan om de inputs voor verandering van afbeeldingsgrootte te activeren "
+"vanuit WooCommerce >> Instellingen >> Producten >> Weergave"
+
+#: lib/metaboxes.php:1356 lib/metaboxes.php:1367
+msgid "Shop page options"
+msgstr "Webwinkelpagina opties"
+
+#: lib/metaboxes.php:1373
+msgid "Shop columns"
+msgstr "Webwinkel kolommen"
+
+#: lib/metaboxes.php:1376
+msgid "Select the shop page number of columns"
+msgstr "Kies het gewenste aantal kolommen voor de webwinkelpagina"
+
+#: lib/metaboxes.php:1402
+msgid "Shop style"
+msgstr "Webwinkel stijl"
+
+#: lib/metaboxes.php:1405
+msgid "Select the shop style"
+msgstr "Kies de stijl voor de webwinkel"
+
+#: lib/metaboxes.php:1414 lib/metaboxes.php:2038
+msgid "Style 1"
+msgstr "Stijl 1"
+
+#: lib/metaboxes.php:1415 lib/metaboxes.php:2039
+msgid "Style 2"
+msgstr "Stijl 2"
+
+#: lib/metaboxes.php:1416
+msgid "Style 3"
+msgstr "Stijl 3"
+
+#: lib/metaboxes.php:1417
+msgid "Style 4"
+msgstr "Stijl 4"
+
+#: lib/metaboxes.php:1432
+msgid "Products per page"
+msgstr "Aantal producten per pagina"
+
+#: lib/metaboxes.php:1435
+msgid "Insert the number of products to display until pagination kicks is"
+msgstr ""
+"Geef het aantal weer te geven producten per pagina aan, vooraleer paginering "
+"aanvangt"
+
+#: lib/metaboxes.php:1453
+msgid "Products sale flash"
+msgstr "Producten flashverkoop"
+
+#: lib/metaboxes.php:1456
+msgid "Enable/Disable sale flash on products."
+msgstr "Activeer flash verkoop producten."
+
+#: lib/metaboxes.php:1469
+msgid "Products price"
+msgstr "Productprijs"
+
+#: lib/metaboxes.php:1472
+msgid "Enable/Disable products price."
+msgstr "Toon product prijs"
+
+#: lib/metaboxes.php:1485
+msgid "Add to cart button"
+msgstr "Voeg toe aan winkelmandje-knop"
+
+#: lib/metaboxes.php:1488
+msgid "Enable/Disable add to cart button"
+msgstr "Inschakelen \"voeg toe aan winkelmandje\" knop"
+
+#: lib/metaboxes.php:1501 lib/metaboxes.php:1512
+msgid "Product page options"
+msgstr "Productpaginaopties"
+
+#: lib/metaboxes.php:1518
+msgid "Product sale flash"
+msgstr "Product flashverkoop"
+
+#: lib/metaboxes.php:1521
+msgid "Enable/Disable sale flash on product"
+msgstr "Activeer flash verkoop product."
+
+#: lib/metaboxes.php:1534
+msgid "Product price"
+msgstr "Productprijs"
+
+#: lib/metaboxes.php:1537
+msgid "Enable/Disable product price"
+msgstr "Toon product prijs"
+
+#: lib/metaboxes.php:1550
+msgid "Product short description"
+msgstr "Artikel korte beschrijving"
+
+#: lib/metaboxes.php:1553
+msgid "Enable/Disable product short description"
+msgstr "Toon korte beschrijving van product"
+
+#: lib/metaboxes.php:1566
+msgid "Product meta"
+msgstr "Artikel metadata"
+
+#: lib/metaboxes.php:1569
+msgid "Enable/Disable product meta (sku, category, tag)"
+msgstr "Toon product metadata (SKU, categorie, tag)"
+
+#: lib/metaboxes.php:1582
+msgid "Product add to cart button"
+msgstr "Product toevoegen aan winkelmandje knop"
+
+#: lib/metaboxes.php:1585
+msgid "Enable/Disable product add to cart button"
+msgstr "Activeer \"Product toevoegen aan winkelmandje\"-knop"
+
+#: lib/metaboxes.php:1598
+msgid "Related products"
+msgstr "Verwante producten"
+
+#: lib/metaboxes.php:1601
+msgid "Enable/Disable Related products"
+msgstr "Toon verwante producten"
+
+#: lib/metaboxes.php:1614
+msgid "Up Sells products"
+msgstr "Vergelijkbare producten..."
+
+#: lib/metaboxes.php:1617
+msgid "Enable/Disable Up Sells products"
+msgstr "Toon vergelijkbare producten (upsells)"
+
+#: lib/metaboxes.php:1630
+msgid "Reviews tab"
+msgstr "Tabblad Beoordelingen "
+
+#: lib/metaboxes.php:1633
+msgid "Enable/Disable reviews tab"
+msgstr "Toon Tabblad Beoordelingen "
+
+#: lib/metaboxes.php:1646
+msgid "Description tab"
+msgstr "Tabblad beschrijving"
+
+#: lib/metaboxes.php:1649
+msgid "Enable/Disable description tab"
+msgstr "Toon Tabblad beschrijving"
+
+#: lib/metaboxes.php:1662
+msgid "Additional information tab"
+msgstr "Tabblad Bijkomende informatie"
+
+#: lib/metaboxes.php:1665
+msgid "Enable/Disable additional information tab"
+msgstr "Toon Tabblad Bijkomende informatie"
+
+#: lib/metaboxes.php:1678 lib/metaboxes.php:1689
+msgid "Cart page options"
+msgstr "Opties voor Winkelmandje pagina"
+
+#: lib/metaboxes.php:1695
+msgid "Cross Sells products"
+msgstr "Klanten kochten ook..."
+
+#: lib/metaboxes.php:1698
+msgid "Enable/Disable Cross Sells products"
+msgstr "Toon Klanten kochten ook (Cross Sells)"
+
+#: lib/metaboxes.php:1731
+msgid "Blog Options"
+msgstr "Blog opties"
+
+#: lib/metaboxes.php:1735
+msgid "Blog layout"
+msgstr "Blog lay-out"
+
+#: lib/metaboxes.php:1738
+msgid "Select the blog layout"
+msgstr "Kies de lay-out voor de blog"
+
+#: lib/metaboxes.php:1747
+msgid "Grid Fit rows"
+msgstr ""
+
+#: lib/metaboxes.php:1748
+msgid "Grid Masonry"
+msgstr ""
+
+#: lib/metaboxes.php:1763
+msgid "Blog layout style"
+msgstr "Blog lay-out stijl"
+
+#: lib/metaboxes.php:1766
+msgid "Select the blog layout style"
+msgstr "Kies de lay-out stijl voor de blog"
+
+#: lib/metaboxes.php:1790
+msgid "Gap"
+msgstr "Opening"
+
+#: lib/metaboxes.php:1791
+msgid "No Gap"
+msgstr "Geen opening"
+
+#: lib/metaboxes.php:1806
+msgid "Blog columns"
+msgstr "Blog kolommen"
+
+#: lib/metaboxes.php:1809
+msgid "Select the number of columns"
+msgstr "Kies het aantal kolommen"
+
+#: lib/metaboxes.php:1850
+msgid "Number of posts to show"
+msgstr "Aantal berichten te tonen"
+
+#: lib/metaboxes.php:1853
+msgid "Insert the number of blog posts to show"
+msgstr "Geef aantal te tonen berichten op:"
+
+#: lib/metaboxes.php:1871
+msgid "Blog pagination"
+msgstr "Blog paginering"
+
+#: lib/metaboxes.php:1874
+msgid "Select the blog pagination"
+msgstr "Kies Blog paginering"
+
+#: lib/metaboxes.php:1883
+msgid "Numbered pagination"
+msgstr "Genummerde paginering"
+
+#: lib/metaboxes.php:1884
+msgid "Ajax load more pagination"
+msgstr "Ajax \"meer laden\" paginering"
+
+#: lib/metaboxes.php:1926
+msgid "Post Options"
+msgstr "Opties voor bericht"
+
+#: lib/metaboxes.php:1930
+msgid "Social share"
+msgstr "Delen op sociale media"
+
+#: lib/metaboxes.php:1933
+msgid "Enable/Disable social share on post"
+msgstr "Maak delen op sociale media beschikbaar"
+
+#: lib/metaboxes.php:1946
+msgid "Post navigation"
+msgstr "Berichtnavigatie"
+
+#: lib/metaboxes.php:1949
+msgid "Enable/Disable the posts navigation"
+msgstr "Activeer navigatie op berichten"
+
+#: lib/metaboxes.php:1982
+msgid "Page Options"
+msgstr "Paginaopties"
+
+#: lib/metaboxes.php:2002
+msgid "Page header"
+msgstr "Paginahoofding"
+
+#: lib/metaboxes.php:2013
+msgid "Enable/Disable page header."
+msgstr "Toon paginahoofding"
+
+#: lib/metaboxes.php:2018
+msgid "Page header style"
+msgstr "Stijl voor paginahoofding"
+
+#: lib/metaboxes.php:2054
+msgid "Page breadcrumbs"
+msgstr "Pagina wegwijzer"
+
+#: lib/metaboxes.php:2073
+msgid "Enable/Disable page breadcrumbs"
+msgstr "Toon pagina wegwijzer (breadcrumbs)"
+
+#: lib/metaboxes.php:2078
+msgid "Page title"
+msgstr "Paginatitel"
+
+#: lib/metaboxes.php:2097
+msgid "Enable/Disable page title."
+msgstr "Toon paginatitel"
+
+#: lib/metaboxes.php:2102
+msgid "Page subtitle"
+msgstr "Pagina ondertitel"
+
+#: lib/metaboxes.php:2105
+msgid "Insert the page subtitle"
+msgstr "Voer pagina ondertitel in"
+
+#: lib/metaboxes.php:2131
+msgid "Page description"
+msgstr "Paginabeschrijving"
+
+#: lib/metaboxes.php:2134
+msgid "Insert your page short description here."
+msgstr "Voeg de korte beschrijving van je pagina hier in. "
+
+#: lib/metaboxes.php:2165
+msgid "Header Slideshow"
+msgstr "Hoofding met diavoorstelling"
+
+#: lib/metaboxes.php:2181
+msgid "Header slideshow info"
+msgstr "Hoofding met diavoorstelling informatie"
+
+#: lib/metaboxes.php:2192
+msgid "You can display a Revolution Slider in the theme header, under the menu."
+msgstr ""
+"Je kan een Revolution Slider tonen in de hoofding van het thema, onder het "
+"menu. "
+
+#: lib/metaboxes.php:2198
+msgid "Page header slideshow"
+msgstr "Paginahoofding met diavoorstelling"
+
+#: lib/metaboxes.php:2201
+msgid "Enable/disable page slideshow"
+msgstr "Paginahoofding met diavoorstelling tonen"
+
+#: lib/metaboxes.php:2214
+msgid "Slideshow"
+msgstr "Diavoorstelling"
+
+#: lib/metaboxes.php:2217
+msgid "Select the slideshow"
+msgstr "Kies de diavoorstelling"
+
+#: lib/metaboxes.php:2249
+msgid "Slideshow position"
+msgstr "Positionering van diavoorstelling"
+
+#: lib/metaboxes.php:2252
+msgid "Select the slider position"
+msgstr "Kies de gewenste positionering van diavoorstelling"
+
+#: lib/metaboxes.php:2269
+msgid "Under the header"
+msgstr "Onderin de hoofding"
+
+#: lib/metaboxes.php:2270
+msgid "Beneath the header"
+msgstr "Onderaan de hoofding"
+
+#: lib/metaboxes.php:2285
+msgid "Page background"
+msgstr "Pagina achtergrond"
+
+#: lib/metaboxes.php:2301
+msgid "Background"
+msgstr "Achtergrond"
+
+#: lib/metaboxes.php:2304
+msgid "Upload an image background"
+msgstr "Upload een achtergrondafbeelding"
+
+#: lib/metaboxes.php:2366
+msgid "Contact Page Options"
+msgstr "Opties Contactpagina"
+
+#: lib/metaboxes.php:2370
+msgid "Address"
+msgstr "Adres"
+
+#: lib/metaboxes.php:2386
+msgid "Show map"
+msgstr "Toon kaart"
+
+#: lib/metaboxes.php:2389
+msgid "Show/hide map"
+msgstr "Toon kaart"
+
+#: lib/metaboxes.php:2402
+msgid "Addresses"
+msgstr "Adressen"
+
+#: lib/metaboxes.php:2405
+msgid "If your clinic has more addresses you can add them here."
+msgstr "Indien je meerdere adressen hebt, kan je die hier invoeren."
+
+#: lib/metaboxes.php:2421
+msgid "Latitude"
+msgstr "Breedtegraad"
+
+#: lib/metaboxes.php:2424
+msgid ""
+"Enter the latitude value of your location in this format 51.13456\n"
+"Latitude value is the first string (before comma) of google map address. E."
+"G.: 51.13456, -1.34333"
+msgstr ""
+"Geef de latitudewaarde voor je locatie in het volgende formaat op: 51.13456\n"
+"De breedtegraad is het stukje tekst voor de komma van een adres op Google "
+"kaarten. Bijvoorbeeld: 51.13456, -1.34333"
+
+#: lib/metaboxes.php:2443
+msgid "Longitude"
+msgstr "Lengtegraad"
+
+#: lib/metaboxes.php:2446
+msgid ""
+"Enter the longitude value of your location in this format -1.34333\n"
+"Latitude value is the second string (after comma) of google map address. E."
+"G.: 51.13456, -1.34333"
+msgstr ""
+"Geef de longitudewaarde voor je locatie in het volgende formaat op: -1.34333\n"
+"De lengtegraad is het stukje tekst na de komma van een adres op Google "
+"kaarten. Bijvoorbeeld: 51.13456, -1.34333"
+
+#: lib/metaboxes.php:2465
+msgid "Zoom"
+msgstr "Inzoomen"
+
+#: lib/metaboxes.php:2468
+msgid "Insert the zoom factor. Default: 10"
+msgstr "Geef zoomfactor op (standaard: 10)"
+
+#: lib/metaboxes.php:2486
+msgid "InfoWindow"
+msgstr "InfoVenster"
+
+#: lib/metaboxes.php:2489
+msgid ""
+"Insert your address details. Will appear after you click on the marker icon."
+msgstr ""
+"Voer adres in, zoals het moet verschijnen wanneer de punaise op de kaart "
+"aangeklikt wordt."
+
+#: lib/metaboxes.php:2509 lib/metaboxes.php:2525
+msgid "Contact form"
+msgstr "Contactformulier"
+
+#: lib/metaboxes.php:2528
+msgid "Enable/disable contact form. Default: true"
+msgstr "Toon contactformulier (standaard: aan)"
+
+#: lib/metaboxes.php:2541 lib/nav/edit_custom_walker.php:194
+msgid "Description"
+msgstr "Beschrijving"
+
+#: lib/metaboxes.php:2544
+msgid "Describe your contact form."
+msgstr "Beschrijf je contactformulier."
+
+#: lib/metaboxes.php:2570
+msgid "Email address"
+msgstr "Email adres"
+
+#: lib/metaboxes.php:2573
+msgid ""
+"Enter your email address. On this address you will receive the emails from "
+"this contact form. If the email is not set it defaults to the admin email "
+"from Settings >> General."
+msgstr ""
+"Geef je email adres op. Op dit adres zal je de emails van dit "
+"contactformulier ontvangen. Indien niet ingesteld, wordt dit standaard "
+"doorgezonden naar het email adres van de beheerder (Instellingen >> Algemeen)."
+
+#: lib/metaboxes.php:2599
+msgid "From: Email address"
+msgstr "Van: Email adres"
+
+#: lib/metaboxes.php:2602
+msgid "Enter the FROM email address. E.G.: noreply@yoursitename.com"
+msgstr "Voer de afzender in, bijvoorbeeld noreply@jouwsite.be"
+
+#: lib/metaboxes.php:2628
+msgid "Success text"
+msgstr "Succes tekst"
+
+#: lib/metaboxes.php:2631
+msgid ""
+"Enter the success message that will be displayed on successful email delivery."
+msgstr ""
+"Voer het bericht in dat getoond moet worden bij geslaagde verzending van "
+"email. "
+
+#: lib/metaboxes.php:2657
+msgid "Error text"
+msgstr "Fouttekst"
+
+#: lib/metaboxes.php:2660
+msgid ""
+"Enter the error message that will be displayed on\temail delivery failure."
+msgstr ""
+"Voer het bericht in dat getoond moet worden bij mislukken van verzending van "
+"email. "
+
+#. translators: %s: title of menu item which is invalid
+#: lib/nav/edit_custom_walker.php:99
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Ongeldig)"
+
+#. translators: %s: title of menu item in draft status
+#: lib/nav/edit_custom_walker.php:103
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (in afwachting)"
+
+#: lib/nav/edit_custom_walker.php:116
+msgid "sub item"
+msgstr "Sub item"
+
+#: lib/nav/edit_custom_walker.php:131
+msgid "Move up"
+msgstr "Verplaats naar boven"
+
+#: lib/nav/edit_custom_walker.php:144
+msgid "Move down"
+msgstr "Verplaats naar beneden"
+
+#: lib/nav/edit_custom_walker.php:148
+msgid "Edit menu item"
+msgstr "Wijzig menu item"
+
+#: lib/nav/edit_custom_walker.php:148 parts/gallery/part-gallery.php:61
+#: parts/post-formats/part.php:58
+msgid "Edit"
+msgstr "Wijzig"
+
+#: lib/nav/edit_custom_walker.php:157
+msgid "URL"
+msgstr ""
+
+#: lib/nav/edit_custom_walker.php:164
+msgid "Navigation Label"
+msgstr "Navigatielabel"
+
+#: lib/nav/edit_custom_walker.php:170
+msgid "Title Attribute"
+msgstr "Titel attribuut"
+
+#: lib/nav/edit_custom_walker.php:177
+msgid "Open link in a new tab"
+msgstr "Open link in nieuw tabblad"
+
+#: lib/nav/edit_custom_walker.php:182
+msgid "CSS Classes (optional)"
+msgstr "CSS klassen (optioneel)"
+
+#: lib/nav/edit_custom_walker.php:188
+msgid "Link Relationship (XFN)"
+msgstr "Link relatie (XFN)"
+
+#: lib/nav/edit_custom_walker.php:196
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"De beschrijving zal in het menu getoond worden indien het huidige thema dit "
+"ondersteunt."
+
+#: lib/nav/edit_custom_walker.php:202
+msgid "Move"
+msgstr "Verplaats"
+
+#: lib/nav/edit_custom_walker.php:203
+msgid "Up one"
+msgstr "Eén omhoog"
+
+#: lib/nav/edit_custom_walker.php:204
+msgid "Down one"
+msgstr "Eén omlaag"
+
+#: lib/nav/edit_custom_walker.php:207
+msgid "To the top"
+msgstr "Helemaal naar boven"
+
+#: lib/nav/edit_custom_walker.php:217
+msgid "Menu type"
+msgstr ""
+
+#: lib/nav/edit_custom_walker.php:245
+msgid "Force megamenu fullscreen"
+msgstr "Forceer megamenu over volledig scherm"
+
+#: lib/nav/edit_custom_walker.php:251
+msgid "Extra HTML"
+msgstr ""
+
+#: lib/nav/edit_custom_walker.php:253
+msgid ""
+"Use a key and value on each line like this: <br>image : image_url <br>video : "
+"video_url"
+msgstr ""
+"Gebruik een sleutel en waarde per lijn zoals in: <br>image : image_url "
+"<br>video : video_url"
+
+#: lib/nav/edit_custom_walker.php:260
+msgid "Hide the menu item label"
+msgstr "Verberg het menu item label"
+
+#: lib/nav/edit_custom_walker.php:271
+#, php-format
+msgid "Original: %s"
+msgstr "Origineel: %s"
+
+#: lib/nav/edit_custom_walker.php:284
+msgid "Remove"
+msgstr "Verwijder"
+
+#: lib/nav/edit_custom_walker.php:285
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: lib/nav/menu-limit-detector.php:28
+msgid ""
+"Your server is running Suhosin, and your current maxvars settings may limit "
+"the number of menu items you can save."
+msgstr ""
+"Je draait Suhosin, en de huidige instelling voor maxvars zou kunnen beperken "
+"hoeveel menu items je kan bewaren."
+
+#: lib/nav/menu-limit-detector.php:35
+msgid ""
+"You are approaching the post variable limit imposed by your server "
+"configuration.  Exceeding this limit may automatically delete menu items when "
+"you save.  Please increase your <strong>max_input_vars/suhosin_post_maxvars/"
+"suhosin_request_maxvars</strong> directive in php.ini.  <a href='http://goo."
+"gl/9jm7s'>More information</a>"
+msgstr ""
+"Je komt dichtbij de in serverconfiguratie opgelegde limiet van het aantal "
+"berichtvariabelen. Deze limiet overschrijden kan als gevolg hebben dat er "
+"automatisch menuitems gewist worden bij het bewaren. Gelieve uw "
+"<strong>max_input_vars/suhosin_post_maxvars/suhosin_request_maxvars</strong> "
+"directieve in php.ini te verhogen.  <a href='http://goo.gl/9jm7s'>Meer "
+"informatie</a>"
+
+#: lib/nav/menu-limit-detector.php:42
+msgid "Menu Item Limit Warning"
+msgstr "Waarschuwing limiet aantal menu items"
+
+#: lib/nav/menu-limit-detector.php:55
+msgid "Menu Item Post variable count on last save"
+msgstr "Aantal menu item variabelen in laatst opgeslagen versie bericht "
+
+#: lib/nav/menu-limit-detector.php:59
+msgid "Approximate remaining menu items"
+msgstr "Aantal overgebleven menu items bij benadering"
+
+#: lib/sidebars.php:10
+msgid "Page Sidebar"
+msgstr "Pagina zijbalk"
+
+#: lib/sidebars.php:11
+msgid "Posts Sidebar"
+msgstr "Zijbalk berichten"
+
+#: lib/sidebars.php:12
+msgid "Search Sidebar"
+msgstr "Zijbalk zoeken"
+
+#: lib/sidebars.php:13
+msgid "Shop Sidebar"
+msgstr "Zijbalk webwinkel"
+
+#: lib/sidebars.php:14
+msgid "Product Sidebar"
+msgstr "Zijbalk product"
+
+#: lib/sidebars.php:15
+msgid "Footer First Sidebar"
+msgstr "Footer eerste zijbalk"
+
+#: lib/sidebars.php:16
+msgid "Footer Second Sidebar"
+msgstr "Footer tweede zijbalk"
+
+#: lib/sidebars.php:17
+msgid "Footer Third Sidebar"
+msgstr "Footer derde zijbalk"
+
+#: lib/sidebars.php:18
+msgid "Footer Fourth Sidebar"
+msgstr "Footer vierde zijbalk"
+
+#: lib/theme-woocommerce.php:79
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: lib/theme-woocommerce.php:384
+msgid "View your shopping cart"
+msgstr "Bekijk winkelmandje"
+
+#: lib/theme-woocommerce.php:388
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/twitter/twitter.php:36
+#, php-format
+msgid "%s ago"
+msgstr "%s geleden"
+
+#: lib/twitter/twitter.php:38
+msgid "Y/m/d"
+msgstr "J/m/d"
+
+#: lib/twitter/twitter.php:40
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: lib/twitter/twitter.php:64
+msgid "Y/m/d H:i:s"
+msgstr "J/m/d U:i:s"
+
+#: lib/widgets/contact-widget.php:13
+msgid "Contact Widget"
+msgstr "Contact widget"
+
+#: lib/widgets/contact-widget.php:14
+msgid "Contact us Widget"
+msgstr "Contacteer ons Widget"
+
+#: lib/widgets/contact-widget.php:41
+msgid "Get directions"
+msgstr "Routebeschrijving ophalen"
+
+#: lib/widgets/contact-widget.php:79 lib/widgets/flickr-widget.php:54
+#: lib/widgets/social-icons-widget.php:68
+#: lib/widgets/working-hours-widget.php:72
+msgid "Title:"
+msgstr "Titel:"
+
+#: lib/widgets/contact-widget.php:85
+msgid "Your Phone:"
+msgstr "Je telefoonnummer:"
+
+#: lib/widgets/contact-widget.php:90
+msgid "Your Fax:"
+msgstr "Je fax:"
+
+#: lib/widgets/contact-widget.php:96
+msgid "Your Email:"
+msgstr "Je email:"
+
+#: lib/widgets/contact-widget.php:102
+msgid "Your Address:"
+msgstr "Je adres:"
+
+#: lib/widgets/contact-widget.php:107
+msgid "Directions:"
+msgstr "Routebeschrijving:"
+
+#: lib/widgets/contact-widget.php:109
+msgid ""
+"Insert the longitude and latitude coordinates separated by comma. E.g.: "
+"43.2238916,-76.2575936"
+msgstr ""
+"Voer lengte- en breedtegraad coördinaten in, gescheiden door een komma. Bv: "
+"43.2238916,-76.2575936"
+
+#: lib/widgets/contact-widget.php:114
+msgid "Extra details:"
+msgstr ""
+
+#: lib/widgets/flickr-widget.php:13
+msgid "Flickr Widget"
+msgstr ""
+
+#: lib/widgets/flickr-widget.php:14
+msgid "Display up to 20 of your latest Flickr submissions"
+msgstr "Toon tot 20 van je laatste Flickr inzendingen"
+
+#: lib/widgets/flickr-widget.php:35
+msgid "View stream on flickr"
+msgstr "Bekijk stroom op Flickr"
+
+#: lib/widgets/flickr-widget.php:48
+msgid "Photostream"
+msgstr "Fotostroom"
+
+#: lib/widgets/flickr-widget.php:59
+#, php-format
+msgid ""
+"Flickr ID (To find your flickID visit <a href=\"%s\" target=\"_blank"
+"\">idGettr</a>)"
+msgstr ""
+"Flickr ID (Om je flickID terug te vinden, ga naar <a href=\"%s\" target="
+"\"_blank\">idGettr</a>)"
+
+#: lib/widgets/flickr-widget.php:64
+msgid "Count:"
+msgstr "Aantal:"
+
+#: lib/widgets/instagram-widget.php:13
+msgid "Displays your latest Instagram photos"
+msgstr "Toont je meest recente instagram foto's"
+
+#: lib/widgets/instagram-widget.php:40
+msgid "Instagram Followers"
+msgstr "Instagram volgers"
+
+#: lib/widgets/instagram-widget.php:92
+msgid "Follow Us"
+msgstr "Volg Ons"
+
+#: lib/widgets/instagram-widget.php:99
+msgid "Title"
+msgstr "Titel"
+
+#: lib/widgets/instagram-widget.php:100
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: lib/widgets/instagram-widget.php:101
+msgid "Number of photos"
+msgstr "Aantal foto's"
+
+#: lib/widgets/instagram-widget.php:102
+msgid "Number of followers"
+msgstr "Aantal volgers"
+
+#: lib/widgets/instagram-widget.php:104
+msgid "Link text"
+msgstr "Link tekst"
+
+#: lib/widgets/instagram-widget.php:130
+msgid "Unable to communicate with Instagram."
+msgstr "Communicatie met instagram niet mogelijk."
+
+#: lib/widgets/instagram-widget.php:133
+msgid "Instagram did not return a 200."
+msgstr "Instagram gaf geen 200 terug."
+
+#: lib/widgets/instagram-widget.php:140 lib/widgets/instagram-widget.php:145
+#: lib/widgets/instagram-widget.php:149
+msgid "Instagram has returned invalid data."
+msgstr "Instagram heeft ongeldige gegevens teruggegeven."
+
+#: lib/widgets/instagram-widget.php:167
+msgid "Instagram Image"
+msgstr "Instagram afbeelding"
+
+#: lib/widgets/instagram-widget.php:202
+msgid "Instagram did not return any images."
+msgstr "Instagram gaf geen afbeeldingen terug."
+
+#: lib/widgets/social-icons-widget.php:13
+msgid "Social Icons Widget"
+msgstr "Sociale Iconen Widget"
+
+#: lib/widgets/social-icons-widget.php:14
+msgid "Display a list of social icons"
+msgstr "Toon een lijst van sociale iconen"
+
+#: lib/widgets/working-hours-widget.php:13
+msgid "Working Hours Widget"
+msgstr "Openingsuren Widget"
+
+#: lib/widgets/working-hours-widget.php:14
+msgid "Display your business working hours"
+msgstr "Toon openingstijden voor je zaak"
+
+#: lib/widgets/working-hours-widget.php:37
+msgid "Monday - Friday"
+msgstr "Maandag - Vrijdag"
+
+#: lib/widgets/working-hours-widget.php:40
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#: lib/widgets/working-hours-widget.php:43
+msgid "Sunday"
+msgstr "Zondag"
+
+#: lib/widgets/working-hours-widget.php:61
+msgid "Working hours"
+msgstr "Openingsuren"
+
+#: lib/widgets/working-hours-widget.php:77
+msgid "Monday - Friday:"
+msgstr "Maandag - Vrijdag:"
+
+#: lib/widgets/working-hours-widget.php:82
+msgid "Saturday:"
+msgstr "Zaterdag:"
+
+#: lib/widgets/working-hours-widget.php:87
+msgid "Sunday:"
+msgstr "Zondag:"
+
+#: lib/widgets/working-hours-widget.php:92
+msgid "Other details:"
+msgstr "Andere details:"
+
+#: lib/woocommerce-sold-out.php:16 woocommerce/sold-out-flash.php:8
+msgid "Sold Out!"
+msgstr "Uitverkocht"
+
+#: lib/woocommerce-year-field.php:16 woocommerce/loop/price.php:42
+msgid "Year"
+msgstr "Jaargang"
+
+#: lib/woocommerce-year-field.php:18
+msgid "Enter the year here"
+msgstr "Voer hier het jaar in"
+
+#: lib/woocommerce-year-field.php:30
+msgid "Bottle size"
+msgstr "Flesgrootte"
+
+#: lib/woocommerce-year-field.php:32
+msgid "Enter the bottle size here"
+msgstr "Voer hier flesgrootte in"
+
+#: parts/forms/part-contact-form.php:22 parts/forms/part-contact-miniform.php:18
+msgid "The name is required and cannot be empty"
+msgstr "Naam is vereist en kan niet leeg gelaten worden"
+
+#: parts/forms/part-contact-form.php:26 parts/forms/part-contact-miniform.php:22
+msgid "The email is required and cannot be empty"
+msgstr "Email adres is vereist en kan niet leeg gelaten worden"
+
+#: parts/forms/part-contact-form.php:26 parts/forms/part-contact-miniform.php:22
+msgid "The input is not a valid email address"
+msgstr "Ingevoerd email adres is ongeldig"
+
+#: parts/forms/part-contact-form.php:29 parts/forms/part-contact-form.php:30
+msgid "Phone number"
+msgstr "Telefoonnummer:"
+
+#: parts/forms/part-contact-form.php:30
+msgid "The phone number is required and cannot be empty"
+msgstr "Telefoonnummer is vereist en kan niet leeg gelaten worden"
+
+#: parts/forms/part-contact-form.php:34
+msgid "The subject is required and cannot be empty"
+msgstr "Onderwerp is vereist en kan niet leeg gelaten worden"
+
+#: parts/forms/part-contact-form.php:38 parts/forms/part-contact-miniform.php:26
+msgid "The message is required and cannot be empty"
+msgstr "Bericht is vereist en kan niet leeg gelaten worden"
+
+#: parts/forms/part-contact-form.php:44 parts/forms/part-contact-miniform.php:31
+msgid "Send"
+msgstr "Verstuur"
+
+#: parts/gallery/part-gallery-single.php:34 parts/gallery/part-gallery.php:47
+#: parts/part-page.php:16 parts/post-formats/part.php:37
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: parts/gallery/part-gallery.php:42 parts/post-formats/part-vc-default.php:23
+#: parts/post-formats/part.php:32
+#, php-format
+msgid "Continue reading %s"
+msgstr "Lees verder %s"
+
+#: parts/part-searchform-toolbar.php:13
+msgid "search for products"
+msgstr "Zoeken naar producten"
+
+#: parts/post-formats/part-none.php:15
+msgid "Nothing Found"
+msgstr "Niets teruggevonden"
+
+#: parts/post-formats/part-none.php:21
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Het spijt ons, er werd niets gevonden. Misschien kan u een gerelateerd "
+"bericht vinden met de zoekfunctie."
+
+#: single.php:25
+msgid "Previous post"
+msgstr "Vorig bericht"
+
+#: single.php:26
+msgid "Next post"
+msgstr "Volgend bericht"
+
+#: theme-templates/contact.php:36
+msgid "View map"
+msgstr "Bekijk kaart"
+
+#: tribe-events/day/single-event.php:48 tribe-events/list/single-event.php:54
+msgid "Price - "
+msgstr "Prijs - "
+
+#: tribe-events/day/single-event.php:52 tribe-events/list/single-event.php:57
+msgid "Find out more"
+msgstr "Meer weten"
+
+#: tribe-events/modules/bar.php:30 tribe-events/modules/bar.php:45
+#, php-format
+msgid "Find %s"
+msgstr "Zoek %s"
+
+#: tribe-events/modules/bar.php:57
+msgid "Event Views Navigation"
+msgstr "Evenement Views Navigatie"
+
+#: tribe-events/modules/bar.php:58
+msgid "View As"
+msgstr "Bekijk als"
+
+#: tribe-events/single-event.php:77
+#, php-format
+msgid "%s Navigation"
+msgstr "%s Navigatie"
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr "Totaal winkelmandje"
+
+#: woocommerce/cart/cart-totals.php:32 woocommerce/cart/cart-totals.php:33
+msgid "Subtotal"
+msgstr "Subtotaal"
+
+#: woocommerce/cart/cart-totals.php:54 woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr "Transport"
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr "geschat op %s"
+
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:118
+msgid "Total"
+msgstr "Totaal"
+
+#: woocommerce/cart/cart-totals.php:100
+msgid "Update Cart"
+msgstr "Winkelmandje bijwerken"
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:77
+msgid "Product"
+msgstr "Artikel"
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:95
+#: woocommerce/loop/price.php:51
+msgid "Price"
+msgstr "Prijs"
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:101
+msgid "Quantity"
+msgstr "Hoeveelheid"
+
+#: woocommerce/cart/cart.php:58
+msgid "Remove this item"
+msgstr "Verwijder dit artikel"
+
+#: woocommerce/cart/cart.php:90
+msgid "Available on backorder"
+msgstr "Beschikbaar voor nalevering"
+
+#: woocommerce/cart/cart.php:137 woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr "Coupon code"
+
+#: woocommerce/cart/cart.php:141
+msgid "Apply"
+msgstr "Toepassen"
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr "Facturatie &amp; Verzending"
+
+#: woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr "Facturatiegegevens"
+
+#: woocommerce/checkout/form-billing.php:41
+msgid "Ship to a different address?"
+msgstr "Leveren naar een ander adres? "
+
+#: woocommerce/checkout/form-billing.php:65
+msgid "Create an account?"
+msgstr "Account creëren? "
+
+#: woocommerce/checkout/form-billing.php:76
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Gelieve een account te creëren door onderstaande gegevens in te vullen. Bent "
+"u reeds geregistreerd, meld u dan aan bovenaan de pagina."
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "U dient aangemeld te zijn om te kunnen bestellen."
+
+#: woocommerce/checkout/form-checkout.php:50
+msgid "Your order"
+msgstr "Uw bestelling"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr "Heeft u een coupon? "
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr "Klik hier om je code in te voeren"
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Apply Coupon"
+msgstr "Pas coupon toe"
+
+#: woocommerce/checkout/form-shipping.php:20
+msgid "Shipping Details"
+msgstr "Leveringsgegevens"
+
+#: woocommerce/checkout/form-shipping.php:42
+msgid "Additional Information"
+msgstr "Bijkomende informatie"
+
+#. Theme Name of the plugin/theme
+msgid "Villenoir"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://okthemes.com/villenoir"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Vineyard, Winery  & Wine WooCommerce shop"
+msgstr "Wijngaard, Wijnmaker & Wijn WooCommerce Winkel"
+
+#. Author of the plugin/theme
+msgid "Cristian Gogoneata"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.okthemes.com"
+msgstr "http://www.okthemes.com"
